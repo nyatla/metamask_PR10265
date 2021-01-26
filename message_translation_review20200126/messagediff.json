@@ -4,28 +4,28 @@
         null,
         "バージョン情報",
         null,
-        null
+        "バージョン情報"
     ],
     "aboutSettingsDescription": [
         "Version, support center, and contact info",
         "バージョンやサポート、問合せ先など",
         "バージョン、サポート センター、および連絡先情報",
         null,
-        null
+        "バージョン、サポートセンター、問い合わせ情報"
     ],
     "acceleratingATransaction": [
         "* Accelerating a transaction by using a higher gas price increases its chances of getting processed by the network faster, but it is not always guaranteed.",
         "*より高いガス価格を使用すると、ネットワークでより速く処理され、トランザクションを高速化できる可能性が高くなりますが、常に保証されるとは限りません。",
         "* より高いガス価格を使用してトランザクションを加速するとネットワーク処理の高速化の可能性が増しますが、これは常に保証されるとは限りません。",
         null,
-        null
+        "* より高いガス料金を支払うと、トランザクションはより早くネットワークで処理される可能性が高くなります。ただし、これは常に保証されるとは限りません。"
     ],
     "acceptTermsOfUse": [
         "I have read and agree to the $1",
         null,
         "$1 を読んで同意しました",
         "$1 is the `terms` message",
-        null
+        "$1の内容を確認し、同意します"
     ],
     "accessAndSpendNotice": [
         "$1 may access and spend up to this max amount",
@@ -39,28 +39,28 @@
         "カメラにアクセスしています...",
         "カメラにアクセス中...",
         null,
-        null
+        "カメラにアクセスしています..."
     ],
     "account": [
         "Account",
         "アカウント",
         "アカウント",
         null,
-        null
+        "アカウント"
     ],
     "accountDetails": [
         "Account details",
         "アカウント詳細",
         "アカウントの詳細",
         null,
-        null
+        "アカウントの詳細"
     ],
     "accountName": [
         "Account Name",
         "アカウント名",
         "アカウント名",
         null,
-        null
+        "アカウント名"
     ],
     "accountOptions": [
         "Account Options",
@@ -74,7 +74,7 @@
         "アカウントを選択してください。",
         "アカウントを選択する必要があります!",
         null,
-        null
+        "アカウントを選択する必要があります!"
     ],
     "active": [
         "Active",
@@ -95,7 +95,7 @@
         "アクティビティログ",
         "アクティビティのログ",
         null,
-        null
+        "アクティビティログ"
     ],
     "addAccount": [
         "Add an account",
@@ -557,28 +557,28 @@
         null,
         "キャンセルのガス手数料",
         null,
-        null
+        "キャンセルのガス手数料"
     ],
     "cancelled": [
         "Cancelled",
         null,
         "キャンセル済み",
         null,
-        null
+        "キャンセル済み"
     ],
     "chainId": [
         "Chain ID",
         null,
         "チェーン ID",
         null,
-        null
+        "チェーンID"
     ],
     "chromeRequiredForHardwareWallets": [
         "You need to use MetaMask on Google Chrome in order to connect to your Hardware Wallet.",
         null,
         "ハードウェア ウォレットに接続するには、MetaMask on Google Chrome を使用する必要があります。",
         null,
-        null
+        "ハードウェアウォレットへ接続するには、MetaMask on Google Chrome を使用する必要があります。"
     ],
     "clickToRevealSeed": [
         "Click here to reveal secret words",
@@ -592,21 +592,21 @@
         null,
         "閉じる",
         null,
-        null
+        "閉じる"
     ],
     "confirm": [
         "Confirm",
         "確認",
         "確認",
         null,
-        null
+        "確認"
     ],
     "confirmPassword": [
         "Confirm password",
         "パスワードの確認",
         "パスワードの確認",
         null,
-        null
+        "パスワードの確認"
     ],
     "confirmSecretBackupPhrase": [
         "Confirm your Secret Backup Phrase",
@@ -620,21 +620,21 @@
         null,
         "確認しました",
         null,
-        null
+        "確認しました"
     ],
     "congratulations": [
         "Congratulations",
         null,
         "おめでとうございます",
         null,
-        null
+        "おめでとうございます"
     ],
     "connect": [
         "Connect",
         null,
         "接続",
         null,
-        null
+        "接続"
     ],
     "connectAccountOrCreate": [
         "Connect account or create new",
@@ -704,14 +704,14 @@
         null,
         "このサイトに接続されているアカウントを $1 個持っています。",
         "$1 is the number of accounts",
-        null
+        "このサイトに接続されているアカウントは、$1個です。"
     ],
     "connectedAccountsDescriptionSingular": [
         "You have 1 account connected to this site.",
         null,
         "このサイトに接続されているアカウントを 1 個持っています。",
         null,
-        null
+        "このサイトに接続されているアカウントは、1個です。"
     ],
     "connectedAccountsEmptyDescription": [
         "MetaMask is not connected this site. To connect to a web3 site, find the connect button on their site.",
@@ -746,70 +746,70 @@
         null,
         "接続しています...",
         null,
-        null
+        "接続しています..."
     ],
     "connectingTo": [
         "Connecting to $1",
         null,
         "$1 への接続",
         null,
-        null
+        "$1への接続"
     ],
     "connectingToGoerli": [
         "Connecting to Goerli Test Network",
         null,
         "Goerli テスト ネットワークへの接続",
         null,
-        null
+        "Goerliテストネットワークへの接続"
     ],
     "connectingToKovan": [
         "Connecting to Kovan Test Network",
         null,
         "Kovan テスト ネットワークへの接続",
         null,
-        null
+        "Kovanテストネットワークへの接続"
     ],
     "connectingToMainnet": [
         "Connecting to Ethereum Mainnet",
         null,
         "イーサリアム メインネットへの接続",
         null,
-        null
+        "Ethereumメインネットへの接続"
     ],
     "connectingToRinkeby": [
         "Connecting to Rinkeby Test Network",
         null,
         "Rinkeby テスト ネットワークへの接続",
         null,
-        null
+        "Rinkebyテストネットワークへの接続"
     ],
     "connectingToRopsten": [
         "Connecting to Ropsten Test Network",
         null,
         "Ropsten テスト ネットワークへの接続",
         null,
-        null
+        "Ropstenテストネットワークへ接続"
     ],
     "contactUs": [
         "Contact us",
         null,
         "当社連絡先",
         null,
-        null
+        "問い合わせ"
     ],
     "contacts": [
         "Contacts",
         null,
         "連絡先",
         null,
-        null
+        "アドレス帳"
     ],
     "contactsSettingsDescription": [
         "Add, edit, remove, and manage your contacts",
         null,
         "連絡先の追加、編集、削除、管理",
         null,
-        null
+        "アドレス帳の追加、編集、削除、管理"
     ],
     "continueToWyre": [
         "Continue to Wyre",
@@ -823,7 +823,7 @@
         "コントラクトのデプロイ",
         "コントラクトの展開",
         null,
-        null
+        "コントラクトのデプロイ"
     ],
     "contractInteraction": [
         "Contract Interaction",
@@ -851,21 +851,21 @@
         null,
         "アドレスをクリップボードにコピー",
         null,
-        null
+        "アドレスをクリップボードにコピーしました"
     ],
     "copyPrivateKey": [
         "This is your private key (click to copy)",
         "これはあなたの秘密鍵です(クリックでコピー)",
         "これは秘密鍵です (クリックしてコピー)",
         null,
-        null
+        "これはあなたの秘密鍵です(クリックでコピー)"
     ],
     "copyToClipboard": [
         "Copy to clipboard",
         "クリップボードへコピー",
         "クリップボードにコピー",
         null,
-        null
+        "クリップボードへコピー"
     ],
     "copyTransactionId": [
         "Copy Transaction ID",
@@ -886,35 +886,35 @@
         null,
         "ウォレットの作成",
         null,
-        null
+        "ウォレットの作成"
     ],
     "createAccount": [
         "Create Account",
         "アカウント作成",
         "アカウントの作成",
         null,
-        null
+        "アカウント作成"
     ],
     "createPassword": [
         "Create Password",
         null,
         "パスワードの作成",
         null,
-        null
+        "パスワードの作成"
     ],
     "currencyConversion": [
         "Currency Conversion",
         null,
         "通貨換算",
         null,
-        null
+        "通貨換算"
     ],
     "currentAccountNotConnected": [
         "Your current account is not connected",
         null,
         "現在のアカウントは接続されていません",
         null,
-        null
+        "現在のアカウントは接続されていません"
     ],
     "currentExtension": [
         "Current extension page",
@@ -977,14 +977,14 @@
         "小数点桁数",
         "小数精度",
         null,
-        null
+        "小数点桁数"
     ],
     "decimalsMustZerotoTen": [
         "Decimals must be at least 0, and not over 36.",
         null,
         "小数桁数は 0 以上、36 以下の範囲で使用する必要があります。",
         null,
-        null
+        "小数桁数は、0以上36以下の範囲にする必要があります。"
     ],
     "decrypt": [
         "Decrypt",
@@ -1019,63 +1019,63 @@
         null,
         "メッセージの復号",
         null,
-        null
+        "メッセージを復号"
     ],
     "decryptRequest": [
         "Decrypt request",
         null,
         "リクエストの復号",
         null,
-        null
+        "リクエストを復号"
     ],
     "defaultNetwork": [
         "The default network for Ether transactions is Main Net.",
         "デフォルトのEther送受信ネットワークはメインネットです。",
         "Ether 取引のためのデフォルトのネットワークはメインネットです。",
         null,
-        null
+        "デフォルトのEther取引ネットワークはメインネットです。"
     ],
     "delete": [
         "Delete",
         null,
         "削除",
         null,
-        null
+        "削除"
     ],
     "deleteAccount": [
         "Delete Account",
         null,
         "アカウントの削除",
         null,
-        null
+        "アカウントの削除"
     ],
     "deleteNetwork": [
         "Delete Network?",
         null,
         "ネットワークを削除しますか?",
         null,
-        null
+        "ネットワークを削除しますか?"
     ],
     "deleteNetworkDescription": [
         "Are you sure you want to delete this network?",
         null,
         "このネットワークを削除しますか?",
         null,
-        null
+        "本当にこのネットワークを削除しますか?"
     ],
     "depositEther": [
         "Deposit Ether",
         "Etherを振込",
         "Ether 入金",
         null,
-        null
+        "Etherを振込"
     ],
     "details": [
         "Details",
         "詳細",
         "詳細",
         null,
-        null
+        "詳細"
     ],
     "directDepositEther": [
         "Directly Deposit Ether",
@@ -1096,28 +1096,28 @@
         null,
         "接続解除",
         null,
-        null
+        "切断"
     ],
     "disconnectAllAccounts": [
         "Disconnect all accounts",
         null,
         "すべてのアカウントの接続解除",
         null,
-        null
+        "すべてのアカウントを切断する"
     ],
     "disconnectAllAccountsConfirmationDescription": [
         "Are you sure you want to disconnect? You may lose site functionality.",
         null,
         "本当に接続解除しますか?サイトの機能を失う可能性があります。",
         null,
-        null
+        "本当に切断しますか?サイトの機能を失う可能性があります。"
     ],
     "disconnectPrompt": [
         "Disconnect $1",
         null,
         "$1 の接続解除",
         null,
-        null
+        "$1を切断"
     ],
     "disconnectThisAccount": [
         "Disconnect this account",
@@ -1327,77 +1327,77 @@
         "パスワードを入力",
         "パスワードを入力してください",
         null,
-        null
+        "パスワードを入力してください"
     ],
     "enterPasswordContinue": [
         "Enter password to continue",
         null,
         "続行するには、パスワードを入力してください",
         null,
-        null
+        "続行するには、パスワードを入力してください"
     ],
     "errorCode": [
         "Code: $1",
         null,
         "コード:$1",
         "Displayed error code for debugging purposes. $1 is the error code",
-        null
+        "コード:$1"
     ],
     "errorDetails": [
         "Error Details",
         null,
         "エラーの詳細",
         "Title for collapsible section that displays error details for debugging purposes",
-        null
+        "エラーの詳細"
     ],
     "errorMessage": [
         "Message: $1",
         null,
         "メッセージ:$1",
         "Displayed error message for debugging purposes. $1 is the error message",
-        null
+        "メッセージ:$1"
     ],
     "errorName": [
         "Code: $1",
         null,
         "コード:$1",
         "Displayed error name for debugging purposes. $1 is the error name",
-        null
+        "エラー名:$1"
     ],
     "errorPageMessage": [
         "Try again by reloading the page, or contact support at support@metamask.io",
         null,
         "ページを再ロードしてもう一度実行するか、サポート担当者 (support@metamask.io) までお問い合わせください",
         "Message displayed on generic error page in the fullscreen or notification UI",
-        null
+        "ページをリロードして再試行するか、サポート(support@metamask.io)までお問い合わせください"
     ],
     "errorPagePopupMessage": [
         "Try again by closing and reopening the popup, or contact support at support@metamask.io",
         null,
         "ポップアップを閉じてから再び開いてもう一度実行するか、サポート担当者 (support@metamask.io) までお問い合わせください",
         "Message displayed on generic error page in the popup UI",
-        null
+        "ポップアップを閉じてから再び開いてもう一度実行するか、サポート(support@metamask.io)までお問い合わせください"
     ],
     "errorPageTitle": [
         "MetaMask encountered an error",
         null,
         "MetaMask にエラーが発生しました",
         "Title of generic error page",
-        null
+        "MetaMaskにエラーが発生しました"
     ],
     "errorStack": [
         "Stack:",
         null,
         "スタック:",
         "Title for error stack, which is displayed for debugging purposes",
-        null
+        "スタック:"
     ],
     "estimatedProcessingTimes": [
         "Estimated Processing Times",
         null,
         "推定処理時間",
         null,
-        null
+        "推定処理時間"
     ],
     "eth_accounts": [
         "View the addresses of your permitted accounts (required)",
@@ -1411,42 +1411,42 @@
         null,
         "パブリック イーサリアム アドレス",
         null,
-        null
+        "パブリックEthereumアドレス"
     ],
     "etherscan": [
         "Etherscan",
         null,
         "Etherscan",
         null,
-        null
+        "Etherscan"
     ],
     "etherscanView": [
         "View account on Etherscan",
         "Etherscanでアカウントを確認",
         "Etherscan でアカウントを表示",
         null,
-        null
+        "Etherscanでアカウントを表示"
     ],
     "expandView": [
         "Expand view",
         null,
         "ビューの展開",
         null,
-        null
+        "ウインドウで表示"
     ],
     "exportPrivateKey": [
         "Export Private Key",
         "秘密鍵のエクスポート",
         "秘密鍵のエクスポート",
         null,
-        null
+        "秘密鍵のエクスポート"
     ],
     "externalExtension": [
         "External Extension",
         null,
         "外部拡張機能",
         null,
-        null
+        "外部拡張機能"
     ],
     "extraApprovalGas": [
         "+$1 approval gas",
@@ -1467,28 +1467,28 @@
         null,
         "チェーン ID を取り込むことができませんでした。お使いの RPC URL は正しいですか?",
         null,
-        null
+        "チェーンIDを取り込むことができませんでした。RPCのURLが正しいか確認してください。"
     ],
     "failureMessage": [
         "Something went wrong, and we were unable to complete the action",
         null,
         "問題が発生しました。アクションを完了することができません",
         null,
-        null
+        "問題が発生しました。アクションを完了することができません"
     ],
     "fast": [
         "Fast",
         null,
         "高速",
         null,
-        null
+        "高速"
     ],
     "fastest": [
         "Fastest",
         null,
         "最も高速",
         null,
-        null
+        "最高速"
     ],
     "feeAssociatedRequest": [
         "A fee is associated with this request.",
@@ -1502,7 +1502,7 @@
         "法定通貨",
         "フィアット",
         "Exchange type",
-        null
+        "法定通貨"
     ],
     "fileImportFail": [
         "File import not working? Click here!",
@@ -1558,21 +1558,21 @@
         "ガスリミット",
         "ガス リミット",
         null,
-        null
+        "ガスリミット"
     ],
     "gasLimitInfoTooltipContent": [
         "Gas limit is the maximum amount of units of gas you are willing to spend.",
         null,
         "ガス リミットは使用するガスの単位の最大量です。",
         null,
-        null
+        "ガスリミットは、使用するガスの最大量です。"
     ],
     "gasLimitTooLow": [
         "Gas limit must be at least 21000",
         "ガスリミットは最低21000です。",
         "ガス リミットは 21000 以上にする必要があります",
         null,
-        null
+        "ガスリミットは21000以上にする必要があります"
     ],
     "gasLimitTooLowWithDynamicFee": [
         "Gas limit must be at least $1",
@@ -1586,21 +1586,21 @@
         "ガスプライス (GWEI)",
         "ガス価格 (GWEI)",
         null,
-        null
+        "ガス価格 (GWEI)"
     ],
     "gasPriceExtremelyLow": [
         "Gas Price Extremely Low",
         null,
         "ガス価格が非常に安くなっています",
         null,
-        null
+        "ガス価格が小さすぎます"
     ],
     "gasPriceInfoTooltipContent": [
         "Gas price specifies the amount of Ether you are willing to pay for each unit of gas.",
         null,
         "ガス価格は、ガスの単位ごとに支払う Ether の額を指定します。",
         null,
-        null
+        "ガス価格は1ガス当たりのEther価格を指定します。"
     ],
     "gasUsed": [
         "Gas Used",
@@ -1621,28 +1621,28 @@
         null,
         "プライバシー ポリシーはここにあります",
         "this translation is intended to be exclusively used as the replacement for the $1 in the gdprMessage translation",
-        null
+        "プライバシーポリシーはこちら"
     ],
     "general": [
         "General",
         null,
         "一般",
         null,
-        null
+        "一般"
     ],
     "generalSettingsDescription": [
         "Currency conversion, primary currency, language, blockies identicon",
         null,
         "通貨換算、プライマリ通貨、言語、Blockies アイデンティコン",
         null,
-        null
+        "通貨換算、通貨単位、言語、アカウントのidenticon"
     ],
     "getEther": [
         "Get Ether",
         "Etherを取得する",
         "Ether の取得",
         null,
-        null
+        "Etherを取得する"
     ],
     "getEtherFromFaucet": [
         "Get Ether from a faucet for the $1",
@@ -1670,7 +1670,7 @@
         null,
         "Goerli テストネットワーク",
         null,
-        null
+        "Goerliテストネットワーク"
     ],
     "happyToSeeYou": [
         "We’re happy to see you.",
@@ -1684,7 +1684,7 @@
         null,
         "ハードウェア",
         null,
-        null
+        "ハードウェア"
     ],
     "hardwareWalletConnected": [
         "Hardware wallet connected",
@@ -1719,14 +1719,14 @@
         "ここ",
         "こちら",
         "as in -click here- for more information (goes with troubleTokenBalances)",
-        null
+        "ここ"
     ],
     "hexData": [
         "Hex Data",
         null,
         "16 進データ",
         null,
-        null
+        "16進数データ"
     ],
     "hide": [
         "Hide",
@@ -1740,21 +1740,21 @@
         "トークンを隠しますか?",
         "トークンを非表示にしますか?",
         null,
-        null
+        "トークンを非表示にしますか?"
     ],
     "hideTokenSymbol": [
         "Hide $1",
         null,
         "$1 を非表示にする",
         "$1 is the symbol for a token (e.g. 'DAI')",
-        null
+        "$1を非表示にする"
     ],
     "history": [
         "History",
         null,
         "履歴",
         null,
-        null
+        "履歴"
     ],
     "import": [
         "Import",
@@ -1831,35 +1831,35 @@
         null,
         "残高が不十分です。",
         null,
-        null
+        "残高が不足しています。"
     ],
     "insufficientFunds": [
         "Insufficient funds.",
         "残高不足",
         "資金が不十分です。",
         null,
-        null
+        "残高が不足しています。"
     ],
     "insufficientTokens": [
         "Insufficient tokens.",
         null,
         "トークンが不十分です。",
         null,
-        null
+        "トークンが不足しています。"
     ],
     "invalidAddress": [
         "Invalid address",
         "アドレスが無効です。",
         "無効なアドレス",
         null,
-        null
+        "無効なアドレスです"
     ],
     "invalidAddressRecipient": [
         "Recipient address is invalid",
         null,
         "送金先アドレスが無効です",
         null,
-        null
+        "無効な送金先アドレスです"
     ],
     "invalidAddressRecipientNotEthNetwork": [
         "Not ETH network, set to lowercase",
@@ -1873,21 +1873,21 @@
         null,
         "無効な Block Explorer URL です",
         null,
-        null
+        "無効なブロックエクスプローラURLです。"
     ],
     "invalidChainIdTooBig": [
         "Invalid chain ID. The chain ID is too big.",
         null,
         null,
         null,
-        null
+        "無効なチェーンIDです。チェーンIDが大きすぎます。"
     ],
     "invalidCustomNetworkAlertContent1": [
         "The chain ID for custom network '$1' has to be re-entered.",
         null,
         "カスタム ネットワーク '$1' のチェーン ID の再入力が必要です。",
         "$1 is the name/identifier of the network.",
-        null
+        "カスタムネットワーク'$1'のチェーンIDを再入力してください。"
     ],
     "invalidCustomNetworkAlertContent2": [
         "To protect you from malicious or faulty network providers, chain IDs are now required for all custom networks.",
@@ -1908,35 +1908,35 @@
         null,
         "無効なカスタム ネットワークです",
         null,
-        null
+        "無効なカスタムネットワークです"
     ],
     "invalidHexNumber": [
         "Invalid hexadecimal number.",
         null,
         "無効な 10 進数です。",
         null,
-        null
+        "無効な10進数です。"
     ],
     "invalidHexNumberLeadingZeros": [
         "Invalid hexadecimal number. Remove any leading zeros.",
         null,
         "無効な 10 進数です。先行ゼロを削除します。",
         null,
-        null
+        "無効な10進数です。先頭の0を削除してください。"
     ],
     "invalidIpfsGateway": [
         "Invalid IPFS Gateway: The value must be a valid URL",
         null,
         "無効な IPFS ゲートウェイです:値が有効な URL になる必要があります",
         null,
-        null
+        "無効なIPFSゲートウェイです:正しいURLを設定してください。"
     ],
     "invalidNumber": [
         "Invalid number. Enter a decimal or '0x'-prefixed hexadecimal number.",
         null,
         "無効な数値です。10 進数、または '0x' が先行する 16 進数を入力します。",
         null,
-        null
+        "無効な数値です。10進数、または'0x'を付けた16進数を入力します。"
     ],
     "invalidNumberLeadingZeros": [
         "Invalid number. Remove any leading zeros.",
@@ -2027,7 +2027,7 @@
         null,
         "さあセットアップしましょう!",
         null,
-        null
+        "セットアップを始めましょう！"
     ],
     "likeToAddTokens": [
         "Would you like to add these tokens?",
@@ -2041,7 +2041,7 @@
         "リンク",
         "リンク",
         null,
-        null
+        "リンク"
     ],
     "loadMore": [
         "Load More",
@@ -2055,21 +2055,21 @@
         "ロード中...",
         "ロードしています...",
         null,
-        null
+        "ロードしています..."
     ],
     "loadingTokens": [
         "Loading Tokens...",
         "トークンをロード中...",
         "トークンをロードしています...",
         null,
-        null
+        "トークンをロードしています..."
     ],
     "localhost": [
         "Localhost 8545",
         null,
         "Localhost 8545",
         null,
-        null
+        "Localhost 8545"
     ],
     "lock": [
         "Lock",
@@ -2097,7 +2097,7 @@
         "最大",
         "最大",
         null,
-        null
+        "最大"
     ],
     "memo": [
         "memo",
@@ -2153,14 +2153,14 @@
         null,
         "MetaMask Swaps はメンテナンス中です。後でもう一度確認してください。",
         null,
-        null
+        "MetaMask Swapsはメンテナンス中です。後でもう一度確認してください。"
     ],
     "metamaskVersion": [
         "MetaMask Version",
         null,
         "MetaMask のバージョン",
         null,
-        null
+        "MetaMaskのバージョン"
     ],
     "metametricsCommitmentsAllowOptOut": [
         "Always allow you to opt-out via Settings",
