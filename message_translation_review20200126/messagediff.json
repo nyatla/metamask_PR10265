@@ -67,7 +67,7 @@
         "アカウント設定",
         "アカウントのオプション",
         null,
-        null
+        "アカウント設定"
     ],
     "accountSelectionRequired": [
         "You need to select an account!",
@@ -88,21 +88,21 @@
         null,
         "アクティビティ",
         null,
-        null
+        "アクティビティ"
     ],
     "activityLog": [
         "activity log",
         "アクティビティログ",
         "アクティビティのログ",
         null,
-        "アクティビティログ"
+        "アクティビティのログ"
     ],
     "addAccount": [
         "Add an account",
         null,
         "アカウントの追加",
         null,
-        null
+        "アカウントの追加"
     ],
     "addAcquiredTokens": [
         "Add the tokens you've acquired using MetaMask",
@@ -116,14 +116,14 @@
         "エイリアスを追加",
         "別名の追加",
         null,
-        null
+        "別名の追加"
     ],
     "addNetwork": [
         "Add Network",
         "ネットワーク追加",
         "ネットワークの追加",
         null,
-        null
+        "ネットワークの追加"
     ],
     "addRecipient": [
         "Add Recipient",
@@ -144,42 +144,42 @@
         "アドレス帳に追加",
         "アドレス帳への追加",
         null,
-        null
+        "アドレス帳へ追加"
     ],
     "addToAddressBookModalPlaceholder": [
         "e.g. John D.",
         "例: John D",
         "たとえば、John D.",
         null,
-        null
+        "例: John D"
     ],
     "addToken": [
         "Add Token",
         "トークンを追加",
         "トークンの追加",
         null,
-        null
+        "トークンを追加"
     ],
     "addTokens": [
         "Add Tokens",
         "トークンを追加",
         "トークンの追加",
         null,
-        null
+        "トークンを追加"
     ],
     "advanced": [
         "Advanced",
         "詳細",
         "詳細",
         null,
-        null
+        "詳細"
     ],
     "advancedOptions": [
         "Advanced Options",
         "詳細設定",
         "詳細オプション",
         null,
-        null
+        "詳細設定"
     ],
     "advancedSettingsDescription": [
         "Access developer features, download State Logs, Reset Account, setup testnets and custom RPC",
@@ -284,21 +284,21 @@
         "金額",
         "金額",
         null,
-        null
+        "金額"
     ],
     "amountInEth": [
         "$1 ETH",
         null,
         "$1 ETH",
         "Displays an eth amount to the user. $1 is a decimal number",
-        null
+        "$1 ETH"
     ],
     "amountWithColon": [
         "Amount:",
         null,
         "金額:",
         null,
-        null
+        "金額:"
     ],
     "appDescription": [
         "An Ethereum Wallet in your Browser",
@@ -354,28 +354,28 @@
         "アセット",
         "アセット",
         null,
-        null
+        "アセット"
     ],
     "assets": [
         "Assets",
         null,
         "アセット",
         null,
-        null
+        "アセット"
     ],
     "attemptToCancel": [
         "Attempt to Cancel?",
         "キャンセルを試みますか？",
         "キャンセルを試みますか?",
         null,
-        null
+        "キャンセルを要求しますか?"
     ],
     "attemptToCancelDescription": [
         "Submitting this attempt does not guarantee your original transaction will be cancelled. If the cancellation attempt is successful, you will be charged the transaction fee above.",
         "このキャンセルを送信しても、元のトランザクションがキャンセルされることは保証されません。キャンセルが成功した場合、上記の取引手数料が請求されます。",
         "この試みを送信しても、元のトランザクションのキャンセルは保証されません。キャンセルの試みが成功した場合、上記のトランザクション手数料が課金されます。",
         null,
-        null
+        "キャンセルを要求しても、取引のキャンセルは保証されません。キャンセルが成功した場合、上記の取引手数料が請求されます。"
     ],
     "attemptingConnect": [
         "Attempting to connect to blockchain.",
@@ -417,14 +417,14 @@
         "平均",
         "平均",
         null,
-        null
+        "平均"
     ],
     "back": [
         "Back",
         "戻る",
         "戻る",
         null,
-        null
+        "戻る"
     ],
     "backToAll": [
         "Back to All",
@@ -452,7 +452,7 @@
         null,
         "今すぐバックアップ",
         null,
-        null
+        "今すぐバックアップ"
     ],
     "balance": [
         "Balance",
@@ -480,7 +480,7 @@
         null,
         "ブロック エクスプローラー",
         null,
-        null
+        "ブロックエクスプローラ"
     ],
     "blockExplorerView": [
         "View account at $1",
@@ -501,42 +501,42 @@
         null,
         "ご使用のブラウザーはサポートされていません...",
         null,
-        null
+        "このブラウザーはサポートしていません。"
     ],
     "builtInCalifornia": [
         "MetaMask is designed and built in California.",
         null,
         "MetaMask はカリフォルニアで設計および作成されました。",
         null,
-        null
+        "MetaMaskはカリフォルニアで設計、作成されました。"
     ],
     "buy": [
         "Buy",
         null,
         "購入",
         null,
-        null
+        "入金"
     ],
     "buyWithWyre": [
         "Buy ETH with Wyre",
         null,
         "Wyre で ETH を購入",
         null,
-        null
+        "WyreでETHを購入"
     ],
     "buyWithWyreDescription": [
         "Wyre lets you use a debit card to deposit ETH right in to your MetaMask account.",
         null,
         "Wyre では、デビット カードを使用して、ETH を MetaMask アカウントに直接デポジットできます。",
         null,
-        null
+        "Wyreでは、デビットカードを使用してETHをMetaMaskアカウントに直接入金できます。"
     ],
     "bytes": [
         "Bytes",
         null,
         "バイト",
         null,
-        null
+        "バイト"
     ],
     "canToggleInSettings": [
         "You can re-enable this notification in Settings -> Alerts.",
@@ -550,7 +550,7 @@
         "キャンセル",
         "キャンセル",
         null,
-        null
+        "キャンセル"
     ],
     "cancellationGasFee": [
         "Cancellation Gas Fee",
@@ -641,21 +641,21 @@
         null,
         "アカウントを接続するか、または新規に作成します",
         null,
-        null
+        "アカウントを接続するか、または新規に作成します"
     ],
     "connectHardwareWallet": [
         "Connect Hardware Wallet",
         null,
         "ハードウェア ウォレットの接続",
         null,
-        null
+        "ハードウェアウォレットの接続"
     ],
     "connectManually": [
         "Manually connect to current site",
         null,
         "現在のサイトに手動で接続します",
         null,
-        null
+        "手動で現在のサイトに接続します"
     ],
     "connectTo": [
         "Connect to $1",
@@ -690,14 +690,14 @@
         null,
         "$1 アカウント",
         "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple",
-        null
+        "$1アカウント"
     ],
     "connectWithMetaMask": [
         "Connect With MetaMask",
         null,
         "MetaMask を使用して接続",
         null,
-        null
+        "MetaMaskを使用して接続"
     ],
     "connectedAccountsDescriptionPlural": [
         "You have $1 accounts connected to this site.",
@@ -718,14 +718,14 @@
         null,
         "MetaMask はこのサイトに接続されていません。Web3 サイトに接続するには、そのサイトの接続ボタンを使用します。",
         null,
-        null
+        "MetaMaskはこのサイトに接続されていません。Web3サイトに接続するには、サイト内にある接続ボタンを使用します。"
     ],
     "connectedSites": [
         "Connected sites",
         null,
         "接続済みのサイト",
         null,
-        null
+        "接続済みのサイト"
     ],
     "connectedSitesDescription": [
         "$1 is connected to these sites. They can view your account address.",
@@ -739,7 +739,7 @@
         null,
         "$1 はどのサイトとも接続されていません。",
         "$1 is the account name",
-        null
+        "$1 はどのサイトとも接続されていません。"
     ],
     "connecting": [
         "Connecting...",
@@ -1068,7 +1068,7 @@
         "Etherを振込",
         "Ether 入金",
         null,
-        "Etherを振込"
+        "Etherを入金"
     ],
     "details": [
         "Details",
@@ -1082,7 +1082,7 @@
         "Etherを直接入金",
         "Ether を直接入金",
         null,
-        null
+        "Etherを直接入金"
     ],
     "directDepositEtherExplainer": [
         "If you already have some Ether, the quickest way to get Ether in your new wallet by direct deposit.",
@@ -1152,14 +1152,14 @@
         null,
         "これを再び表示しないでください",
         null,
-        null
+        "再度表示しない"
     ],
     "downloadGoogleChrome": [
         "Download Google Chrome",
         null,
         "Google Chrome のダウンロード",
         null,
-        null
+        "Google Chromeのダウンロード"
     ],
     "downloadSecretBackup": [
         "Download this Secret Backup Phrase and keep it stored safely on an external encrypted hard drive or storage medium.",
@@ -1768,7 +1768,7 @@
         "アカウントのインポート",
         "アカウントのインポート",
         null,
-        null
+        "アカウントのインポート"
     ],
     "importAccountMsg": [
         " Imported accounts will not be associated with your originally created MetaMask account seedphrase. Learn more about imported accounts ",
@@ -1789,7 +1789,7 @@
         null,
         "アカウント シード フレーズを使用してインポート",
         null,
-        null
+        "アカウントのシードフレーズから復元する"
     ],
     "importWallet": [
         "Import wallet",
@@ -1803,14 +1803,14 @@
         null,
         "12 ワードのシード フレーズを使用して既存のウォレットをインポートします",
         null,
-        null
+        "12単語のシードフレーズを使用して既存のウォレットをインポートします"
     ],
     "imported": [
         "Imported",
         "インポート完了",
         "インポート済み",
         "status showing that an account has been fully loaded into the keyring",
-        null
+        "インポート完了"
     ],
     "infoHelp": [
         "Info & Help",
@@ -2090,7 +2090,7 @@
         "Ethereumメインネットワーク",
         "イーサリアム メインネット",
         null,
-        null
+        "Ethereumメインネット"
     ],
     "max": [
         "Max",
@@ -2104,7 +2104,7 @@
         null,
         "メモ",
         null,
-        null
+        "メモ"
     ],
     "memorizePhrase": [
         "Memorize this phrase.",
@@ -2118,7 +2118,7 @@
         "メッセージ",
         "メッセージ",
         null,
-        null
+        "メッセージ"
     ],
     "metaMaskConnectStatusParagraphOne": [
         "You now have more control over your account connections in MetaMask.",
@@ -2146,7 +2146,7 @@
         null,
         "イーサリアムと分散型 Web に接続しています。",
         null,
-        null
+        "Ethereumの非中央集権型Webに接続しています。"
     ],
     "metamaskSwapsOfflineDescription": [
         "MetaMask Swaps is undergoing maintenance. Please check back later.",
@@ -2202,7 +2202,7 @@
         null,
         "$1 が営利目的でデータを販売することは決してありません。",
         "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'",
-        null
+        "$1が営利目的でデータを販売することは'永遠に'ありません。"
     ],
     "metametricsCommitmentsSendAnonymizedEvents": [
         "Send anonymized click & pageview events",
@@ -2216,35 +2216,35 @@
         null,
         "MetaMask の品質向上へのご協力のお願い",
         null,
-        null
+        "MetaMaskの品質向上へのご協力のお願い"
     ],
     "metametricsOptInDescription": [
         "MetaMask would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Ethereum ecosystem.",
         null,
         "MetaMask では、ユーザーによる拡張機能の操作方法についてよりよく理解するため、基本的な使用状況データを収集させていただきたいと考えています。このデータは、当社の製品およびイーサリアム エコシステムの使いやすさとユーザー エクスペリエンス継続的に改善するために使用されます。",
         null,
-        null
+        "MetaMaskでは、ユーザーによる拡張機能の操作方法をより理解するため、基本的な使用状況データを収集させて頂きたいと考えています。このデータは、我々の製品およびEthereumエコシステムの使いやすさとユーザーエクスペリエンスを継続的に改善するために使用されます。"
     ],
     "mobileSyncText": [
         "Please enter your password to confirm it's you!",
         null,
         "本人であることを確認するためにパスワードを入力してください!",
         null,
-        null
+        "本人認証のため、パスワードを入力してください!"
     ],
     "mustSelectOne": [
         "Must select at least 1 token.",
         "一つ以上のトークンを選択してください。",
         "トークンを 1 つ以上選択する必要があります。",
         null,
-        null
+        "1つ以上のトークンを選択してください。"
     ],
     "myAccounts": [
         "My Accounts",
         "マイアカウント",
         "自分のアカウント",
         null,
-        null
+        "マイアカウント"
     ],
     "myWalletAccounts": [
         "My Wallet Accounts",
@@ -2349,14 +2349,14 @@
         "新規コントラクト",
         "新しいコントラクト",
         null,
-        null
+        "新規コントラクト"
     ],
     "newNetwork": [
         "New Network",
         null,
         "新しいネットワーク",
         null,
-        null
+        "新規ネットワーク"
     ],
     "newPassword": [
         "New password (min 8 chars)",
@@ -2391,14 +2391,14 @@
         "次へ",
         "次へ",
         null,
-        null
+        "次へ"
     ],
     "nextNonceWarning": [
         "Nonce is higher than suggested nonce of $1",
         null,
         "ナンスが $1 の提案されたナンスよりも大きいです",
         "The next nonce according to MetaMask's internal logic",
-        null
+        "Nonce$1は提案された値より大きいです"
     ],
     "noAccountsFound": [
         "No accounts found for the given search query",
@@ -2419,14 +2419,14 @@
         "すでにシードを持っています",
         "いいえ、シード フレーズを既に持っています",
         null,
-        null
+        "いいえ、既にシードフレーズがあります"
     ],
     "noConversionRateAvailable": [
         "No Conversion Rate Available",
         null,
         "どの換算率も利用できません",
         null,
-        null
+        "どの換算レートも利用できません"
     ],
     "noThanks": [
         "No Thanks",
@@ -2447,35 +2447,35 @@
         null,
         "お使いのコンピューターのウェブカメラが見つかりませんでした。もう一度実行してください。",
         null,
-        null
+        "このコンピューターのウェブカメラが見つかりません。もう一度実行してください。"
     ],
     "noWebcamFoundTitle": [
         "Webcam not found",
         null,
         "ウェブカメラが見つかりません",
         null,
-        null
+        "ウェブカメラが見つかりません"
     ],
     "nonceField": [
         "Customize transaction nonce",
         null,
         "トランザクション ナンスのカスタマイズ",
         null,
-        null
+        "トランザクションNonceのカスタマイズ"
     ],
     "nonceFieldDescription": [
         "Turn this on to change the nonce (transaction number) on confirmation screens. This is an advanced feature, use cautiously.",
         null,
         "確認画面上でナンス (トランザクション番号) を変更するには、これをオンにします。これは高度な機能であり、慎重に使用してください。",
         null,
-        null
+        "確認画面上でNonce(トランザクション番号)を変更するには、これをオンにします。これは高度な機能です。慎重に使用してください。"
     ],
     "nonceFieldHeading": [
         "Custom Nonce",
         null,
         "カスタム ナンス",
         null,
-        null
+        "カスタムNonce"
     ],
     "notCurrentAccount": [
         "Is this the correct account? It's different from the currently selected account in your wallet",
@@ -2489,7 +2489,7 @@
         null,
         "ガスが不足しています",
         null,
-        null
+        "ガスが不足しています"
     ],
     "ofTextNofM": [
         "of",
@@ -2503,7 +2503,7 @@
         null,
         "オフ",
         null,
-        null
+        "オフ"
     ],
     "offlineForMaintenance": [
         "Offline for maintenance",
@@ -2566,14 +2566,14 @@
         null,
         "通貨記号 (オプション)",
         null,
-        null
+        "通貨シンボル(オプション)"
     ],
     "orderOneHere": [
         "Order a Trezor or Ledger and keep your funds in cold storage",
         null,
         "トレザーまたはレジャーを整理し、資金をコールド ストレージに保管",
         null,
-        null
+        "Trezor又はLedgerを注文して資金をコールドストレージに保管"
     ],
     "origin": [
         "Origin",
@@ -2608,35 +2608,35 @@
         "パスワード",
         "パスワード",
         null,
-        null
+        "パスワード"
     ],
     "passwordNotLongEnough": [
         "Password not long enough",
         null,
         "パスワードの長さが足りません",
         null,
-        null
+        "パスワードの長さが足りません"
     ],
     "passwordsDontMatch": [
         "Passwords Don't Match",
         null,
         "パスワードが一致しません",
         null,
-        null
+        "パスワードが一致しません"
     ],
     "pastePrivateKey": [
         "Paste your private key string here:",
         "秘密鍵をここにペーストして下さい:",
         "秘密鍵の文字列をここに貼り付けます:",
         "For importing an account from a private key",
-        null
+        "秘密鍵をここにペーストして下さい:"
     ],
     "pending": [
         "Pending",
         null,
         "処理",
         null,
-        null
+        "保留中"
     ],
     "permissionCheckedIconDescription": [
         "You have approved this permission",
@@ -2657,7 +2657,7 @@
         null,
         "許可",
         null,
-        null
+        "許可"
     ],
     "personalAddressDetected": [
         "Personal address detected. Input the token contract address.",
@@ -2699,14 +2699,14 @@
         "プライバシーポリシー",
         "プライバシー ポリシー",
         null,
-        null
+        "プライバシーポリシー"
     ],
     "privateKey": [
         "Private Key",
         "秘密鍵",
         "秘密鍵",
         "select this type of file to use to import an account",
-        null
+        "秘密鍵"
     ],
     "privateKeyWarning": [
         "Warning: Never disclose this key. Anyone with your private keys can steal any assets held in your account.",
@@ -2720,7 +2720,7 @@
         "プライベート・ネットワーク",
         "プライベート ネットワーク",
         null,
-        null
+        "プライベートネットワーク"
     ],
     "proposedApprovalLimit": [
         "Proposed Approval Limit",
@@ -2958,21 +2958,21 @@
         "パスフレーズを表示",
         "シード フレーズの公開",
         null,
-        null
+        "シードフレーズを表示"
     ],
     "revealSeedWordsDescription": [
         "If you ever change browsers or move computers, you will need this seed phrase to access your accounts. Save them somewhere safe and secret.",
         null,
         "ブラウザーを変更した場合や、コンピューターを移動した場合は、自分のアカウントにアクセスするためにこのシード フレーズが必要になります。安全で秘密の場所に保管してください。",
         null,
-        null
+        "ブラウザを変更したりコンピュータを変更した場合は、アカウントにアクセスするためにシードフレーズが必要になります。安全で秘密の場所に保管してください。"
     ],
     "revealSeedWordsTitle": [
         "Seed Phrase",
         null,
         "シード フレーズ",
         null,
-        null
+        "シードフレーズ"
     ],
     "revealSeedWordsWarning": [
         "These words can be used to steal all your accounts.",
@@ -2986,21 +2986,21 @@
         null,
         "このフレーズは誰にも教えないでください。",
         null,
-        null
+        "シードフレーズは誰にも教えないでください。"
     ],
     "rinkeby": [
         "Rinkeby Test Network",
         "Rinkebyテストネットワーク",
         "Rinkeby テスト ネットワーク",
         null,
-        null
+        "Rinkebyテストネットワーク"
     ],
     "ropsten": [
         "Ropsten Test Network",
         "Ropstenテストネットワーク",
         "Ropsten テスト ネットワーク",
         null,
-        null
+        "Ropstenテストネットワーク"
     ],
     "rpcUrl": [
         "New RPC URL",
@@ -3049,28 +3049,28 @@
         "検索",
         "検索",
         null,
-        null
+        "検索"
     ],
     "searchAccounts": [
         "Search Accounts",
         null,
         "アカウントの検索",
         null,
-        null
+        "アカウントの検索"
     ],
     "searchResults": [
         "Search Results",
         "検索結果",
         "結果の検索",
         null,
-        null
+        "検索結果"
     ],
     "searchTokens": [
         "Search Tokens",
         "トークンの検索",
         "トークンの検索",
         null,
-        null
+        "トークンの検索"
     ],
     "secretBackupPhrase": [
         "Secret Backup Phrase",
@@ -3098,7 +3098,7 @@
         null,
         "ボールトを復元するには、秘密の 12 の言葉で構成されたフレーズをここに入力します。",
         null,
-        null
+        "アカウント情報を復元するには、12単語で構成されたシードフレーズを入力してください。"
     ],
     "securityAndPrivacy": [
         "Security & Privacy",
@@ -3119,14 +3119,14 @@
         null,
         "単語ごとにスペースを 1 つ置いて分離します",
         null,
-        null
+    	"シードフレーズを単語ごとに半角スペースで分割して入力して下さい"
     ],
     "seedPhrasePlaceholderPaste": [
         "Paste seed phrase from clipboard",
         null,
         "クリップボードからシード フレーズを貼り付けます",
         null,
-        null
+        "シードフレーズをクリップボードからペーストして下さい"
     ],
     "seedPhraseReq": [
         "Seed phrases contain 12, 15, 18, 21, or 24 words",
@@ -3588,7 +3588,7 @@
         null,
         "スワップ",
         null,
-        null
+        "スワップ"
     ],
     "swapAdvancedSlippageInfo": [
         "If the price changes between the time your order is placed and confirmed it’s called “slippage”. Your swap will automatically cancel if slippage exceeds your “max slippage” setting.",
@@ -4470,21 +4470,21 @@
         null,
         "ガス手数料を $2 で $1 に増加して、トランザクションを再送信しました。",
         null,
-        null
+        "トランザクションをガス手数料を$1追加して$2で再送信しました。"
     ],
     "transactionSubmitted": [
         "Transaction submitted with gas fee of $1 at $2.",
         null,
         "$1 のガス手数料が $2 でトランザクションが送信されました。",
         null,
-        null
+        "トランザクションが$2でガス手数料$1で送信されました。"
     ],
     "transactionUpdated": [
         "Transaction updated at $2.",
         null,
         "トランザクションは $2 で更新されました。",
         null,
-        null
+        "トランザクションは$2で更新されました。"
     ],
     "transfer": [
         "Transfer",
@@ -4540,7 +4540,7 @@
         "パスワードの入力",
         "MetaMask パスワードを入力",
         null,
-        null
+        "MetaMaskのパスワードを入力"
     ],
     "unapproved": [
         "Unapproved",
@@ -4554,42 +4554,42 @@
         null,
         "単位",
         null,
-        null
+        "単位"
     ],
     "unknown": [
         "Unknown",
         "不明",
         "不明です",
         null,
-        null
+        "不明"
     ],
     "unknownCameraError": [
         "There was an error while trying to access your camera. Please try again...",
         null,
         "カメラにアクセスしているときにエラーが発生しました。もう一度実行してください...",
         null,
-        null
+        "カメラにアクセスしているときにエラーが発生しました。もう一度実行してください。"
     ],
     "unknownCameraErrorTitle": [
         "Ooops! Something went wrong....",
         null,
         "申し訳ありません。問題が発生しました...",
         null,
-        null
+        "申し訳ありません。問題が発生しました。"
     ],
     "unknownNetwork": [
         "Unknown Private Network",
         "不明なプライベートネットワーク",
         "不明なプライベート ネットワーク",
         null,
-        null
+        "不明なプライベートネットワーク"
     ],
     "unknownQrCode": [
         "Error: We couldn't identify that QR code",
         null,
         "エラー:QR コードを識別できませんでした",
         null,
-        null
+        "エラー:QRコードを識別できませんでした"
     ],
     "unlimited": [
         "Unlimited",
@@ -4624,7 +4624,7 @@
         null,
         "URL には適切な HTTP/HTTPS プレフィックスが必要です。",
         null,
-        null
+        "URLには適切なHTTP/HTTPSプレフィックスが必要です。"
     ],
     "urlExistsErrorMsg": [
         "URL is already present in existing list of networks",
@@ -4659,7 +4659,7 @@
         null,
         "ユーザー名",
         null,
-        null
+        "ユーザー名"
     ],
     "verifyThisTokenOn": [
         "Verify this token on $1",
@@ -4673,7 +4673,7 @@
         "アカウントを見る",
         "アカウントを表示",
         null,
-        null
+        "アカウントを表示"
     ],
     "viewContact": [
         "View Contact",
@@ -4694,56 +4694,56 @@
         "Etherscan で見る",
         "Etherscan で表示",
         null,
-        null
+        "Etherscanで表示"
     ],
     "viewinExplorer": [
         "View in Explorer",
         null,
         "Explorer で表示",
         null,
-        null
+        "Explorerで表示"
     ],
     "visitWebSite": [
         "Visit our web site",
         null,
         "当社の Web サイトにアクセス",
         null,
-        null
+        "ウェブサイト"
     ],
     "walletConnectionGuide": [
         "our hardware wallet connection guide",
         null,
         "当社のハードウェア ウォレット接続ガイド",
         null,
-        null
+        "ハードウェアウォレット接続ガイド"
     ],
     "walletSeed": [
         "Seed phrase",
         "ウォレットのパスフレーズ",
         "シード フレーズ",
         null,
-        null
+        "シードフレーズ"
     ],
     "web3ShimUsageNotification": [
         "We noticed that the current website tried to use the removed window.web3 API. If the site appears to be broken, please click $1 for more information.",
         null,
         null,
         "$1 is a clickable link.",
-        null
+        "このサイトは削除されたwindow.web3 APIを使用します。サイトに問題が発生しているなら、$1で詳細を見ることができます。"
     ],
     "welcome": [
         "Welcome to MetaMask",
         "MetaMask ベータ版へようこそ!",
         "MetaMask にようこそ",
         null,
-        null
+        "MetaMaskへようこそ!"
     ],
     "welcomeBack": [
         "Welcome Back!",
         "おかえりなさい!",
         "ようこそ",
         null,
-        null
+        "おかえりなさい!"
     ],
     "whatsThis": [
         "What's this?",
@@ -4757,49 +4757,49 @@
         null,
         "このフレーズを紙に書いて安全な場所に保管してください。さらなるセキュリティが必要な場合は、複数の紙に書いて、それぞれを 2 ～ 3 の異なる場所に保管します。",
         null,
-        null
+        "このパスフレーズを紙に書いて、安全な場所に保管してください。セキュリティが必要な場合は、フレーズを分割して複数の紙に書き、それぞれを別の場所に保管します。"
     ],
     "xOfY": [
         "$1 of $2",
         null,
         "$2 中の $1",
         "$1 and $2 are intended to be two numbers, where $2 is a total, and $1 is a count towards that total",
-        null
+        "$1 / $2"
     ],
     "yesLetsTry": [
         "Yes, let's try",
         null,
         "試行する",
         null,
-        null
+        "試す"
     ],
     "youNeedToAllowCameraAccess": [
         "You need to allow camera access to use this feature.",
         null,
         "この機能を使用するには、カメラへのアクセスを許可する必要があります。",
         null,
-        null
+        "この機能を使用するには、カメラへのアクセスを許可が必要です。"
     ],
     "youSign": [
         "You are signing",
         "署名しています。",
         "著名しています",
         null,
-        null
+        "署名しています"
     ],
     "yourPrivateSeedPhrase": [
         "Your private seed phrase",
         null,
         "秘密のシード フレーズ",
         null,
-        null
+        "秘密のシードフレーズ"
     ],
     "yourSigRequested": [
         "Your signature is being requested",
         "あなたの署名がリクエストされています。",
         "署名が要求されています",
         null,
-        null
+        "あなたの署名が要求されています"
     ],
     "zeroGasPriceOnSpeedUpError": [
         "Zero gas price on speed up",
