@@ -109,14 +109,14 @@
         "MetaMaskで獲得したトークンを追加する",
         "MetaMask を使用して取得したトークンを追加します",
         null,
-        null
+        "MetaMaskで取得したトークンを追加する"
     ],
     "addAlias": [
         "Add alias",
         "エイリアスを追加",
         "別名の追加",
         null,
-        "別名の追加"
+        "エイリアスの追加"
     ],
     "addNetwork": [
         "Add Network",
@@ -130,14 +130,14 @@
         "受取人追加",
         "受信者の追加",
         null,
-        null
+        "受取人を追加"
     ],
     "addSuggestedTokens": [
         "Add Suggested Tokens",
         "推奨トークンを追加",
         "推奨されたトークンの追加",
         null,
-        null
+        "推奨されたトークンを追加"
     ],
     "addToAddressBook": [
         "Add to address book",
@@ -186,14 +186,14 @@
         "開発者向け機能では、状態ログのダウンロード、アカウントリセットし、テストネットやカスタムRPCの設定が可能です。",
         "デベロッパー機能にアクセスして、状態ログをダウンロードし、アカウントをリセットして、Testnet とカスタム RPC をセットアップしてください",
         null,
-        null
+        "開発者向け機能では、状態ログのダウンロード、アカウントリセットし、テストネットやカスタムRPCの設定が可能です。"
     ],
     "affirmAgree": [
         "I Agree",
         null,
         "同意します",
         null,
-        null
+        "同意します"
     ],
     "aggregatorFeeCost": [
         "Aggregator network fee",
@@ -207,56 +207,56 @@
         null,
         "これは、\"設定 > アラート\"で変更できます",
         null,
-        null
+        "\"設定 > 警告の設定\"で変更できます"
     ],
     "alertSettingsUnconnectedAccount": [
         "Browsing a website with an unconnected account selected",
         null,
         "選択した未接続のアカウントを使用して Web サイトをブラウズしています",
         null,
-        null
+        "未接続のアカウントを選択してウェブサイト閲覧した時に警告する"
     ],
     "alertSettingsUnconnectedAccountDescription": [
         "This alert is shown in the popup when you are browsing a connected web3 site, but the currently selected account is not connected.",
         null,
         "このアラートは接続した Web3 サイトをブラウズしているときにポップアップに表示されますが、現在選択しているアカウントは接続されていません。",
         null,
-        null
+        "この警告は、選択中のアカウントが未接続のままWeb3サイトを閲覧しているときにポップアップ表示されます。"
     ],
     "alertSettingsWeb3ShimUsage": [
         "When a website tries to use the removed window.web3 API",
         null,
         null,
         null,
-        null
+        "廃止されたwindow.web3 APIの使用を警告する"
     ],
     "alertSettingsWeb3ShimUsageDescription": [
         "This alert is shown in the popup when you are browsing a site that tries to use the removed window.web3 API, and may be broken as a result.",
         null,
         null,
         null,
-        null
+        "この警告は、選択中のアカウントが廃止されたwindow.web3 APIを使用してサイトを閲覧したときにポップアップ表示されます。サイトは恐らく機能しません。"
     ],
     "alerts": [
         "Alerts",
         null,
         "アラート",
         null,
-        null
+        "警告の設定"
     ],
     "alertsSettingsDescription": [
         "Enable or disable each alert",
         null,
         "各アラートを有効化または無効化",
         null,
-        null
+        "警告を有効化または無効化"
     ],
     "allowExternalExtensionTo": [
         "Allow this external extension to:",
         null,
         "この外部拡張機能に次の操作を許可します",
         null,
-        null
+        "外部拡張機能に次の操作を許可します:"
     ],
     "allowOriginSpendToken": [
         "Allow $1 to spend your $2?",
@@ -270,7 +270,7 @@
         null,
         "このサイトに次の操作を許可します",
         null,
-        null
+        "このサイトに次の操作を許可します:"
     ],
     "allowWithdrawAndSpend": [
         "Allow $1 to withdraw and spend up to the following amount:",
@@ -305,49 +305,49 @@
         "Ethereumのブラウザ・エクステンション",
         "ブラウザーにあるイーサリアム ウォレット",
         "The description of the application",
-        null
+        "Ethereumウォレットのブラウザ・エクステンション"
     ],
     "appName": [
         "MetaMask",
         "MetaMask",
         "MetaMask",
         "The name of the application",
-        null
+        "MetaMask"
     ],
     "approvalAndAggregatorTxFeeCost": [
         "Approval and aggregator network fee",
         null,
         "承認およびアグリゲーター ネットワークの手数料",
         null,
-        null
+        "承認とアグリゲータのネットワーク手数料"
     ],
     "approvalTxGasCost": [
         "Approval Tx Gas Cost",
         null,
         "承認送信のガス代",
         null,
-        null
+        "承認のトランザクションガス料金"
     ],
     "approve": [
         "Approve spend limit",
         "承認する",
         "使用限度額の承認",
         null,
-        null
+        "仕様限度額の承認"
     ],
     "approveSpendLimit": [
         "Approve $1 spend limit",
         null,
         "$1 使用限度額の承認",
         "The token symbol that is being approved",
-        null
+        "$1使用限度額を承認"
     ],
     "approved": [
         "Approved",
         "承認済み",
         "承認済み",
         null,
-        null
+        "承認済み"
     ],
     "asset": [
         "Asset",
@@ -382,7 +382,7 @@
         "ブロックチェーンに接続中",
         "ブロックチェーンへの接続を試みています。",
         null,
-        null
+        "ブロックチェーンに接続中"
     ],
     "attributions": [
         "Attributions",
@@ -396,21 +396,21 @@
         null,
         "以下の権限を承認しました",
         null,
-        null
+        "以下の権限を許可しました"
     ],
     "autoLockTimeLimit": [
         "Auto-Lock Timer (minutes)",
         "自動ログアウト(分)",
         "オートロック タイマー (分)",
         null,
-        null
+        "自動ロック(分)"
     ],
     "autoLockTimeLimitDescription": [
         "Set the idle time in minutes before MetaMask will become locked.",
         "MetaMaskが自動的にログアウトするまでのアイドル時間を分単位で設定します。",
         "MetaMask がロックされるまでのアイドル時間を分単位で設定します。",
         null,
-        null
+        "MetaMaskが自動的にロックするまでのアイドル時間を分単位で設定します。"
     ],
     "average": [
         "Average",
@@ -557,7 +557,7 @@
         null,
         "キャンセルのガス手数料",
         null,
-        "キャンセルのガス手数料"
+        "キャンセルのガス料金"
     ],
     "cancelled": [
         "Cancelled",
@@ -585,7 +585,7 @@
         null,
         "秘密の言葉を表示するには、ここをクリックします",
         null,
-        null
+        "シードフレーズを表示するにはここをクリックします"
     ],
     "close": [
         "Close",
@@ -613,7 +613,7 @@
         null,
         "秘密のバックアップ フレーズの確認",
         null,
-        null
+        "シードフレーズの確認"
     ],
     "confirmed": [
         "Confirmed",
@@ -662,7 +662,7 @@
         null,
         "$1 に接続",
         "$1 is the name/origin of a web3 site/application that the user can connect to metamask",
-        null
+        "接続先 $1"
     ],
     "connectToAll": [
         "Connect to all your $1",
@@ -683,35 +683,35 @@
         null,
         "$1 に接続",
         "$1 will be replaced by the translation of connectToMultipleNumberOfAccounts",
-        null
+        "$1に接続"
     ],
     "connectToMultipleNumberOfAccounts": [
         "$1 accounts",
         null,
         "$1 アカウント",
         "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple",
-        "$1アカウント"
+        "$1個のアカウント"
     ],
     "connectWithMetaMask": [
         "Connect With MetaMask",
         null,
         "MetaMask を使用して接続",
         null,
-        "MetaMaskを使用して接続"
+        "MetaMaskをサイトに接続する"
     ],
     "connectedAccountsDescriptionPlural": [
         "You have $1 accounts connected to this site.",
         null,
         "このサイトに接続されているアカウントを $1 個持っています。",
         "$1 is the number of accounts",
-        "このサイトに接続されているアカウントは、$1個です。"
+        "このサイトに接続されているアカウントは$1個です。"
     ],
     "connectedAccountsDescriptionSingular": [
         "You have 1 account connected to this site.",
         null,
         "このサイトに接続されているアカウントを 1 個持っています。",
         null,
-        "このサイトに接続されているアカウントは、1個です。"
+        "このサイトに接続されているアカウントは1個です。"
     ],
     "connectedAccountsEmptyDescription": [
         "MetaMask is not connected this site. To connect to a web3 site, find the connect button on their site.",
@@ -732,7 +732,7 @@
         null,
         "$1 はこれらのサイトに接続されています。これらのサイトは、アカウント アドレスを表示できます。",
         "$1 is the account name",
-        null
+        "$1はサイトに接続されています。サイトはアカウントアドレスを見ることができます。"
     ],
     "connectedSitesEmptyDescription": [
         "$1 is not connected to any sites.",
@@ -837,7 +837,7 @@
         "コピー完了!",
         "コピーされました!",
         null,
-        null
+        "コピー完了!"
     ],
     "copiedTransactionId": [
         "Copied Transaction ID",
@@ -970,7 +970,7 @@
         null,
         "一部のアカウント データは MetaMask の前回のインストール時にバックアップされました。これには、設定、連絡先、およびトークンが含まれます。このデータを今すぐ復元しますか?",
         null,
-        null
+        "一部のアカウントデータはMetaMaskの前回のインストール時にバックアップされました。これには、設定、アドレス帳、トークンが含まれます。データを今すぐ復元しますか?"
     ],
     "decimal": [
         "Decimals of Precision",
@@ -991,7 +991,7 @@
         null,
         "復号",
         null,
-        null
+        "復号"
     ],
     "decryptCopy": [
         "Copy encrypted message",
@@ -1278,7 +1278,7 @@
         null,
         "MetaMask はシード フレーズを復元することはできません。",
         null,
-        null
+        "MetaMaskはシードフレーズを復元できません。"
     ],
     "endOfFlowMessage9": [
         "Learn more.",
@@ -1292,14 +1292,14 @@
         null,
         "エンドポイントが別のチェーン ID を返してきました。$1",
         "$1 is the return value of eth_chainId from an RPC endpoint",
-        null
+        "エンドポイントは別のチェーンID:$1を返してきました"
     ],
     "ensNotFoundOnCurrentNetwork": [
         "ENS name not found on the current network. Try switching to Ethereum Mainnet.",
         null,
         "ENS 名が現在のネットワーク上に見つかりませんでした。イーサリアム メインネットへの切り替えを試みてください。",
         null,
-        null
+        "ENS名が現在のネットワーク上で見つかりません。Ethereumメインネットへの切り替えを試みてください。"
     ],
     "ensRegistrationError": [
         "Error in ENS name registration",
@@ -1313,7 +1313,7 @@
         null,
         "別名を入力してください",
         null,
-        null
+        "エイリアスを入力してください"
     ],
     "enterMaxSpendLimit": [
         "Enter Max Spend Limit",
@@ -1404,7 +1404,7 @@
         null,
         "許可されたアカウントのアドレスを表示してください (必須)",
         "The description for the `eth_accounts` permission",
-        null
+        "許可したアカウントのアドレスの読み取り(必須)"
     ],
     "ethereumPublicAddress": [
         "Ethereum Public Address",
@@ -1509,7 +1509,7 @@
         "ファイルがインポートされなければ、ここをクリック!",
         "ファイルのインポートが機能していない場合ここをクリック!",
         "Helps user import their account from a JSON file",
-        null
+        "ファイルのインポート方法について"
     ],
     "forbiddenIpfsGateway": [
         "Forbidden IPFS Gateway: Please specify a CID gateway",
@@ -1978,7 +1978,7 @@
         "JSONファイル",
         "JSON ファイル",
         "format for importing an account",
-        null
+        "JSONファイル"
     ],
     "knownAddressRecipient": [
         "Known contract address.",
@@ -2076,14 +2076,14 @@
         "ログアウト",
         "ロック",
         null,
-        null
+        "ロック"
     ],
     "lockTimeTooGreat": [
         "Lock time is too great",
         null,
         "ロック時間が大きすぎます",
         null,
-        null
+        "ロック時間が長すぎます"
     ],
     "mainnet": [
         "Ethereum Mainnet",
@@ -2146,7 +2146,7 @@
         null,
         "イーサリアムと分散型 Web に接続しています。",
         null,
-        "Ethereumの非中央集権型Webに接続しています。"
+        "Ethereumの分散型Webに接続しています。"
     ],
     "metamaskSwapsOfflineDescription": [
         "MetaMask Swaps is undergoing maintenance. Please check back later.",
@@ -2195,7 +2195,7 @@
         null,
         "$1 は、キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集しません",
         "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'",
-        null
+        "$1は、キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集しません"
     ],
     "metametricsCommitmentsNeverSellDataForProfit": [
         "$1 sell data for profit. Ever!",
@@ -2293,7 +2293,7 @@
         null,
         "チェーン ID はトランザクション署名に使用されます。チェーン ID はネットワークが返すチェーン ID と一致する必要があります。10 進数、または '0x' が先行する 16 進数を入力できますが、10 進数で表示されます。",
         null,
-        null
+        "チェーンIDはトランザクションの署名に使用します。チェーンIDはネットワークのチェーンIDと一致する必要があります。10進数、または'0x'を付けた16進数を入力します。表示は10進数です。"
     ],
     "networkSettingsDescription": [
         "Add and edit custom RPC networks",
@@ -2307,7 +2307,7 @@
         "ネットワーク",
         "ネットワーク",
         null,
-        null
+        "ネットワーク"
     ],
     "nevermind": [
         "Nevermind",
@@ -2440,7 +2440,7 @@
         "トランザクションがありません。",
         "トランザクションがありません",
         null,
-        null
+        "トランザクションがありません"
     ],
     "noWebcamFound": [
         "Your computer's webcam was not found. Please try again.",
@@ -2496,21 +2496,21 @@
         null,
         "中の",
         null,
-        null
+        "of"
     ],
     "off": [
         "Off",
         null,
         "オフ",
         null,
-        "オフ"
+        "Off"
     ],
     "offlineForMaintenance": [
         "Offline for maintenance",
         null,
         "メンテナンスのためにオフラインです",
         null,
-        null
+        "メンテナンスのためにオフラインです"
     ],
     "ok": [
         "Ok",
@@ -2524,7 +2524,7 @@
         null,
         "オン",
         null,
-        null
+        "On"
     ],
     "onboardingReturnNotice": [
         "\"$1\" will close this tab and direct back to $2",
@@ -2538,28 +2538,28 @@
         null,
         "悪意のあるイーサリアム ネットワーク プロバイダは、ブロックチェーンの状態を偽り、お客様のネットワーク行動を記録することがあります。信頼するカスタム ネットワークのみを追加してください。",
         null,
-        null
+        "悪意のあるEthereumネットワークプロバイダは、不正なブロックチェーンによりネットワーク行動を記録することがあります。信頼できるカスタムネットワークのみを追加してください。"
     ],
     "onlyAvailableOnMainnet": [
         "Only available on mainnet",
         null,
         "メインネットのみで使用可能",
         null,
-        null
+        "メインネットのみで使用可能"
     ],
     "onlyConnectTrust": [
         "Only connect with sites you trust.",
         null,
         "信頼するサイトにのみ接続します。",
         null,
-        null
+        "信頼するサイトにのみ接続してください。"
     ],
     "optionalBlockExplorerUrl": [
         "Block Explorer URL (optional)",
         null,
         "ブロック エクスプローラーの URL (オプション)",
         null,
-        null
+        "ブロックエクスプローラのURL(オプション)"
     ],
     "optionalCurrencySymbol": [
         "Currency Symbol (optional)",
@@ -2587,21 +2587,21 @@
         null,
         "パラメータ",
         null,
-        null
+        "パラメータ"
     ],
     "participateInMetaMetrics": [
         "Participate in MetaMetrics",
         null,
         "MetaMetrics に参加",
         null,
-        null
+        "MetaMetricsに参加"
     ],
     "participateInMetaMetricsDescription": [
         "Participate in MetaMetrics to help us make MetaMask better",
         null,
         "MetaMetrics に参加して、MetaMask の改善に協力します",
         null,
-        null
+        "MetaMaskの改善のため、MetaMetricsに参加します"
     ],
     "password": [
         "Password",
@@ -2629,7 +2629,7 @@
         "秘密鍵をここにペーストして下さい:",
         "秘密鍵の文字列をここに貼り付けます:",
         "For importing an account from a private key",
-        "秘密鍵をここにペーストして下さい:"
+        "秘密鍵をペーストして下さい:"
     ],
     "pending": [
         "Pending",
@@ -2643,14 +2643,14 @@
         null,
         "この許可の承認が完了しました。",
         null,
-        null
+        "この許可を承認しました。"
     ],
     "permissionUncheckedIconDescription": [
         "You have not approved this permission",
         null,
         "この許可の承認が完了していません。",
         null,
-        null
+        "この許可は承認を完了していません。"
     ],
     "permissions": [
         "Permissions",
@@ -2664,7 +2664,7 @@
         null,
         "個人アドレスが検出されました。トークン コントラクト アドレスを入力してください。",
         null,
-        null
+        "個人アドレスが検出されました。トークンコントラクトのアドレスを入力してください。"
     ],
     "plusXMore": [
         "+ $1 more",
@@ -2734,21 +2734,21 @@
         null,
         "鍵を保護してください!",
         null,
-        null
+        "キーを保護してください!"
     ],
     "protectYourKeysMessage1": [
         "Be careful with your seed phrase ? there have been reports of websites that attempt to imitate MetaMask. MetaMask will never ask for your seed phrase!",
         null,
         "シード フレーズの取り扱いにはご注意ください。MetaMask を模倣しようとする企てが Web サイトのレポートにありました。MetaMask はシード フレーズを要求することは絶対にありません!",
         null,
-        null
+        "シードフレーズは厳重に取り扱ってください。MetaMaskの偽物がWebサイトで報告されています。MetaMaskがシードフレーズを要求することは絶対にありえません!"
     ],
     "protectYourKeysMessage2": [
         "Keep your phrase safe. If you see something fishy, or you’re uncertain about a website, email support@metamask.io",
         null,
         "フレーズを安全に保管してください。不審な点が見つかった場合、または Web サイトについて不明確な場合は、support@metamask.io まで電子メールでお問い合わせください",
         null,
-        null
+        "シードフレーズを厳重に保管してください。不審な点がやWebサイトについて不明確な場合は、support@metamask.io まで電子メールでお問い合わせください"
     ],
     "provide": [
         "Provide",
@@ -2867,7 +2867,7 @@
         null,
         "アカウントの削除",
         null,
-        null
+        "アカウントの削除"
     ],
     "removeAccountDescription": [
         "This account will be removed from your wallet. Please make sure you have the original seed phrase or private key for this imported account before continuing. You can import or create accounts again from the account drop-down. ",
@@ -2888,7 +2888,7 @@
         "必要です。",
         "必須",
         null,
-        null
+        "必須"
     ],
     "reset": [
         "Reset",
@@ -2923,14 +2923,14 @@
         null,
         "シード フレーズでアカウントを復元",
         null,
-        null
+        "シードフレーズでアカウントを復元"
     ],
     "restoreFromSeed": [
         "Restore account?",
         "パスフレーズから復元する",
         "アカウントを復元しますか?",
         null,
-        null
+        "アカウントを復元しますか?"
     ],
     "restoreWalletPreferences": [
         "A backup of your data from $1 has been found. Would you like to restore your wallet preferences?",
@@ -2979,7 +2979,7 @@
         null,
         "これらの単語を使用すると、すべてのアカウントを窃取することができます。",
         null,
-        null
+        "シードフレーズは全てのアカウントを盗む手段にも使えます。"
     ],
     "revealSeedWordsWarningTitle": [
         "DO NOT share this phrase with anyone!",
@@ -3007,14 +3007,14 @@
         null,
         "新規 RPC URL",
         null,
-        null
+        "新規RPCのURL"
     ],
     "save": [
         "Save",
         "保存",
         "保存",
         null,
-        null
+        "保存"
     ],
     "saveAsCsvFile": [
         "Save as CSV File",
@@ -3133,35 +3133,35 @@
         null,
         "シード フレーズには、12、15、18、21、または 24 語が含まれます",
         null,
-        null
+        "シードフレーズには、12,15,18,21、または24単語が含まれます"
     ],
     "selectAHigherGasFee": [
         "Select a higher gas fee to accelerate the processing of your transaction.*",
         null,
         "トランザクションの処理を加速するには、より高いガス手数料を選択します。*",
         null,
-        null
+        "トランザクションの処理を早めるには、より高いガス料金を選択してください。*"
     ],
     "selectAccounts": [
         "Select account(s)",
         null,
         "アカウント (1 個または複数) の選択",
         null,
-        null
+        "アカウントを選択してください"
     ],
     "selectAll": [
         "Select all",
         null,
         "すべて選択",
         null,
-        null
+        "すべて選択"
     ],
     "selectAnAccount": [
         "Select an Account",
         null,
         "1 個のアカウントを選択",
         null,
-        null
+        "アカウントを1個選択"
     ],
     "selectAnAccountHelp": [
         "Select the account to view in MetaMask",
@@ -3175,7 +3175,7 @@
         "通貨を選択",
         "通貨の選択",
         null,
-        null
+        "通貨を選択"
     ],
     "selectEachPhrase": [
         "Please select each phrase in order to make sure it is correct.",
@@ -3196,7 +3196,7 @@
         null,
         "ロケールの選択",
         null,
-        null
+        "言語の選択"
     ],
     "selectPathHelp": [
         "If you don't see your existing Ledger accounts below, try switching paths to \"Legacy (MEW / MyCrypto)\"",
@@ -3224,42 +3224,42 @@
         "送信",
         "送金",
         null,
-        null
+        "送る"
     ],
     "sendAmount": [
         "Send Amount",
         null,
         "送金額",
         null,
-        null
+        "送金額"
     ],
     "sendETH": [
         "Send ETH",
         "ETHの送信",
         "ETH の送金",
         null,
-        null
+        "ETHの送金"
     ],
     "sendSpecifiedTokens": [
         "Send $1",
         null,
         "$1 を送金",
         "Symbol of the specified token",
-        null
+        "$1を送る"
     ],
     "sendTokens": [
         "Send Tokens",
         "トークンを送信",
         "トークンの送信",
         null,
-        null
+        "トークンを送る"
     ],
     "sentEther": [
         "sent ether",
         null,
         "Ether の送金",
         null,
-        null
+        "Etherの送金"
     ],
     "separateEachWord": [
         "Separate each word with a single space",
@@ -3294,42 +3294,42 @@
         null,
         "テストネット上に変換を表示",
         null,
-        null
+        "テストネットで法定通貨換算額を表示"
     ],
     "showFiatConversionInTestnetsDescription": [
         "Select this to show fiat conversion on Testnets",
         null,
         "これを選択すると、テストネット上にフィアット変換が表示されます",
         null,
-        null
+        "選択すると、テストネットで法定通貨換算額を表示します"
     ],
     "showHexData": [
         "Show Hex Data",
         null,
         "16 進データの表示",
         null,
-        null
+        "16進データの表示"
     ],
     "showHexDataDescription": [
         "Select this to show the hex data field on the send screen",
         null,
         "これを選択すると、送金画面に 16 進データフィールドが表示されます",
         null,
-        null
+        "選択すると、送金画面に16進データフィールドを表示します"
     ],
     "showIncomingTransactions": [
         "Show Incoming Transactions",
         null,
         "入庫の表示",
         null,
-        null
+        "入庫の表示"
     ],
     "showIncomingTransactionsDescription": [
         "Select this to use Etherscan to show incoming transactions in the transactions list",
         null,
         "これを選択すると、Etherscan を使用して入庫がトランザクションリストに表示されます",
         null,
-        null
+        "選択すると、Etherscanを使用して、着信トランザクションをトランザクションリストに表示します"
     ],
     "showPermissions": [
         "Show permissions",
@@ -3343,14 +3343,14 @@
         "秘密鍵を表示",
         "秘密鍵の表示",
         null,
-        null
+        "秘密鍵の表示"
     ],
     "showSeedPhrase": [
         "Show seed phrase",
         null,
         "シード フレーズの表示",
         null,
-        null
+        "シードフレーズの表示"
     ],
     "sigRequest": [
         "Signature Request",
@@ -3406,7 +3406,7 @@
         null,
         "申し訳ありません。問題が発生しました。",
         null,
-        null
+        "おおぅ!問題が発生しました。"
     ],
     "speedUp": [
         "Speed Up",
@@ -3525,7 +3525,7 @@
         null,
         "コンピューターにハードウェア ウォレットを直接接続します。",
         null,
-        null
+        "コンピューターにハードウェアウォレットを直接接続します。"
     ],
     "step2HardwareWallet": [
         "2. Select an Account",
@@ -3574,7 +3574,7 @@
         null,
         "送信済み",
         null,
-        null
+        "送信済み"
     ],
     "supportCenter": [
         "Visit our Support Center",
@@ -3602,7 +3602,7 @@
         null,
         "アグリゲーター",
         null,
-        null
+        "アグリゲータ"
     ],
     "swapAmountReceived": [
         "Guaranteed amount",
@@ -3658,35 +3658,35 @@
         null,
         "カスタム",
         null,
-        null
+        "カスタム"
     ],
     "swapDecentralizedExchange": [
         "Decentralized exchange",
         null,
         "分散型交換",
         null,
-        null
+        "分散型取引所"
     ],
     "swapEditLimit": [
         "Edit limit",
         null,
         "限度額の編集",
         null,
-        null
+        "限度額の変更"
     ],
     "swapEnableDescription": [
         "This is required and gives MetaMask permission to swap your $1.",
         null,
         "これは必須であり、$1 をスワップするための MetaMask 許可を付与します。",
         "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps.",
-        null
+        "MetaMaskで$1のスワップを許可します。（必須）"
     ],
     "swapEstimatedNetworkFee": [
         "Estimated network fee",
         null,
         "推定のネットワーク手数料",
         null,
-        null
+        "推定ネットワーク手数料"
     ],
     "swapEstimatedNetworkFeeSummary": [
         "The “$1” is what we expect the actual fee to be. The exact amount depends on network conditions.",
@@ -3700,7 +3700,7 @@
         null,
         "推定のネットワーク手数料",
         null,
-        null
+        "推定ネットワーク手数料の合計"
     ],
     "swapEstimatedNetworkFeesInfo": [
         "This is an estimate of the network fee that will be used to complete your swap. The actual amount may change according to network conditions.",
@@ -3777,7 +3777,7 @@
         null,
         "MetaMask Swaps の詳細を表示",
         null,
-        null
+        "MetaMask Swapsの詳細"
     ],
     "swapIntroLiquiditySourcesLabel": [
         "Liquidity sources include:",
@@ -3798,7 +3798,7 @@
         null,
         "トークンのスワップはここで!",
         null,
-        null
+        "トークンのスワップはこちら!"
     ],
     "swapLearnMoreContractsAuditReview": [
         "Review our official contracts audit",
@@ -3847,7 +3847,7 @@
         null,
         "当社は毎回最上位の流動性のソースから最良の価格を見つけます。$1% の手数料が各見積もりに自動的に組み込まれ、これが MetaMask をさらに改善するための進行中の開発をサポートします。",
         "Provides information about the fee that metamask takes for swaps. $1 is a decimal number.",
-        null
+        "取引毎に最上位の流動性の供給者から最良価格を探します。見積には$1%の手数料が自動的に組み込まれ、MetaMaskの将来の開発をサポートします。"
     ],
     "swapNQuotes": [
         "$1 quotes",
@@ -3987,7 +3987,7 @@
         null,
         "レート",
         null,
-        null
+        "レート"
     ],
     "swapReceiving": [
         "Receiving",
@@ -4407,14 +4407,14 @@
         null,
         "$1 のガス手数料が $2 でトランザクションのキャンセルが試みられました",
         null,
-        null
+        "$2でトランザクションのキャンセルを試みました（ガス料金:$1）"
     ],
     "transactionCancelSuccess": [
         "Transaction successfully cancelled at $2",
         null,
         "$2 でのトランザクションのキャンセルが成功しました",
         null,
-        null
+        "$2でトランザクションのキャンセルが成功しました"
     ],
     "transactionConfirmed": [
         "Transaction confirmed at $2.",
@@ -4470,14 +4470,14 @@
         null,
         "ガス手数料を $2 で $1 に増加して、トランザクションを再送信しました。",
         null,
-        "トランザクションをガス手数料を$1追加して$2で再送信しました。"
+        "トランザクションを$2で再送信しました。(追加ガス料金:$1)"
     ],
     "transactionSubmitted": [
         "Transaction submitted with gas fee of $1 at $2.",
         null,
         "$1 のガス手数料が $2 でトランザクションが送信されました。",
         null,
-        "トランザクションが$2でガス手数料$1で送信されました。"
+        "トランザクションが$2で送信されました。（ガス料金$1）"
     ],
     "transactionUpdated": [
         "Transaction updated at $2.",
@@ -4575,7 +4575,7 @@
         null,
         "申し訳ありません。問題が発生しました...",
         null,
-        "申し訳ありません。問題が発生しました。"
+        "おおぅ!問題が発生しました。"
     ],
     "unknownNetwork": [
         "Unknown Private Network",
@@ -4603,14 +4603,14 @@
         "ログイン",
         "ロック解除",
         null,
-        null
+        "ロック解除"
     ],
     "unlockMessage": [
         "The decentralized web awaits",
         null,
         "分散型 Web が待機しています",
         null,
-        null
+        "分散型Webが待っています"
     ],
     "updatedWithDate": [
         "Updated $1",
@@ -4652,7 +4652,7 @@
         "様々なクライアントによって使用されています。",
         "さまざまな異なるクライアントによって使用されています",
         null,
-        null
+        "Ethereumクライアントなどで使用されています。"
     ],
     "userName": [
         "Username",
