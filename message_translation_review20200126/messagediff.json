@@ -18,7 +18,7 @@
         "*より高いガス価格を使用すると、ネットワークでより速く処理され、トランザクションを高速化できる可能性が高くなりますが、常に保証されるとは限りません。",
         "* より高いガス価格を使用してトランザクションを加速するとネットワーク処理の高速化の可能性が増しますが、これは常に保証されるとは限りません。",
         null,
-        "* より高いガス料金を支払うと、トランザクションはより早くネットワークで処理される可能性が高くなります。ただし、これは常に保証されるとは限りません。"
+        "* より高いGas料金を支払うと、トランザクションはより早くネットワークで処理される可能性が高くなります。ただし、これは常に保証されるとは限りません。"
     ],
     "acceptTermsOfUse": [
         "I have read and agree to the $1",
@@ -326,7 +326,7 @@
         null,
         "承認送信のガス代",
         null,
-        "承認のトランザクションガス料金"
+        "承認のトランザクションGas料金"
     ],
     "approve": [
         "Approve spend limit",
@@ -431,21 +431,21 @@
         null,
         "一覧に戻る",
         null,
-        null
+        "一覧に戻る"
     ],
     "backupApprovalInfo": [
         "This secret code is required to recover your wallet in case you lose your device, forget your password, have to re-install MetaMask, or want to access your wallet on another device.",
         null,
         "このシークレット コードは、デバイスをなくしたとき、パスワードを忘れたとき、MetaMask の再インストールが必要なとき、または別のデバイスでウォレットにアクセスするときに必要です。",
         null,
-        null
+        "シードフレーズはウォレットの復旧に必要です。デバイスやパスワードの紛失、MetaMaskの再インストール時、または別のデバイスでウォレットを使用する時に必要です。"
     ],
     "backupApprovalNotice": [
         "Backup your Secret Recovery code to keep your wallet and funds secure.",
         null,
         "シークレット リカバリ コードをバックアップして、ウォレットと資金の安全を確保してください。",
         null,
-        null
+        "シードフレーズをバックアップして、ウォレットと資金の安全を確保してください。"
     ],
     "backupNow": [
         "Backup now",
@@ -459,7 +459,7 @@
         "残高:",
         "残高",
         null,
-        null
+        "残高"
     ],
     "balanceOutdated": [
         "Balance may be outdated",
@@ -473,7 +473,7 @@
         null,
         "基本",
         null,
-        null
+        "基本"
     ],
     "blockExplorerUrl": [
         "Block Explorer",
@@ -487,14 +487,14 @@
         null,
         "$1 のアカウントを表示",
         "$1 replaced by URL for custom block explorer",
-        null
+        "$1のアカウントを表示"
     ],
     "blockiesIdenticon": [
         "Use Blockies Identicon",
         "Blockies Identicon を使用",
         "Blockies アイデンティコンの使用",
         null,
-        null
+        "Blockies Identiconを使用"
     ],
     "browserNotSupported": [
         "Your Browser is not supported...",
@@ -543,7 +543,7 @@
         null,
         null,
         null,
-        null
+        "通知は設定->警告の設定で再度有効にできます。"
     ],
     "cancel": [
         "Cancel",
@@ -557,7 +557,7 @@
         null,
         "キャンセルのガス手数料",
         null,
-        "キャンセルのガス料金"
+        "キャンセルのGas料金"
     ],
     "cancelled": [
         "Cancelled",
@@ -816,7 +816,7 @@
         null,
         "Wyre に進む",
         null,
-        null
+        "Wyreへ進む"
     ],
     "contractDeployment": [
         "Contract Deployment",
@@ -830,7 +830,7 @@
         "コントラクトへのアクセス",
         "コントラクト インタラクション",
         null,
-        null
+        "コントラクトのインタラクション"
     ],
     "copiedExclamation": [
         "Copied!",
@@ -844,7 +844,7 @@
         null,
         "コピーされたトランザクション ID",
         null,
-        null
+        "コピーしたトランザクションID"
     ],
     "copyAddress": [
         "Copy address to clipboard",
@@ -872,14 +872,14 @@
         null,
         "トランザクション ID をコピー",
         null,
-        null
+        "トランザクションIDをコピー"
     ],
     "create": [
         "Create",
         "作成",
         "作成",
         null,
-        null
+        "作成"
     ],
     "createAWallet": [
         "Create a Wallet",
@@ -928,42 +928,42 @@
         null,
         "現在の言語",
         null,
-        null
+        "現在の言語"
     ],
     "customGas": [
         "Customize Gas",
         "ガスのカスタマイズ",
         "ガスのカスタマイズ",
         null,
-        null
+        "Gasのカスタマイズ"
     ],
     "customGasSubTitle": [
         "Increasing fee may decrease processing times, but it is not guaranteed.",
         null,
         "手数料を増やすと処理時間は減少する可能性がありますが、減少しない場合もあります。",
         null,
-        null
+        "手数料を増やすと処理までの時間が短縮できます。（短縮できない場合もあります。）"
     ],
     "customRPC": [
         "Custom RPC",
         "カスタムRPC",
         "カスタム RPC",
         null,
-        null
+        "カスタムRPC"
     ],
     "customSpendLimit": [
         "Custom Spend Limit",
         null,
         "カスタム使用限度額",
         null,
-        null
+        "カスタム使用限度額"
     ],
     "customToken": [
         "Custom Token",
         "カスタムトークン",
         "カスタム トークン",
         null,
-        null
+        "カスタムトークン"
     ],
     "dataBackupFoundInfo": [
         "Some of your account data was backed up during a previous installation of MetaMask. This could include your settings, contacts, and tokens. Would you like to restore this data now?",
@@ -998,21 +998,21 @@
         null,
         "暗号化されたメッセージのコピー",
         null,
-        null
+        "暗号化したメッセージをコピー"
     ],
     "decryptInlineError": [
         "This message cannot be decrypted due to error: $1",
         null,
         "このメッセージは次のエラーによって復号できません。$1",
         "$1 is error message",
-        null
+        "エラーのためメッセージを復号できません。$1"
     ],
     "decryptMessageNotice": [
         "$1 would like to read this message to complete your action",
         null,
         "$1 は、このメッセージを読んでアクションを完了することを望んでいます",
         "$1 is the web3 site name",
-        null
+        "$1はメッセージを読み取ってアクションを完了しようとしています"
     ],
     "decryptMetamask": [
         "Decrypt message",
@@ -1089,7 +1089,7 @@
         "既にEtherをお持ちなら、MetaMaskの新しいウォレットにEtherを送信することができます。",
         "Ether を既に所有している場合、Ether を新しいウォレットに入れる最短の方法は直接入金です。",
         null,
-        null
+        "Etherが既にあるなら、MetaMaskの新しいウォレットにEtherを送金することができます。"
     ],
     "disconnect": [
         "Disconnect",
@@ -1124,28 +1124,28 @@
         null,
         "このアカウントの接続解除",
         null,
-        null
+        "このアカウントを切断"
     ],
     "dismiss": [
         "Dismiss",
         null,
         "破棄",
         null,
-        null
+        "却下"
     ],
     "done": [
         "Done",
         "完了",
         "完了",
         null,
-        null
+        "完了"
     ],
     "dontHaveAHardwareWallet": [
         "Don’t have a hardware wallet?",
         null,
         "ハードウェア ウォレットをお持ちでありませんか?",
         null,
-        null
+        "ハードウェアウォレットを所有していますか?"
     ],
     "dontShowThisAgain": [
         "Don't show this again",
@@ -1187,21 +1187,21 @@
         "編集",
         "編集",
         null,
-        null
+        "編集"
     ],
     "editContact": [
         "Edit Contact",
         null,
         "連絡先の編集",
         null,
-        null
+        "連絡先の編集"
     ],
     "editPermission": [
         "Edit Permission",
         null,
         "アクセス許可の編集",
         null,
-        null
+        "アクセス許可の編集"
     ],
     "encryptionPublicKeyNotice": [
         "$1 would like your public encryption key. By consenting, this site will be able to compose encrypted messages to you.",
@@ -1530,7 +1530,7 @@
         "送信元",
         "移動元",
         null,
-        null
+        "送信元"
     ],
     "fromAddress": [
         "From: $1",
@@ -1558,56 +1558,56 @@
         "ガスリミット",
         "ガス リミット",
         null,
-        "ガスリミット"
+        "Gasリミット"
     ],
     "gasLimitInfoTooltipContent": [
         "Gas limit is the maximum amount of units of gas you are willing to spend.",
         null,
         "ガス リミットは使用するガスの単位の最大量です。",
         null,
-        "ガスリミットは、使用するガスの最大量です。"
+        "Gasリミットは、使用するガスの最大量です。"
     ],
     "gasLimitTooLow": [
         "Gas limit must be at least 21000",
         "ガスリミットは最低21000です。",
         "ガス リミットは 21000 以上にする必要があります",
         null,
-        "ガスリミットは21000以上にする必要があります"
+        "Gasリミットは21000以上にする必要があります"
     ],
     "gasLimitTooLowWithDynamicFee": [
         "Gas limit must be at least $1",
         null,
         "ガス リミットは $1 以上にする必要があります",
         "$1 is the custom gas limit, in decimal.",
-        null
+        "Gasリミットは$1以上にする必要があります"
     ],
     "gasPrice": [
         "Gas Price (GWEI)",
         "ガスプライス (GWEI)",
         "ガス価格 (GWEI)",
         null,
-        "ガス価格 (GWEI)"
+        "Gas価格 (GWEI)"
     ],
     "gasPriceExtremelyLow": [
         "Gas Price Extremely Low",
         null,
         "ガス価格が非常に安くなっています",
         null,
-        "ガス価格が小さすぎます"
+        "Gas価格が小さすぎます"
     ],
     "gasPriceInfoTooltipContent": [
         "Gas price specifies the amount of Ether you are willing to pay for each unit of gas.",
         null,
         "ガス価格は、ガスの単位ごとに支払う Ether の額を指定します。",
         null,
-        "ガス価格は1ガス当たりのEther価格を指定します。"
+        "Gas価格は1Gas当たりのEther価格です。"
     ],
     "gasUsed": [
         "Gas Used",
         null,
         "ガスが使用されました",
         null,
-        null
+        "Gas使用量"
     ],
     "gdprMessage": [
         "This data is aggregated and is therefore anonymous for the purposes of General Data Protection Regulation (EU) 2016/679. For more information in relation to our privacy practices, please see our $1.",
@@ -1656,14 +1656,14 @@
         null,
         "サポートを受ける。",
         null,
-        null
+        "サポートを受ける。"
     ],
     "getStarted": [
         "Get Started",
         null,
         "開始",
         null,
-        null
+        "はじめる"
     ],
     "goerli": [
         "Goerli Test Network",
@@ -1677,7 +1677,7 @@
         null,
         "お会いできてうれしいです。",
         null,
-        null
+        "また会えましたね!"
     ],
     "hardware": [
         "Hardware",
@@ -1691,35 +1691,35 @@
         null,
         "ハードウェア ウォレットが接続されました",
         null,
-        null
+        "ハードウェアウォレットが接続されました"
     ],
     "hardwareWallets": [
         "Connect a hardware wallet",
         null,
         "ハードウェア ウォレットを接続します",
         null,
-        null
+        "ハードウェア ウォレットを接続してください"
     ],
     "hardwareWalletsMsg": [
         "Select a hardware wallet you'd like to use with MetaMask",
         null,
         "MetaMask で使用するハードウェア ウォレットを選択します",
         null,
-        null
+        "MetaMask で使用するハードウェア ウォレットを選択します"
     ],
     "havingTroubleConnecting": [
         "Having trouble connecting?",
         null,
         "接続に問題がある場合",
         null,
-        null
+        "接続に問題がありますか?"
     ],
     "here": [
         "here",
         "ここ",
         "こちら",
         "as in -click here- for more information (goes with troubleTokenBalances)",
-        "ここ"
+        "こちら"
     ],
     "hexData": [
         "Hex Data",
@@ -1831,14 +1831,14 @@
         null,
         "残高が不十分です。",
         null,
-        "残高が不足しています。"
+        "残高不足です。"
     ],
     "insufficientFunds": [
         "Insufficient funds.",
         "残高不足",
         "資金が不十分です。",
         null,
-        "残高が不足しています。"
+        "残高不足"
     ],
     "insufficientTokens": [
         "Insufficient tokens.",
@@ -2489,7 +2489,7 @@
         null,
         "ガスが不足しています",
         null,
-        "ガスが不足しています"
+        "Gasが不足しています"
     ],
     "ofTextNofM": [
         "of",
@@ -2545,7 +2545,7 @@
         null,
         "メインネットのみで使用可能",
         null,
-        "メインネットのみで使用可能"
+        "メインネットのみ使用可能です"
     ],
     "onlyConnectTrust": [
         "Only connect with sites you trust.",
@@ -3581,7 +3581,7 @@
         null,
         "当社のサポート センターにアクセス",
         null,
-        null
+        "サポートセンターへ移動"
     ],
     "swap": [
         "Swap",
@@ -3910,14 +3910,14 @@
         null,
         "処理中",
         null,
-        null
+        "処理中"
     ],
     "swapQuoteDetails": [
         "Quote details",
         null,
         "見積もりの詳細",
         null,
-        null
+        "見積の詳細"
     ],
     "swapQuoteDetailsSlippageInfo": [
         "If the price changes between the time your order is placed and confirmed it’s called \"slippage\". Your Swap will automatically cancel if slippage exceeds your \"slippage tolerance\" setting.",
@@ -3980,7 +3980,7 @@
         null,
         "見積もりを取得できません",
         null,
-        null
+        "見積を取得できません"
     ],
     "swapRate": [
         "Rate",
@@ -4001,7 +4001,7 @@
         null,
         "これは推定値です。正確な額はスリッページによって異なります。",
         null,
-        null
+        "これは推定値です。正確な額はスリッページによって異なります。"
     ],
     "swapRequestForQuotation": [
         "Request for quotation",
@@ -4120,7 +4120,7 @@
         null,
         "トランザクションが完了しました",
         null,
-        null
+        "トランザクションが完了しました"
     ],
     "swapUnknown": [
         "Unknown",
@@ -4232,21 +4232,21 @@
         null,
         "モバイルとの同期",
         null,
-        null
+        "モバイルアプリと同期"
     ],
     "syncWithMobileBeCareful": [
         "Make sure nobody else is looking at your screen when you scan this code",
         null,
         "このコードをスキャンするとき、画面を誰にも見られていないことを確認してください",
         null,
-        null
+        "コードをスキャンするとき、誰にも画面を見られていないことを確認してください"
     ],
     "syncWithMobileComplete": [
         "Your data has been synced successfully. Enjoy the MetaMask mobile app!",
         null,
         "データの同期に成功しました。MetaMask モバイル アプリをご活用ください!",
         null,
-        null
+        "データの同期に成功しました。MetaMaskモバイルアプリを利用できます!"
     ],
     "syncWithMobileDesc": [
         "You can sync your accounts and information with your mobile device. Open the MetaMask mobile app, go to \"Settings\" and tap on \"Sync from Browser Extension\"",
@@ -4260,21 +4260,21 @@
         null,
         "MetaMask モバイル アプリを初めて開く場合は、電話機を以下のステップに従って操作してください。",
         null,
-        null
+        "MetaMaskモバイルアプリを初めて使用する場合は、スマートフォンを以下のステップに従って操作してください。"
     ],
     "syncWithMobileScanThisCode": [
         "Scan this code with your MetaMask mobile app",
         null,
         "MetaMask モバイル アプリでこのコードをスキャンします",
         null,
-        null
+        "MetaMaskモバイルアプリでこのコードをスキャンしてください"
     ],
     "syncWithMobileTitle": [
         "Sync with mobile",
         null,
         "モバイルとの同期",
         null,
-        null
+        "モバイルアプリとの同期"
     ],
     "syncWithThreeBox": [
         "Sync data with 3Box (experimental)",
@@ -4302,14 +4302,14 @@
         "利用規約",
         "使用条件",
         null,
-        null
+        "利用規約"
     ],
     "termsOfService": [
         "Terms of Service",
         null,
         "サービス利用条件",
         null,
-        null
+        "サービス利用規約"
     ],
     "testFaucet": [
         "Test Faucet",
@@ -4330,14 +4330,14 @@
         null,
         "ヒント",
         null,
-        null
+        "ヒント"
     ],
     "to": [
         "To",
         "送信先",
         "移動先",
         null,
-        null
+        "送信先"
     ],
     "toAddress": [
         "To: $1",
@@ -4365,49 +4365,49 @@
         null,
         "トークンの追加が既に完了しています。",
         null,
-        null
+        "トークンは既に追加されています。"
     ],
     "tokenContractAddress": [
         "Token Contract Address",
         null,
         "トークン コントラクト アドレス",
         null,
-        null
+        "トークンコントラクトのアドレス"
     ],
     "tokenOptions": [
         "Token options",
         null,
         "トークンのオプション",
         null,
-        null
+        "トークンのオプション"
     ],
     "tokenSymbol": [
         "Token Symbol",
         "トークンシンボル",
         "トークン シンボル",
         null,
-        null
+        "トークンシンボル"
     ],
     "total": [
         "Total",
         "合計",
         "合計",
         null,
-        null
+        "合計"
     ],
     "transaction": [
         "transaction",
         null,
         "トランザクション",
         null,
-        null
+        "トランザクション"
     ],
     "transactionCancelAttempted": [
         "Transaction cancel attempted with gas fee of $1 at $2",
         null,
         "$1 のガス手数料が $2 でトランザクションのキャンセルが試みられました",
         null,
-        "$2でトランザクションのキャンセルを試みました（ガス料金:$1）"
+        "$2でトランザクションのキャンセルを試みました（Gas料金:$1）"
     ],
     "transactionCancelSuccess": [
         "Transaction successfully cancelled at $2",
@@ -4421,7 +4421,7 @@
         null,
         "トランザクションは $2 で確定されました。",
         null,
-        null
+        "トランザクションは$2で確定しました。"
     ],
     "transactionCreated": [
         "Transaction created with a value of $1 at $2.",
@@ -4463,7 +4463,7 @@
         null,
         "トランザクション手数料",
         null,
-        null
+        "Gas手数料"
     ],
     "transactionResubmitted": [
         "Transaction resubmitted with gas fee increased to $1 at $2",
@@ -4498,7 +4498,7 @@
         null,
         "自分のアカウント間での転送",
         null,
-        null
+        "自分のアカウント間での移動"
     ],
     "transferFrom": [
         "Transfer From",

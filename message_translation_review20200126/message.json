@@ -6,7 +6,7 @@
         "message": "バージョン、サポートセンター、問い合わせ情報"
     },
     "acceleratingATransaction": {
-        "message": "* より高いガス料金を支払うと、トランザクションはより早くネットワークで処理される可能性が高くなります。ただし、これは常に保証されるとは限りません。"
+        "message": "* より高いGas料金を支払うと、トランザクションはより早くネットワークで処理される可能性が高くなります。ただし、これは常に保証されるとは限りません。"
     },
     "acceptTermsOfUse": {
         "message": "$1の内容を確認し、同意します",
@@ -145,7 +145,7 @@
         "message": "承認とアグリゲータのネットワーク手数料"
     },
     "approvalTxGasCost": {
-        "message": "承認のトランザクションガス料金"
+        "message": "承認のトランザクションGas料金"
     },
     "approve": {
         "message": "仕様限度額の承認"
@@ -194,10 +194,10 @@
         "message": "一覧に戻る"
     },
     "backupApprovalInfo": {
-        "message": "このシークレット コードは、デバイスをなくしたとき、パスワードを忘れたとき、MetaMask の再インストールが必要なとき、または別のデバイスでウォレットにアクセスするときに必要です。"
+        "message": "シードフレーズはウォレットの復旧に必要です。デバイスやパスワードの紛失、MetaMaskの再インストール時、または別のデバイスでウォレットを使用する時に必要です。"
     },
     "backupApprovalNotice": {
-        "message": "シークレット リカバリ コードをバックアップして、ウォレットと資金の安全を確保してください。"
+        "message": "シードフレーズをバックアップして、ウォレットと資金の安全を確保してください。"
     },
     "backupNow": {
         "message": "今すぐバックアップ"
@@ -215,11 +215,11 @@
         "message": "ブロックエクスプローラ"
     },
     "blockExplorerView": {
-        "message": "$1 のアカウントを表示",
+        "message": "$1のアカウントを表示",
         "description": "$1 replaced by URL for custom block explorer"
     },
     "blockiesIdenticon": {
-        "message": "Blockies アイデンティコンの使用"
+        "message": "Blockies Identiconを使用"
     },
     "browserNotSupported": {
         "message": "このブラウザーはサポートしていません。"
@@ -240,13 +240,13 @@
         "message": "バイト"
     },
     "canToggleInSettings": {
-        "message": null
+        "message": "通知は設定->警告の設定で再度有効にできます。"
     },
     "cancel": {
         "message": "キャンセル"
     },
     "cancellationGasFee": {
-        "message": "キャンセルのガス料金"
+        "message": "キャンセルのGas料金"
     },
     "cancelled": {
         "message": "キャンセル済み"
@@ -365,19 +365,19 @@
         "message": "アドレス帳の追加、編集、削除、管理"
     },
     "continueToWyre": {
-        "message": "Wyre に進む"
+        "message": "Wyreへ進む"
     },
     "contractDeployment": {
         "message": "コントラクトのデプロイ"
     },
     "contractInteraction": {
-        "message": "コントラクト インタラクション"
+        "message": "コントラクトのインタラクション"
     },
     "copiedExclamation": {
         "message": "コピー完了!"
     },
     "copiedTransactionId": {
-        "message": "コピーされたトランザクション ID"
+        "message": "コピーしたトランザクションID"
     },
     "copyAddress": {
         "message": "アドレスをクリップボードにコピーしました"
@@ -389,7 +389,7 @@
         "message": "クリップボードへコピー"
     },
     "copyTransactionId": {
-        "message": "トランザクション ID をコピー"
+        "message": "トランザクションIDをコピー"
     },
     "create": {
         "message": "作成"
@@ -416,19 +416,19 @@
         "message": "現在の言語"
     },
     "customGas": {
-        "message": "ガスのカスタマイズ"
+        "message": "Gasのカスタマイズ"
     },
     "customGasSubTitle": {
-        "message": "手数料を増やすと処理時間は減少する可能性がありますが、減少しない場合もあります。"
+        "message": "手数料を増やすと処理までの時間が短縮できます。（短縮できない場合もあります。）"
     },
     "customRPC": {
-        "message": "カスタム RPC"
+        "message": "カスタムRPC"
     },
     "customSpendLimit": {
         "message": "カスタム使用限度額"
     },
     "customToken": {
-        "message": "カスタム トークン"
+        "message": "カスタムトークン"
     },
     "dataBackupFoundInfo": {
         "message": "一部のアカウントデータはMetaMaskの前回のインストール時にバックアップされました。これには、設定、アドレス帳、トークンが含まれます。データを今すぐ復元しますか?"
@@ -443,14 +443,14 @@
         "message": "復号"
     },
     "decryptCopy": {
-        "message": "暗号化されたメッセージのコピー"
+        "message": "暗号化したメッセージをコピー"
     },
     "decryptInlineError": {
-        "message": "このメッセージは次のエラーによって復号できません。$1",
+        "message": "エラーのためメッセージを復号できません。$1",
         "description": "$1 is error message"
     },
     "decryptMessageNotice": {
-        "message": "$1 は、このメッセージを読んでアクションを完了することを望んでいます",
+        "message": "$1はメッセージを読み取ってアクションを完了しようとしています",
         "description": "$1 is the web3 site name"
     },
     "decryptMetamask": {
@@ -484,7 +484,7 @@
         "message": "Etherを直接入金"
     },
     "directDepositEtherExplainer": {
-        "message": "Ether を既に所有している場合、Ether を新しいウォレットに入れる最短の方法は直接入金です。"
+        "message": "Etherが既にあるなら、MetaMaskの新しいウォレットにEtherを送金することができます。"
     },
     "disconnect": {
         "message": "切断"
@@ -499,16 +499,16 @@
         "message": "$1を切断"
     },
     "disconnectThisAccount": {
-        "message": "このアカウントの接続解除"
+        "message": "このアカウントを切断"
     },
     "dismiss": {
-        "message": "破棄"
+        "message": "却下"
     },
     "done": {
         "message": "完了"
     },
     "dontHaveAHardwareWallet": {
-        "message": "ハードウェア ウォレットをお持ちでありませんか?"
+        "message": "ハードウェアウォレットを所有していますか?"
     },
     "dontShowThisAgain": {
         "message": "再度表示しない"
@@ -687,7 +687,7 @@
         "message": "このデバイスを無視してください"
     },
     "from": {
-        "message": "移動元"
+        "message": "送信元"
     },
     "fromAddress": {
         "message": "移動元:$1",
@@ -700,29 +700,29 @@
         "message": "機能の種類"
     },
     "gasLimit": {
-        "message": "ガスリミット"
+        "message": "Gasリミット"
     },
     "gasLimitInfoTooltipContent": {
-        "message": "ガスリミットは、使用するガスの最大量です。"
+        "message": "Gasリミットは、使用するガスの最大量です。"
     },
     "gasLimitTooLow": {
-        "message": "ガスリミットは21000以上にする必要があります"
+        "message": "Gasリミットは21000以上にする必要があります"
     },
     "gasLimitTooLowWithDynamicFee": {
-        "message": "ガス リミットは $1 以上にする必要があります",
+        "message": "Gasリミットは$1以上にする必要があります",
         "description": "$1 is the custom gas limit, in decimal."
     },
     "gasPrice": {
-        "message": "ガス価格 (GWEI)"
+        "message": "Gas価格 (GWEI)"
     },
     "gasPriceExtremelyLow": {
-        "message": "ガス価格が小さすぎます"
+        "message": "Gas価格が小さすぎます"
     },
     "gasPriceInfoTooltipContent": {
-        "message": "ガス価格は1ガス当たりのEther価格を指定します。"
+        "message": "Gas価格は1Gas当たりのEther価格です。"
     },
     "gasUsed": {
-        "message": "ガスが使用されました"
+        "message": "Gas使用量"
     },
     "gdprMessage": {
         "message": "このデータは集約されているため、一般データ保護規則 (EU) (規則 2016/679) の目的のために匿名とされます。当社の個人情報の取り扱いに関する詳細については、当社の $1 をご覧ください。",
@@ -749,31 +749,31 @@
         "message": "サポートを受ける。"
     },
     "getStarted": {
-        "message": "開始"
+        "message": "はじめる"
     },
     "goerli": {
         "message": "Goerliテストネットワーク"
     },
     "happyToSeeYou": {
-        "message": "お会いできてうれしいです。"
+        "message": "また会えましたね!"
     },
     "hardware": {
         "message": "ハードウェア"
     },
     "hardwareWalletConnected": {
-        "message": "ハードウェア ウォレットが接続されました"
+        "message": "ハードウェアウォレットが接続されました"
     },
     "hardwareWallets": {
-        "message": "ハードウェア ウォレットを接続します"
+        "message": "ハードウェア ウォレットを接続してください"
     },
     "hardwareWalletsMsg": {
         "message": "MetaMask で使用するハードウェア ウォレットを選択します"
     },
     "havingTroubleConnecting": {
-        "message": "接続に問題がある場合"
+        "message": "接続に問題がありますか?"
     },
     "here": {
-        "message": "ここ",
+        "message": "こちら",
         "description": "as in -click here- for more information (goes with troubleTokenBalances)"
     },
     "hexData": {
@@ -825,10 +825,10 @@
         "message": "最初のトランザクションはネットワークによって確認されました。戻るには OK をクリックします。"
     },
     "insufficientBalance": {
-        "message": "残高が不足しています。"
+        "message": "残高不足です。"
     },
     "insufficientFunds": {
-        "message": "残高が不足しています。"
+        "message": "残高不足"
     },
     "insufficientTokens": {
         "message": "トークンが不足しています。"
@@ -1117,7 +1117,7 @@
         "message": "これは正しいアカウントですか?ウォレットで現在選択されているアカウントと異なっています"
     },
     "notEnoughGas": {
-        "message": "ガスが不足しています"
+        "message": "Gasが不足しています"
     },
     "ofTextNofM": {
         "message": "of"
@@ -1142,7 +1142,7 @@
         "message": "悪意のあるEthereumネットワークプロバイダは、不正なブロックチェーンによりネットワーク行動を記録することがあります。信頼できるカスタムネットワークのみを追加してください。"
     },
     "onlyAvailableOnMainnet": {
-        "message": "メインネットのみで使用可能"
+        "message": "メインネットのみ使用可能です"
     },
     "onlyConnectTrust": {
         "message": "信頼するサイトにのみ接続してください。"
@@ -1592,7 +1592,7 @@
         "message": "送信済み"
     },
     "supportCenter": {
-        "message": "当社のサポート センターにアクセス"
+        "message": "サポートセンターへ移動"
     },
     "swap": {
         "message": "スワップ"
@@ -1749,7 +1749,7 @@
         "message": "処理中"
     },
     "swapQuoteDetails": {
-        "message": "見積もりの詳細"
+        "message": "見積の詳細"
     },
     "swapQuoteDetailsSlippageInfo": {
         "message": "注文した時点と注文が承認された時点で価格が変更される場合、これは\"スリッページ\"と呼ばれます。スリッページが\"最大スリッページ\"設定を超える場合、スワップは自動的にキャンセルされます。"
@@ -1778,7 +1778,7 @@
         "message": "額の調整またはスリッページの設定を試みてから、もう一度実行してください。"
     },
     "swapQuotesNotAvailableErrorTitle": {
-        "message": "見積もりを取得できません"
+        "message": "見積を取得できません"
     },
     "swapRate": {
         "message": "レート"
@@ -1890,25 +1890,25 @@
         "message": "シンボルは 11 文字以下にする必要があります。"
     },
     "syncWithMobile": {
-        "message": "モバイルとの同期"
+        "message": "モバイルアプリと同期"
     },
     "syncWithMobileBeCareful": {
-        "message": "このコードをスキャンするとき、画面を誰にも見られていないことを確認してください"
+        "message": "コードをスキャンするとき、誰にも画面を見られていないことを確認してください"
     },
     "syncWithMobileComplete": {
-        "message": "データの同期に成功しました。MetaMask モバイル アプリをご活用ください!"
+        "message": "データの同期に成功しました。MetaMaskモバイルアプリを利用できます!"
     },
     "syncWithMobileDesc": {
         "message": "アカウントと情報をモバイルデバイスと同期させることができます。MetaMask モバイル アプリを開き、\"設定\" に進み、\"ブラウザー拡張機能から同期\" をタップします。"
     },
     "syncWithMobileDescNewUsers": {
-        "message": "MetaMask モバイル アプリを初めて開く場合は、電話機を以下のステップに従って操作してください。"
+        "message": "MetaMaskモバイルアプリを初めて使用する場合は、スマートフォンを以下のステップに従って操作してください。"
     },
     "syncWithMobileScanThisCode": {
-        "message": "MetaMask モバイル アプリでこのコードをスキャンします"
+        "message": "MetaMaskモバイルアプリでこのコードをスキャンしてください"
     },
     "syncWithMobileTitle": {
-        "message": "モバイルとの同期"
+        "message": "モバイルアプリとの同期"
     },
     "syncWithThreeBox": {
         "message": "データを 3Box と同期 (試験用)"
@@ -1920,10 +1920,10 @@
         "message": "3Box は、最初の同期中のエラーにより使用不能状態にあります"
     },
     "terms": {
-        "message": "使用条件"
+        "message": "利用規約"
     },
     "termsOfService": {
-        "message": "サービス利用条件"
+        "message": "サービス利用規約"
     },
     "testFaucet": {
         "message": "テスト Faucet"
@@ -1935,7 +1935,7 @@
         "message": "ヒント"
     },
     "to": {
-        "message": "移動先"
+        "message": "送信先"
     },
     "toAddress": {
         "message": "移動先:$1",
@@ -1948,16 +1948,16 @@
         "message": "トークン"
     },
     "tokenAlreadyAdded": {
-        "message": "トークンの追加が既に完了しています。"
+        "message": "トークンは既に追加されています。"
     },
     "tokenContractAddress": {
-        "message": "トークン コントラクト アドレス"
+        "message": "トークンコントラクトのアドレス"
     },
     "tokenOptions": {
         "message": "トークンのオプション"
     },
     "tokenSymbol": {
-        "message": "トークン シンボル"
+        "message": "トークンシンボル"
     },
     "total": {
         "message": "合計"
@@ -1966,13 +1966,13 @@
         "message": "トランザクション"
     },
     "transactionCancelAttempted": {
-        "message": "$2でトランザクションのキャンセルを試みました（ガス料金:$1）"
+        "message": "$2でトランザクションのキャンセルを試みました（Gas料金:$1）"
     },
     "transactionCancelSuccess": {
         "message": "$2でトランザクションのキャンセルが成功しました"
     },
     "transactionConfirmed": {
-        "message": "トランザクションは $2 で確定されました。"
+        "message": "トランザクションは$2で確定しました。"
     },
     "transactionCreated": {
         "message": "トランザクションは $1の値が $2 で作成されました。"
@@ -1990,7 +1990,7 @@
         "message": "トランザクションでエラーが発生しました。"
     },
     "transactionFee": {
-        "message": "トランザクション手数料"
+        "message": "Gas手数料"
     },
     "transactionResubmitted": {
         "message": "トランザクションを$2で再送信しました。(追加ガス料金:$1)"
@@ -2005,7 +2005,7 @@
         "message": "転送"
     },
     "transferBetweenAccounts": {
-        "message": "自分のアカウント間での転送"
+        "message": "自分のアカウント間での移動"
     },
     "transferFrom": {
         "message": "転送元"
