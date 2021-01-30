@@ -81,7 +81,7 @@
         null,
         "アクティブ",
         null,
-        null
+        "アクティブ"
     ],
     "activity": [
         "Activity",
@@ -200,7 +200,7 @@
         null,
         "アグリゲーター ネットワーク料金",
         null,
-        null
+        "アグリゲータのネットワーク手数料"
     ],
     "alertDisableTooltip": [
         "This can be changed in \"Settings > Alerts\"",
@@ -389,7 +389,7 @@
         "属性",
         "属性",
         null,
-        null
+		"ソフトウェアの著作権告知"
     ],
     "authorizedPermissions": [
         "You have authorized the following permissions",
@@ -1145,7 +1145,7 @@
         null,
         "ハードウェア ウォレットをお持ちでありませんか?",
         null,
-        "ハードウェアウォレットを所有していますか?"
+        "ハードウェアウォレットをお持ちではありませんか?"
     ],
     "dontShowThisAgain": [
         "Don't show this again",
@@ -1173,7 +1173,7 @@
         null,
         "状態ログのダウンロード",
         null,
-        null
+        "状態ログのダウンロード"
     ],
     "dropped": [
         "Dropped",
@@ -1222,56 +1222,56 @@
         null,
         "テストに合格しました。シード フレーズを安全に保管してください。これはお客様の責任になります。",
         null,
-        null
+        "テストに合格しました。シードフレーズを安全に保管してください。これは利用者の責務です。"
     ],
     "endOfFlowMessage10": [
         "All Done",
         "全て完了",
         "すべて完了",
         null,
-        null
+        "全て完了"
     ],
     "endOfFlowMessage2": [
         "Tips on storing it safely",
         null,
         "それを安全に保管するためのヒント",
         null,
-        null
+        "安全に保管するためのヒント"
     ],
     "endOfFlowMessage3": [
         "Save a backup in multiple places.",
         null,
         "バックアップは複数の場所に保存します。",
         null,
-        null
+        "バックアップは複数の場所に保管してください。"
     ],
     "endOfFlowMessage4": [
         "Never share the phrase with anyone.",
         null,
         "フレーズは絶対に誰にも教えないでください。",
         null,
-        null
+        "シードフレーズは絶対に誰にも教えないでください。"
     ],
     "endOfFlowMessage5": [
         "Be careful of phishing! MetaMask will never spontaneously ask for your seed phrase.",
         null,
         "フィッシングにご注意ください!MetaMask はシード フレーズを自発的に要求することは絶対にありません。",
         null,
-        null
+        "フィッシング詐欺に注意してください!MetaMaskは自発的にシードフレーズを絶対に要求しません。"
     ],
     "endOfFlowMessage6": [
         "If you need to back up your seed phrase again, you can find it in Settings -> Security.",
         null,
         "シード フレーズを再度バックアップする必要がある場合、シード フレーズを [設定] -> [セキュリティ] で見つけることができます。",
         null,
-        null
+        "シードフレーズを再度バックアップする場合は、[設定] -> [セキュリティとプライバシー] で見つけることができます。"
     ],
     "endOfFlowMessage7": [
         "If you ever have questions or see something fishy, email support@metamask.io.",
         null,
         "問題がある場合、または不審な点が見つかった場合は、support@metamask.io 宛に電子メールをお送りください。",
         null,
-        null
+        "問題や不審な点がある場合は、support@metamask.io 宛に電子メールをお送りください。"
     ],
     "endOfFlowMessage8": [
         "MetaMask cannot recover your seedphrase.",
@@ -1285,7 +1285,7 @@
         null,
         "詳細を表示。",
         null,
-        null
+        "詳細を表示。"
     ],
     "endpointReturnedDifferentChainId": [
         "The endpoint returned a different chain ID: $1",
@@ -1306,7 +1306,7 @@
         null,
         "ENS 名の登録のエラーです",
         null,
-        null
+        "ENS名の登録のエラーです"
     ],
     "enterAnAlias": [
         "Enter an alias",
@@ -1460,7 +1460,7 @@
         "失敗",
         "失敗しました",
         null,
-        null
+        "失敗"
     ],
     "failedToFetchChainId": [
         "Could not fetch chain ID. Is your RPC URL correct?",
@@ -1649,7 +1649,7 @@
         "フォーセットで $1のEtherを得ることができます。",
         "$1 の Faucet から Ether を取得してください",
         "Displays network name for Ether faucet",
-        null
+        "$1のFaucetでEtherを得ることができます。"
     ],
     "getHelp": [
         "Get Help.",
@@ -1698,14 +1698,14 @@
         null,
         "ハードウェア ウォレットを接続します",
         null,
-        "ハードウェア ウォレットを接続してください"
+        "ハードウェアウォレットの接続"
     ],
     "hardwareWalletsMsg": [
         "Select a hardware wallet you'd like to use with MetaMask",
         null,
         "MetaMask で使用するハードウェア ウォレットを選択します",
         null,
-        "MetaMask で使用するハードウェア ウォレットを選択します"
+        "MetaMaskに接続するハードウェアウォレットを選択してください"
     ],
     "havingTroubleConnecting": [
         "Having trouble connecting?",
@@ -1733,7 +1733,7 @@
         "隠す",
         "非表示",
         null,
-        null
+        "非表示"
     ],
     "hideTokenPrompt": [
         "Hide Token?",
@@ -1775,14 +1775,14 @@
         "追加したアカウントはMetaMaskのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は",
         " インポートされたアカウントは、最初に作成した MetaMask アカウント シード フレーズと関連付けられません。インポートされたアカウントの詳細を表示",
         null,
-        null
+        "追加したアカウントはMetaMaskのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は"
     ],
     "importAccountSeedPhrase": [
         "Import an account with seed phrase",
         null,
         "シード フレーズを使用してアカウントをインポート",
         null,
-        null
+        "シードフレーズを使用してアカウントをインポート"
     ],
     "importUsingSeed": [
         "Import using account seed phrase",
@@ -1796,7 +1796,7 @@
         null,
         "ウォレットのインポート",
         null,
-        null
+        "ウォレットのインポート"
     ],
     "importYourExisting": [
         "Import your existing wallet using a 12 word seed phrase",
@@ -1964,14 +1964,14 @@
         null,
         "IPFS ゲートウェイ",
         null,
-        null
+        "IPFSゲートウェイ"
     ],
     "ipfsGatewayDescription": [
         "Enter the URL of the IPFS CID gateway to use for ENS content resolution.",
         null,
         "ENS コンテンツの解決に使用する IPFS CID ゲートウェイの URL を入力します。",
         null,
-        null
+        "ENSコンテンツレゾリューションに使用する、IPFS CIDゲートウェイのURLを設定します"
     ],
     "jsonFile": [
         "JSON File",
@@ -2013,7 +2013,7 @@
         "詳細",
         "詳細を表示",
         null,
-        null
+        "詳しい使用手順"
     ],
     "ledgerAccountRestriction": [
         "You need to make use your last account before you can add a new one.",
@@ -2251,14 +2251,14 @@
         null,
         "自分のウォレット アカウント",
         null,
-        null
+        "このウォレットのアカウント"
     ],
     "myWalletAccountsDescription": [
         "All of your MetaMask created accounts will automatically be added to this section.",
         null,
         "MetaMask で作成したすべてのアカウントはこのセクションに自動的に追加されます。",
         null,
-        null
+        "MetaMaskで作成したすべてのアカウントは、このセクションに自動的に追加されます。"
     ],
     "needEtherInWallet": [
         "To interact with decentralized applications using MetaMask, you’ll need Ether in your wallet.",
@@ -2468,7 +2468,7 @@
         null,
         "確認画面上でナンス (トランザクション番号) を変更するには、これをオンにします。これは高度な機能であり、慎重に使用してください。",
         null,
-        "確認画面上でNonce(トランザクション番号)を変更するには、これをオンにします。これは高度な機能です。慎重に使用してください。"
+        "オンにすると、確認画面上でNonce(トランザクション番号)を変更できます。これは高度な機能です。慎重に使用してください。"
     ],
     "nonceFieldHeading": [
         "Custom Nonce",
@@ -2503,7 +2503,7 @@
         null,
         "オフ",
         null,
-        "Off"
+        "オフ"
     ],
     "offlineForMaintenance": [
         "Offline for maintenance",
@@ -2517,14 +2517,14 @@
         null,
         "OK",
         null,
-        null
+        "OK"
     ],
     "on": [
         "On",
         null,
         "オン",
         null,
-        "On"
+        "オン"
     ],
     "onboardingReturnNotice": [
         "\"$1\" will close this tab and direct back to $2",
@@ -2573,7 +2573,7 @@
         null,
         "トレザーまたはレジャーを整理し、資金をコールド ストレージに保管",
         null,
-        "Trezor又はLedgerを注文して資金をコールドストレージに保管"
+        "Trezor又はLedgerを注文して資金をコールドストレージに保管できます"
     ],
     "origin": [
         "Origin",
@@ -2685,14 +2685,14 @@
         null,
         "プライマリ通貨",
         null,
-        null
+        "基準通貨"
     ],
     "primaryCurrencySettingDescription": [
         "Select native to prioritize displaying values in the native currency of the chain (e.g. ETH). Select Fiat to prioritize displaying values in your selected fiat currency.",
         null,
         "チェーンのネイティブ通貨 (ETH など) による値の表示を優先するには、[ネイティブ] を選択します。選択したフィアット通貨による値の表示を優先するには、[フィアット] を選択します。",
         null,
-        null
+        "値の表示をチェーンの通貨(ETHなど)で優先するには、通貨(ETHなど)を選択します。選択した基準通貨を優先するには、[法定通貨] を選択します。"
     ],
     "privacyMsg": [
         "Privacy Policy",
@@ -2783,7 +2783,7 @@
         null,
         "接続する準備ができていますか?",
         null,
-        null
+        "接続準備はよろしいですか?"
     ],
     "receive": [
         "Receive",
@@ -2909,14 +2909,14 @@
         null,
         "アカウントをリセットすると、トランザクション履歴がクリアされます。これによってアカウント内の残高が変更されることはありません。また、シード フレーズの再入力は要求されません。",
         null,
-        null
+        "アカウントをリセットするとトランザクション履歴がクリアされます。シードフレーズの再入力は不要です。これによりアカウント内の残高が変更されることはありません。"
     ],
     "restore": [
         "Restore",
         null,
         "復元",
         null,
-        null
+        "復元"
     ],
     "restoreAccountWithSeed": [
         "Restore your Account with Seed Phrase",
@@ -3007,7 +3007,7 @@
         null,
         "新規 RPC URL",
         null,
-        "新規RPCのURL"
+        "RPC URL"
     ],
     "save": [
         "Save",
@@ -3077,21 +3077,21 @@
         null,
         "秘密のバックアップ フレーズ",
         null,
-        null
+        "シードフレーズのバックアップ"
     ],
     "secretBackupPhraseDescription": [
         "Your secret backup phrase makes it easy to back up and restore your account.",
         null,
         "秘密のバックアップ フレーズを使用すると、アカウントのバックアップと復元が容易になります。",
         null,
-        null
+        "シードフレーズを使用すると、アカウントのバックアップと復元が簡単になります。"
     ],
     "secretBackupPhraseWarning": [
         "WARNING: Never disclose your backup phrase. Anyone with this phrase can take your Ether forever.",
         null,
         "警告:バックアップ フレーズは絶対に公開しないでください。このフレーズを使用すると、誰でも Ether を永久に利用することができます。",
         null,
-        null
+        "警告:シードフレーズは絶対に公開しないでください。シードフレーズを使うと、誰でもアカウントからETHを盗み出せます。"
     ],
     "secretPhrase": [
         "Enter your secret twelve word phrase here to restore your vault.",
@@ -3105,14 +3105,14 @@
         null,
         "セキュリティとプライバシー",
         null,
-        null
+        "セキュリティとプライバシー"
     ],
     "securitySettingsDescription": [
         "Privacy settings and wallet seed phrase",
         null,
         "プライバシーの設定とウォレット シード フレーズ",
         null,
-        null
+        "プライバシーの設定とウォレットのシードフレーズ"
     ],
     "seedPhrasePlaceholder": [
         "Separate each word with a single space",
@@ -3182,7 +3182,7 @@
         null,
         "各フレーズを選択して、各フレーズが正しいことを確認してください。",
         null,
-        null
+        "単語を選択して、各フレーズが正しいことを確認してください。"
     ],
     "selectHdPath": [
         "Select HD Path",
@@ -3280,14 +3280,14 @@
         null,
         "高度なガス コントロール",
         null,
-        null
+        "高度なGasの設定"
     ],
     "showAdvancedGasInlineDescription": [
         "Select this to show gas price and limit controls directly on the send and confirm screens.",
         null,
         "これを選択すると、ガス価格とリミット コントロールが送金画面と確認画面に直接表示されます。",
         null,
-        null
+        "オンにするとGas価格とGasリミットが送金画面と確認画面に直接表示されます。"
     ],
     "showFiatConversionInTestnets": [
         "Show Conversion on Testnets",
@@ -3301,7 +3301,7 @@
         null,
         "これを選択すると、テストネット上にフィアット変換が表示されます",
         null,
-        "選択すると、テストネットで法定通貨換算額を表示します"
+        "オンにすると、テストネットで法定通貨換算額を表示します"
     ],
     "showHexData": [
         "Show Hex Data",
@@ -3315,21 +3315,21 @@
         null,
         "これを選択すると、送金画面に 16 進データフィールドが表示されます",
         null,
-        "選択すると、送金画面に16進データフィールドを表示します"
+        "オンにすると、送金画面に16進データフィールドを表示します"
     ],
     "showIncomingTransactions": [
         "Show Incoming Transactions",
         null,
         "入庫の表示",
         null,
-        "入庫の表示"
+        "着信したトランザクションの表示"
     ],
     "showIncomingTransactionsDescription": [
         "Select this to use Etherscan to show incoming transactions in the transactions list",
         null,
         "これを選択すると、Etherscan を使用して入庫がトランザクションリストに表示されます",
         null,
-        "選択すると、Etherscanを使用して、着信トランザクションをトランザクションリストに表示します"
+        "オンにすると、Etherscanを使用して、着信トランザクションをトランザクションリストに表示します"
     ],
     "showPermissions": [
         "Show permissions",
@@ -3476,98 +3476,98 @@
         null,
         "状態ログの検索時にエラーが発生しました。",
         null,
-        null
+        "状態ログの検索中にエラーが発生しました。"
     ],
     "stateLogFileName": [
         "MetaMask State Logs",
         null,
         "MetaMask 状態ログ",
         null,
-        null
+        "MetaMask State Logs"
     ],
     "stateLogs": [
         "State Logs",
         null,
         "状態ログ",
         null,
-        null
+        "状態ログ"
     ],
     "stateLogsDescription": [
         "State logs contain your public account addresses and sent transactions.",
         null,
         "状態ログには、公開アカウント アドレスと送信済みトランザクションが含まれています。",
         null,
-        null
+        "状態ログには、アカウントアドレスと送信済みトランザクションが含まれています。"
     ],
     "statusConnected": [
         "Connected",
         null,
         "接続済み",
         null,
-        null
+        "接続済"
     ],
     "statusNotConnected": [
         "Not connected",
         null,
         "接続されていません",
         null,
-        null
+        "未接続"
     ],
     "step1HardwareWallet": [
         "1. Connect Hardware Wallet",
         null,
         "1.ハードウェア ウォレットの接続",
         null,
-        null
+        "1.ハードウェア ウォレットの接続"
     ],
     "step1HardwareWalletMsg": [
         "Connect your hardware wallet directly to your computer.",
         null,
         "コンピューターにハードウェア ウォレットを直接接続します。",
         null,
-        "コンピューターにハードウェアウォレットを直接接続します。"
+        "コンピューターに直接ハードウェアウォレットを接続してください。"
     ],
     "step2HardwareWallet": [
         "2. Select an Account",
         null,
         "2.1 個のアカウントを選択",
         null,
-        null
+        "2.アカウントを選択"
     ],
     "step2HardwareWalletMsg": [
         "Select the account you want to view. You can only choose one at a time.",
         null,
         "表示するアカウントを選択します。一度に 1 つだけ選択できます。",
         null,
-        null
+        "読取るアカウントを１つ選択します。"
     ],
     "step3HardwareWallet": [
         "3. Start using web3 sites and more!",
         null,
         "3.Web3 サイトとその他のサイトを使用して開始します!",
         null,
-        null
+        "3.web3を使用してサイトに接続しましょう!"
     ],
     "step3HardwareWalletMsg": [
         "Use your hardware account like you would with any Ethereum account. Connect to web3 sites, send ETH, buy and store ERC20 tokens and non-fungible tokens like CryptoKitties.",
         null,
         "イーサリアム アカウントの場合と同じように、ハードウェア アカウントを使用します。Web3 サイトに接続して、ETH を送金し、ERC20 トークンおよび CryptoKitties のような代替不可能なトークンを購入して保管します。",
         null,
-        null
+        "Ethereumアカウントと同じように、ハードウェアアカウントを使用します。web3サイトに接続してETH を送金し、ERC20トークンやCryptoKittiesのようなトークンを購入して保管できます。"
     ],
     "storePhrase": [
         "Store this phrase in a password manager like 1Password.",
         null,
         "このフレーズを 1Password のようなパスワードマネージャーに保管します。",
         null,
-        null
+        "このフレーズを1Passwordのようなパスワードマネージャーに保管てください。"
     ],
     "submit": [
         "Submit",
         null,
         "送信",
         null,
-        null
+        "送信"
     ],
     "submitted": [
         "Submitted",
@@ -4218,14 +4218,14 @@
         null,
         "シンボル",
         null,
-        null
+        "シンボル"
     ],
     "symbolBetweenZeroTwelve": [
         "Symbol must be 11 characters or fewer.",
         null,
         "シンボルは 11 文字以下にする必要があります。",
         null,
-        null
+        "シンボルは11文字以下にする必要があります。"
     ],
     "syncWithMobile": [
         "Sync with mobile",
@@ -4281,21 +4281,21 @@
         null,
         "データを 3Box と同期 (試験用)",
         null,
-        null
+        "データを3Boxと同期(試験中)"
     ],
     "syncWithThreeBoxDescription": [
         "Turn on to have your settings backed up with 3Box. This feature is currently experimental; use at your own risk.",
         null,
         "これをオンにすると、設定が 3Box でバックアップされます。この機能は現在試験段階にあります。ご自身の責任で使用してください。",
         null,
-        null
+        "オンにすると、設定が3Box でバックアップされます。この機能は試験中です。ご自身の責任で使用してください。"
     ],
     "syncWithThreeBoxDisabled": [
         "3Box has been disabled due to an error during the initial sync",
         null,
         "3Box は、最初の同期中のエラーにより使用不能状態にあります",
         null,
-        null
+        "3Boxは、初期同期のエラーにより、使用不能です。"
     ],
     "terms": [
         "Terms of Use",
@@ -4316,14 +4316,14 @@
         "Faucetをテスト",
         "テスト Faucet",
         null,
-        null
+        "テストFaucet"
     ],
     "thisWillCreate": [
         "This will create a new wallet and seed phrase",
         null,
         "これにより、新しいウォレットとシード フレーズが作成されます",
         null,
-        null
+        "新しいウォレットとシードフレーズが作成されます"
     ],
     "tips": [
         "Tips",
@@ -4358,7 +4358,7 @@
         "トークン",
         "トークン",
         null,
-        null
+        "トークン"
     ],
     "tokenAlreadyAdded": [
         "Token has already been added.",
@@ -4428,56 +4428,56 @@
         null,
         "トランザクションは $1の値が $2 で作成されました。",
         null,
-        null
+        "トランザクションは$2で$1の値を作成しました。"
     ],
     "transactionDropped": [
         "Transaction dropped at $2.",
         null,
         "トランザクションは $2 で削除されました。",
         null,
-        null
+        "トランザクションは$2で削除されました。"
     ],
     "transactionError": [
         "Transaction Error. Exception thrown in contract code.",
         null,
         "トランザクション エラー。コントラクト コードで例外がスローされました。",
         null,
-        null
+        "トランザクションエラー。コントラクトコードで例外がスローされました。"
     ],
     "transactionErrorNoContract": [
         "Trying to call a function on a non-contract address.",
         null,
         "コントラクト外アドレスに対して関数の呼び出しを試みています。",
         null,
-        null
+        "コントラクト外アドレスに対して関数呼出を試みています。"
     ],
     "transactionErrored": [
         "Transaction encountered an error.",
         null,
         "トランザクションでエラーが発生しました。",
         null,
-        null
+        "トランザクションでエラーが発生しました。"
     ],
     "transactionFee": [
         "Transaction Fee",
         null,
         "トランザクション手数料",
         null,
-        "Gas手数料"
+        "トランザクション手数料"
     ],
     "transactionResubmitted": [
         "Transaction resubmitted with gas fee increased to $1 at $2",
         null,
         "ガス手数料を $2 で $1 に増加して、トランザクションを再送信しました。",
         null,
-        "トランザクションを$2で再送信しました。(追加ガス料金:$1)"
+        "トランザクションを$2で再送信しました。(追加Gas料金:$1)"
     ],
     "transactionSubmitted": [
         "Transaction submitted with gas fee of $1 at $2.",
         null,
         "$1 のガス手数料が $2 でトランザクションが送信されました。",
         null,
-        "トランザクションが$2で送信されました。（ガス料金$1）"
+        "トランザクションが$2で送信されました。（Gas料金$1）"
     ],
     "transactionUpdated": [
         "Transaction updated at $2.",
@@ -4491,7 +4491,7 @@
         null,
         "転送",
         null,
-        null
+        "転送"
     ],
     "transferBetweenAccounts": [
         "Transfer between my accounts",
@@ -4505,35 +4505,35 @@
         null,
         "転送元",
         null,
-        null
+        "転送元"
     ],
     "troubleConnectingToWallet": [
         "We had trouble connecting to your $1, try reviewing $2 and try again.",
         null,
         "$1 への接続に問題があります。$2 をレビューしてから、もう一度実行してください。",
         "$1 is the wallet device name; $2 is a link to wallet connection guide",
-        null
+        "$1への接続に失敗しました。$2を再確認して、もう一度実行してください。"
     ],
     "troubleTokenBalances": [
         "We had trouble loading your token balances. You can view them ",
         "トークン残高を取得できません。こちらでご確認ください。",
         "トークン バランスのロードに問題があります。トークン バランスを表示できます",
         "Followed by a link (here) to view token balances",
-        null
+        "トークン残高を取得できません。こちらでご確認ください。"
     ],
     "trustSiteApprovePermission": [
         "Do you trust this site? By granting this permission, you’re allowing $1 to withdraw your $2 and automate transactions for you.",
         null,
         "このサイトを信頼しますか?許可を与えることにより、$1 は $2 を取り消して、トランザクションを自動化できます。",
         "$1 is the url requesting permission and $2 is the symbol of the currency that the request is for",
-        null
+        "このサイトを信頼しますか?許可を与えることにより、$1は$2の支払トランザクションを自動化します。"
     ],
     "tryAgain": [
         "Try again",
         null,
         "再試行",
         null,
-        null
+        "再試行"
     ],
     "typePassword": [
         "Type your MetaMask password",
@@ -4547,7 +4547,7 @@
         null,
         "未承認",
         null,
-        null
+        "未承認"
     ],
     "units": [
         "units",
@@ -4596,7 +4596,7 @@
         null,
         "無制限",
         null,
-        null
+        "無制限"
     ],
     "unlock": [
         "Unlock",
@@ -4617,7 +4617,7 @@
         null,
         "$1 に更新されました",
         null,
-        null
+        "$1に更新しました"
     ],
     "urlErrorMsg": [
         "URLs require the appropriate HTTP/HTTPS prefix.",
@@ -4631,21 +4631,21 @@
         null,
         "URL はネットワークの既存のリストに既に存在します",
         null,
-        null
+        "URLはネットワークリストに既に存在します"
     ],
     "usePhishingDetection": [
         "Use Phishing Detection",
         null,
         "フィッシング検出を使用",
         null,
-        null
+        "フィッシング検出を使用"
     ],
     "usePhishingDetectionDescription": [
         "Display a warning for phishing domains targeting Ethereum users",
         null,
         "イーサリアムユーザーを対象としたドメインのフィッシングに対して警告を表示します",
         null,
-        null
+        "Ethereumユーザーを対象としたドメインのフィッシングに対して警告を表示します"
     ],
     "usedByClients": [
         "Used by a variety of different clients",
@@ -4666,7 +4666,7 @@
         null,
         "このトークンを $1 で検証",
         "Points the user to etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"etherscan\"",
-        null
+        "このトークンを$1で検証"
     ],
     "viewAccount": [
         "View Account",
@@ -4680,14 +4680,14 @@
         null,
         "連絡先を表示",
         null,
-        null
+        "連絡先を表示"
     ],
     "viewOnCustomBlockExplorer": [
         "View at $1",
         null,
         "$1 に表示",
         null,
-        null
+        "$1で表示"
     ],
     "viewOnEtherscan": [
         "View on Etherscan",
@@ -4750,7 +4750,7 @@
         null,
         "これは何ですか?",
         null,
-        null
+        "これは何ですか?"
     ],
     "writePhrase": [
         "Write this phrase on a piece of paper and store in a secure location. If you want even more security, write it down on multiple pieces of paper and store each in 2 - 3 different locations.",
@@ -4806,6 +4806,6 @@
         null,
         "スピードアップ時にゼロのガス価格",
         null,
-        null
+        "追加のGas価格を0にできません"
     ]
 }
