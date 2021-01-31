@@ -704,14 +704,14 @@
         null,
         "このサイトに接続されているアカウントを $1 個持っています。",
         "$1 is the number of accounts",
-        "このサイトに接続されているアカウントは$1個です。"
+        "このサイトに接続されたアカウントは$1個あります。"
     ],
     "connectedAccountsDescriptionSingular": [
         "You have 1 account connected to this site.",
         null,
         "このサイトに接続されているアカウントを 1 個持っています。",
         null,
-        "このサイトに接続されているアカウントは1個です。"
+        "このサイトに接続されたアカウントは$1個あります。"
     ],
     "connectedAccountsEmptyDescription": [
         "MetaMask is not connected this site. To connect to a web3 site, find the connect button on their site.",
@@ -1166,7 +1166,7 @@
         null,
         "この秘密のバックアップ フレーズをダウンロードして、外部の暗号化されたハードウェア ドライブまたはストレージ媒体に安全に保管します。",
         null,
-        null
+        "シードフレーズをダウンロードして、外部の暗号化されたハードウェアドライブまたはストレージ媒体に安全に保管してください。"
     ],
     "downloadStateLogs": [
         "Download State Logs",
@@ -1215,7 +1215,7 @@
         null,
         "公開暗号鍵の要求",
         null,
-        null
+        "公開暗号鍵の要求"
     ],
     "endOfFlowMessage1": [
         "You passed the test - keep your seedphrase safe, it's your responsibility!",
@@ -1320,7 +1320,7 @@
         null,
         "使用限度額の最大値を入力してください",
         null,
-        null
+        "使用限度額の最大値を入力してください"
     ],
     "enterPassword": [
         "Enter password",
@@ -1516,14 +1516,14 @@
         null,
         "IPFS ゲートウェイの使用は禁止されています:CID ゲートウェイを指定してください",
         null,
-        null
+        "IPFSゲートウェイの使用は禁止されています:CID ゲートウェイを指定してください"
     ],
     "forgetDevice": [
         "Forget this device",
         null,
         "このデバイスを無視してください",
         null,
-        null
+        "このデバイスを無視する"
     ],
     "from": [
         "From",
@@ -1537,7 +1537,7 @@
         null,
         "移動元:$1",
         "$1 is the address to include in the From label. It is typically shortened first using shortenAddress",
-        null
+        "送信元:$1"
     ],
     "functionApprove": [
         "Function: Approve",
@@ -1593,7 +1593,7 @@
         null,
         "ガス価格が非常に安くなっています",
         null,
-        "Gas価格が小さすぎます"
+        "Gas価格が安すぎます"
     ],
     "gasPriceInfoTooltipContent": [
         "Gas price specifies the amount of Ether you are willing to pay for each unit of gas.",
@@ -1810,7 +1810,7 @@
         "インポート完了",
         "インポート済み",
         "status showing that an account has been fully loaded into the keyring",
-        "インポート完了"
+        "インポート済"
     ],
     "infoHelp": [
         "Info & Help",
@@ -2384,7 +2384,7 @@
         null,
         "新しいトランザクション手数料",
         null,
-        null
+        "新しいトランザクション手数料"
     ],
     "next": [
         "Next",
@@ -2657,7 +2657,7 @@
         null,
         "許可",
         null,
-        "許可"
+        "権限"
     ],
     "personalAddressDetected": [
         "Personal address detected. Input the token contract address.",
@@ -3140,7 +3140,7 @@
         null,
         "トランザクションの処理を加速するには、より高いガス手数料を選択します。*",
         null,
-        "トランザクションの処理を早めるには、より高いガス料金を選択してください。*"
+        "トランザクションの処理を早めるには、より高いガス料金を選択してください。"
     ],
     "selectAccounts": [
         "Select account(s)",
@@ -3399,7 +3399,7 @@
         null,
         "低速",
         null,
-        null
+        "低速"
     ],
     "somethingWentWrong": [
         "Oops! Something went wrong.",
@@ -3467,7 +3467,7 @@
     "spendLimitTooLarge": [
         "Spend limit too large",
         null,
-        "使用限度額が大きすぎます",
+        "使用限度額が多すぎます",
         null,
         null
     ],
@@ -3595,7 +3595,7 @@
         null,
         "注文した時点と注文が承認された時点で価格が変更される場合、これは「スリッページ」と呼ばれます。スリッページが「最大スリッページ」設定を超える場合、スワップは自動的にキャンセルされます。",
         null,
-        null
+        "注文した時点と注文が承認された時点で価格が変わることをスリッページと呼びます。スリッページが最大スリッページ設定を超えると、スワップは自動的にキャンセルされます。"
     ],
     "swapAggregator": [
         "Aggregator",
@@ -3609,14 +3609,14 @@
         null,
         "保証額",
         null,
-        null
+        "受け取り保証額"
     ],
     "swapAmountReceivedInfo": [
         "This is the minimum amount you will receive. You may receive more depending on slippage.",
         null,
         "これは受け取る最低額です。スリッページに基づいて、それ以上の額を受け取ることができます。",
         null,
-        null
+        "これは受け取る最低額です。スリッページに基づいて、それ以上の額を受け取ることができます。"
     ],
     "swapApproval": [
         "Approve $1 for swaps",
@@ -3651,7 +3651,7 @@
         null,
         "$1 をチェック中",
         "Shown to the user during quote loading. $1 is the name of an aggregator. The message indicates that metamask is currently checking if that aggregator has a trade/quote for their requested swap.",
-        null
+        "$1 をチェック中"
     ],
     "swapCustom": [
         "custom",
@@ -3686,7 +3686,7 @@
         null,
         "推定のネットワーク手数料",
         null,
-        "推定ネットワーク手数料"
+        "推定のネットワーク手数料"
     ],
     "swapEstimatedNetworkFeeSummary": [
         "The “$1” is what we expect the actual fee to be. The exact amount depends on network conditions.",
@@ -3700,14 +3700,14 @@
         null,
         "推定のネットワーク手数料",
         null,
-        "推定ネットワーク手数料の合計"
+        "推定のネットワーク手数料"
     ],
     "swapEstimatedNetworkFeesInfo": [
         "This is an estimate of the network fee that will be used to complete your swap. The actual amount may change according to network conditions.",
         null,
         "これは、スワップを完了するために使用されるネットワーク手数料の推定値です。実際の額はネットワークの状態によって変更される可能性があります。",
         null,
-        null
+        "これは、スワップを完了するために使用されるネットワーク手数料の推定値です。実際の額はネットワークの状態によって変わる可能性があります。"
     ],
     "swapFailedErrorDescription": [
         "Your funds are safe and still available in your wallet.",
@@ -3721,56 +3721,56 @@
         null,
         "スワップに失敗しました",
         null,
-        null
+        "スワップに失敗しました"
     ],
     "swapFetchingQuotesErrorDescription": [
         "Hmmm... something went wrong. Try again, or if errors persist, contact customer support.",
         null,
         "問題が発生しました。もう一度実行してください。エラーが解消されない場合は、カスタマサポート担当者までお問い合わせください。",
         null,
-        null
+        "ぐぬぬ...問題が発生しました。もう一度実行してください。エラーが解決しななければ、カスタマサポート担当者へお問い合わせください。"
     ],
     "swapFetchingQuotesErrorTitle": [
         "Error fetching quotes",
         null,
         "見積もり取り出しのエラー",
         null,
-        null
+        "見積の取得エラー"
     ],
     "swapFetchingTokens": [
         "Fetching tokens...",
         null,
         "トークンを取り出し中...",
         null,
-        null
+        "トークンを取り出し中..."
     ],
     "swapFinalizing": [
         "Finalizing...",
         null,
         "終了中...",
         null,
-        null
+        "終了中..."
     ],
     "swapGetQuotes": [
         "Get quotes",
         null,
         "見積もりの取得",
         null,
-        null
+        "見積の取得"
     ],
     "swapHighSlippageWarning": [
         "Slippage amount is very high. Make sure you know what you are doing!",
         null,
         "スリッページ額が非常に大きいです。実行内容を確実に理解してください。",
         null,
-        null
+        "非常に大きいスリッページ額です。本当に実行するか確認してください。"
     ],
     "swapIntroLearnMoreHeader": [
         "Want to learn more?",
         null,
         "詳細を表示しますか?",
         null,
-        null
+        "詳細を表示しますか?"
     ],
     "swapIntroLearnMoreLink": [
         "Learn more about MetaMask Swaps",
@@ -3791,7 +3791,7 @@
         null,
         "トークンを MetaMask ウォレットで直接スワップできるようになりました。MetaMask Swaps は、複数の分散型交換アグリゲーター、専門のマーケット メーカー、個別の DEX を結合して、MetaMask ユーザーが最低のネットワーク手数料で最上の価格を常に取得できるようにします。",
         null,
-        null
+        "トークンをMetaMaskで直接スワップできるようになりました。MetaMask Swapsは、多数の分散型取引所アグリゲーター、専門のマーケットメーカー、DEX取引所を統合し、ユーザーは常に最低のネットワーク手数料、最適な価格で取引できます。"
     ],
     "swapIntroPopupTitle": [
         "Token swapping is here!",
@@ -3812,7 +3812,7 @@
         null,
         "トランザクションが失敗する可能性があります。最大スリッページが低すぎます。",
         null,
-        null
+        "トランザクションが失敗する可能性があります。最大スリッページが少なすぎます。"
     ],
     "swapMaxNetworkFeeInfo": [
         "“$1” is the most you’ll spend. When the network is volatile this can be a large amount.",
@@ -3826,35 +3826,35 @@
         null,
         "最大ネットワーク手数料",
         null,
-        null
+        "最大ネットワーク手数料"
     ],
     "swapMaxSlippage": [
         "Max slippage",
         null,
         "最大スリッページ",
         null,
-        null
+        "最大スリッページ"
     ],
     "swapMetaMaskFee": [
         "MetaMask fee",
         null,
         "MetaMask 手数料",
         null,
-        null
+        "MetaMask手数料"
     ],
     "swapMetaMaskFeeDescription": [
         "We find the best price from the top liquidity sources, every time. A fee of $1% is automatically factored into each quote, which supports ongoing development to make MetaMask even better.",
         null,
         "当社は毎回最上位の流動性のソースから最良の価格を見つけます。$1% の手数料が各見積もりに自動的に組み込まれ、これが MetaMask をさらに改善するための進行中の開発をサポートします。",
         "Provides information about the fee that metamask takes for swaps. $1 is a decimal number.",
-        "取引毎に最上位の流動性の供給者から最良価格を探します。見積には$1%の手数料が自動的に組み込まれ、MetaMaskの将来の開発をサポートします。"
+        "MetaMaskは取引毎に最上位の流動性の供給者から最良価格を探します。見積には$1%の手数料が自動的に組み込まれ、MetaMaskの将来の開発をサポートします。"
     ],
     "swapNQuotes": [
         "$1 quotes",
         null,
         null,
         "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen",
-        null
+        "$1個の見積"
     ],
     "swapNetworkFeeSummary": [
         "The network fee covers the cost of processing your swap and storing it on the Ethereum network. MetaMask does not profit from this fee.",
@@ -3868,7 +3868,7 @@
         null,
         "$1 での新規の見積もり",
         "Tells the user the amount of time until the currently displayed quotes are update. $1 is a time that is counting down from 1:00 to 0:00",
-        null
+        "見積の有効期限 $1"
     ],
     "swapOnceTransactionHasProcess": [
         "Your $1 will be added to your account once this transaction has processed.",
@@ -3924,14 +3924,14 @@
         null,
         "注文した時点と注文が承認された時点で価格が変更される場合、これは\"スリッページ\"と呼ばれます。スリッページが\"最大スリッページ\"設定を超える場合、スワップは自動的にキャンセルされます。",
         null,
-        null
+        "注文した時点と注文が承認された時点で価格が変わることを\"スリッページ\"と呼びます。スリッページが\"最大スリッページ\"設定を超える場合、スワップは自動的にキャンセルされます。"
     ],
     "swapQuoteIncludesRate": [
         "Quote includes a $1% MetaMask fee",
         null,
         "見積もりには $1% の MetaMask 手数料が含まれています",
         "Provides information about the fee that metamask takes for swaps. $1 is a decimal number.",
-        null
+        "見積には$1%のMetaMask手数料が含まれています"
     ],
     "swapQuoteNofN": [
         "Quote $1 of $2",
@@ -3945,35 +3945,35 @@
         null,
         "見積もりのソース",
         null,
-        null
+        "取引ソース"
     ],
     "swapQuotesAreRefreshed": [
         "Quotes are refreshed often to reflect current market conditions.",
         null,
         "現在のマーケット状態を反映するために、見積もりはたびたび更新されます。",
         null,
-        null
+        "現在のマーケット状態を反映して、見積はリアルタイム更新されます。"
     ],
     "swapQuotesExpiredErrorDescription": [
         "Please request new quotes to get the latest rates.",
         null,
         "最新のレートを取得するには、新しい見積もりを要求してください。",
         null,
-        null
+        "最新のレートで見積を取得するには再試行してください。"
     ],
     "swapQuotesExpiredErrorTitle": [
         "Quotes timeout",
         null,
         "見積もりのタイムアウト",
         null,
-        null
+        "見積のタイムアウト"
     ],
     "swapQuotesNotAvailableErrorDescription": [
         "Try adjusting the amount or slippage settings and try again.",
         null,
         "額の調整またはスリッページの設定を試みてから、もう一度実行してください。",
         null,
-        null
+        "取引額を調整するかスリッページを再設定して、もう一度実行してください。"
     ],
     "swapQuotesNotAvailableErrorTitle": [
         "No quotes available",
@@ -3994,7 +3994,7 @@
         null,
         "受信中",
         null,
-        null
+        "受取額"
     ],
     "swapReceivingInfoTooltip": [
         "This is an estimate. The exact amount depends on slippage.",
@@ -4015,28 +4015,28 @@
         null,
         "トークンの検索",
         null,
-        null
+        "トークンを検索"
     ],
     "swapSelect": [
         "Select",
         null,
         "選択",
         null,
-        null
+        "選択"
     ],
     "swapSelectAQuote": [
         "Select a quote",
         null,
         "見積もりの選択",
         null,
-        null
+        "見積の選択"
     ],
     "swapSelectAToken": [
         "Select a token",
         null,
         "トークンの選択",
         null,
-        null
+        "トークンの選択"
     ],
     "swapSelectQuotePopoverDescription": [
         "Below are all the quotes gathered from multiple liquidity sources.",
@@ -4050,14 +4050,14 @@
         null,
         "スリッページは 0 より大きくする必要があります。",
         null,
-        null
+        "スリッページは0より多くする必要があります。"
     ],
     "swapSource": [
         "Liquidity source",
         null,
         "流動性のソース",
         null,
-        null
+        "流動性のソース"
     ],
     "swapSourceInfo": [
         "We search multiple liquidity sources (exchanges, aggregators and professional market makers) to find the best rates and lowest network fees.",
@@ -4071,14 +4071,14 @@
         null,
         "スワッピングの開始",
         null,
-        null
+        "スワップの開始"
     ],
     "swapSwapFrom": [
         "Swap from",
         null,
         "スワップ元",
         null,
-        null
+        "スワップ元"
     ],
     "swapSwapSwitch": [
         "Switch from and to tokens",
@@ -4092,7 +4092,7 @@
         null,
         "スワップ先",
         null,
-        null
+        "スワップ先"
     ],
     "swapThisWillAllowApprove": [
         "This will allow $1 to be swapped.",
@@ -4106,14 +4106,14 @@
         null,
         "$1 がアカウントに追加されました。",
         "This message is shown after a swap is successful and communicates the exact amount of tokens the user has received for a swap. The $1 is a decimal number of tokens followed by the token symbol.",
-        null
+        "$1 がアカウントに追加されました。"
     ],
     "swapTokenToToken": [
         "Swap $1 to $2",
         null,
         "$1 を $2 にスワップ",
         "Used in the transaction display list to describe a swap. $1 and $2 are the symbols of tokens in involved in a swap.",
-        null
+        "$1 を $2 にスワップ"
     ],
     "swapTransactionComplete": [
         "Transaction complete",
@@ -4134,42 +4134,42 @@
         null,
         null,
         null,
-        null
+        "最適な見積を使用する"
     ],
     "swapVerifyTokenExplanation": [
         "Multiple tokens can use the same name and symbol. Check Etherscan to verify this is the token you're looking for.",
         null,
         "複数のトークンが同じ名前とシンボルを使用できます。Etherscan をチェックして、これが探しているトークンであることを確認します。",
         null,
-        null
+        "複数のトークンが同じ名前とシンボルであることがあります。Etherscanで実際のトークンでを確認してください。"
     ],
     "swapViewToken": [
         "View $1",
         null,
         "$1 を表示",
         null,
-        null
+        "$1 を表示"
     ],
     "swapYourTokenBalance": [
         "$1 $2 available to swap",
         null,
         "$1 $2 はスワップに使用可能です",
         "Tells the user how much of a token they have in their balance. $1 is a decimal number amount of tokens, and $2 is a token symbol",
-        null
+        "$1 $2 はスワップに使用できます"
     ],
     "swapZeroSlippage": [
         "0% Slippage",
         null,
         "0% スリッページ",
         null,
-        null
+        "0%スリッページ"
     ],
     "swapsAdvancedOptions": [
         "Advanced Options",
         null,
         "詳細オプション",
         null,
-        null
+        "詳細オプション"
     ],
     "swapsExcessiveSlippageWarning": [
         "Slippage amount is too high and will result in a bad rate. Please reduce your slippage tolerance to a value below 15%.",
@@ -4183,35 +4183,35 @@
         null,
         "最大スリッページ",
         null,
-        null
+        "最大スリッページ"
     ],
     "swapsNotEnoughForTx": [
         "Not enough $1 to complete this transaction",
         null,
         "トランザクションを完了するには、$1 が不足しています",
         "Tells the user that they don't have enough of a token for a proposed swap. $1 is a token symbol",
-        null
+        "トランザクションを完了するには $1 は不十分です。"
     ],
     "swapsViewInActivity": [
         "View in activity",
         null,
         "アクティビティの表示",
         null,
-        null
+        "アクティビティの表示"
     ],
     "switchNetworks": [
         "Switch Networks",
         null,
         "ネットワークの切り替え",
         null,
-        null
+        "ネットワークを切替え"
     ],
     "switchToThisAccount": [
         "Switch to this account",
         null,
         "このアカウントへの切り替え",
         null,
-        null
+        "このアカウントへ切替え"
     ],
     "symbol": [
         "Symbol",
@@ -4239,7 +4239,7 @@
         null,
         "このコードをスキャンするとき、画面を誰にも見られていないことを確認してください",
         null,
-        "コードをスキャンするとき、誰にも画面を見られていないことを確認してください"
+        "コードをスキャンする前に、誰にも画面を見られていないことを確認してください"
     ],
     "syncWithMobileComplete": [
         "Your data has been synced successfully. Enjoy the MetaMask mobile app!",
@@ -4253,7 +4253,7 @@
         null,
         "アカウントと情報をモバイルデバイスと同期させることができます。MetaMask モバイル アプリを開き、\"設定\" に進み、\"ブラウザー拡張機能から同期\" をタップします。",
         null,
-        null
+        "アカウントと情報をスマートフォンアプリと同期させることができます。MetaMaskモバイルアプリを開き、\"設定\" に進み、\"ブラウザー拡張機能から同期\" をタップします。"
     ],
     "syncWithMobileDescNewUsers": [
         "If you just open the MetaMask Mobile app for the first time, just follow the steps in your phone.",
@@ -4344,14 +4344,14 @@
         null,
         "移動先:$1",
         "$1 is the address to include in the To label. It is typically shortened first using shortenAddress",
-        null
+        "送信先:$1"
     ],
     "toWithColon": [
         "To:",
         null,
         "対象:",
         null,
-        null
+        "送信先:$1"
     ],
     "token": [
         "Token",
@@ -4666,7 +4666,7 @@
         null,
         "このトークンを $1 で検証",
         "Points the user to etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"etherscan\"",
-        "このトークンを$1で検証"
+        "トークンを$1で検証する"
     ],
     "viewAccount": [
         "View Account",
