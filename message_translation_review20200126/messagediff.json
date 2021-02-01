@@ -32,7 +32,7 @@
         null,
         "$1 はアクセスしてこの最大量まで消費できます",
         "$1 is the url of the site requesting ability to spend",
-        null
+        "$1 はアクセスしてこの最大量まで使用する可能性があります"
     ],
     "accessingYourCamera": [
         "Accessing your camera...",
@@ -263,7 +263,7 @@
         null,
         "$1 に $2 の使用を許可しますか?",
         "$1 is the url of the site and $2 is the symbol of the token they are requesting to spend",
-        null
+        "$1 に $2 の使用を許可しますか?"
     ],
     "allowThisSiteTo": [
         "Allow this site to:",
@@ -277,7 +277,7 @@
         null,
         "$1 に以下の額までの引き出しと使用を許可します。",
         "The url of the site that requested permission to 'withdraw and spend'",
-        null
+        "$1 に以下の額までの引き出しと使用を許可します。"
     ],
     "amount": [
         "Amount",
@@ -466,7 +466,7 @@
         null,
         "残高が期限切れの可能性があります",
         null,
-        null
+        "残高情報は最新ではない可能性があります"
     ],
     "basic": [
         "Basic",
@@ -669,7 +669,7 @@
         null,
         "すべての $1 に接続",
         "$1 will be replaced by the translation of connectToAllAccounts",
-        null
+        "全ての $1 に接続"
     ],
     "connectToAllAccounts": [
         "accounts",
@@ -683,7 +683,7 @@
         null,
         "$1 に接続",
         "$1 will be replaced by the translation of connectToMultipleNumberOfAccounts",
-        "$1に接続"
+        "$1 に接続"
     ],
     "connectToMultipleNumberOfAccounts": [
         "$1 accounts",
@@ -704,14 +704,14 @@
         null,
         "このサイトに接続されているアカウントを $1 個持っています。",
         "$1 is the number of accounts",
-        "このサイトに接続されたアカウントは$1個あります。"
+        "このサイトに接続されたアカウントは $1個あります。"
     ],
     "connectedAccountsDescriptionSingular": [
         "You have 1 account connected to this site.",
         null,
         "このサイトに接続されているアカウントを 1 個持っています。",
         null,
-        "このサイトに接続されたアカウントは$1個あります。"
+        "このサイトに接続されたアカウントは $1個あります。"
     ],
     "connectedAccountsEmptyDescription": [
         "MetaMask is not connected this site. To connect to a web3 site, find the connect button on their site.",
@@ -732,7 +732,7 @@
         null,
         "$1 はこれらのサイトに接続されています。これらのサイトは、アカウント アドレスを表示できます。",
         "$1 is the account name",
-        "$1はサイトに接続されています。サイトはアカウントアドレスを見ることができます。"
+        "$1 はサイトに接続されています。サイトはアカウントアドレスを見ることができます。"
     ],
     "connectedSitesEmptyDescription": [
         "$1 is not connected to any sites.",
@@ -753,7 +753,7 @@
         null,
         "$1 への接続",
         null,
-        "$1への接続"
+        "$1 への接続"
     ],
     "connectingToGoerli": [
         "Connecting to Goerli Test Network",
@@ -921,7 +921,7 @@
         null,
         "現在の拡張ページ",
         null,
-        null
+        "現在のエクステンションページ"
     ],
     "currentLanguage": [
         "Current Language",
@@ -984,7 +984,7 @@
         null,
         "小数桁数は 0 以上、36 以下の範囲で使用する必要があります。",
         null,
-        "小数桁数は、0以上36以下の範囲にする必要があります。"
+        "小数桁数は、0 以上 36 以下の範囲にする必要があります。"
     ],
     "decrypt": [
         "Decrypt",
@@ -1012,7 +1012,7 @@
         null,
         "$1 は、このメッセージを読んでアクションを完了することを望んでいます",
         "$1 is the web3 site name",
-        "$1はメッセージを読み取ってアクションを完了しようとしています"
+        "$1 はメッセージを読み取ってアクションを完了しようとしています"
     ],
     "decryptMetamask": [
         "Decrypt message",
@@ -1180,7 +1180,7 @@
         null,
         "削除されました",
         null,
-        null
+        "削除済"
     ],
     "edit": [
         "Edit",
@@ -1208,7 +1208,7 @@
         null,
         "$1 は公開暗号鍵を必要とします。同意することによって、このサイトは暗号化されたメッセージを作成できます。",
         "$1 is the web3 site name",
-        null
+        "$1 は公開暗号鍵を使用しようとしています。同意すると、このサイトは暗号化されたメッセージを作成できます。"
     ],
     "encryptionPublicKeyRequest": [
         "Request encryption public key",
@@ -1453,7 +1453,7 @@
         null,
         "+$1 承認ガス",
         "Expresses an additional gas amount the user will have to pay, on top of some other displayed amount. $1 is a decimal amount of gas",
-        null
+        "+$1 承認Gas"
     ],
     "failed": [
         "Failed",
@@ -1544,14 +1544,14 @@
         null,
         "機能:承認",
         null,
-        null
+        "機能:承認"
     ],
     "functionType": [
         "Function Type",
         null,
         "機能の種類",
         null,
-        null
+        "機能の種類"
     ],
     "gasLimit": [
         "Gas Limit",
@@ -1761,7 +1761,7 @@
         "追加",
         "インポート",
         "Button to import an account from a selected file",
-        null
+        "インポート"
     ],
     "importAccount": [
         "Import Account",
@@ -1817,14 +1817,14 @@
         "情報とヘルプ",
         "情報とヘルプ",
         null,
-        null
+        "情報とヘルプ"
     ],
     "initialTransactionConfirmed": [
         "Your initial transaction was confirmed by the network. Click OK to go back.",
         null,
         "最初のトランザクションはネットワークによって確認されました。戻るには OK をクリックします。",
         null,
-        null
+        "最初のトランザクションがネットワークに確認されました。戻るにはOKをクリックします。"
     ],
     "insufficientBalance": [
         "Insufficient balance.",
@@ -1866,7 +1866,7 @@
         null,
         "ETH ネットワークではなく、小文字に設定します",
         null,
-        null
+        "ETH ネットワークではなく、小文字を設定してください"
     ],
     "invalidBlockExplorerURL": [
         "Invalid Block Explorer URL",
@@ -1894,14 +1894,14 @@
         null,
         "悪意のあるまたは欠陥のあるネットワーク プロバイダからお客様を保護するために、すべてのカスタム ネットワークに対してチェーン ID が必要になりました。",
         null,
-        null
+        "悪意や欠陥のあるネットワークプロバイダから利用者を保護するため、すべてのカスタムネットワークにチェーンIDが必要です"
     ],
     "invalidCustomNetworkAlertContent3": [
         "Go to Settings > Network and enter the chain ID. You can find the chain IDs of most popular networks on $1.",
         null,
         "[設定] > [ネットワーク] に進んで、チェーン ID を入力します。最もよく使用されるネットワークのチェーン ID は $1 にあります。",
         "$1 is a link to https://chainid.network",
-        null
+        "設定 > ネットワーク を選択して、チェーンIDを入力してください。よく使用されるネットワークのチェーンIDは $1 にあります。"
     ],
     "invalidCustomNetworkAlertTitle": [
         "Invalid Custom Network",
@@ -1943,21 +1943,21 @@
         null,
         "無効な数値です。先行ゼロを削除します。",
         null,
-        null
+        "無効な数値です。先頭の 0 を削除してください。"
     ],
     "invalidRPC": [
         "Invalid RPC URL",
         null,
         "無効な RPC URL",
         null,
-        null
+        "無効な RPC URL"
     ],
     "invalidSeedPhrase": [
         "Invalid seed phrase",
         null,
         "無効なシード フレーズ",
         null,
-        null
+        "無効なシードフレーズ"
     ],
     "ipfsGateway": [
         "IPFS Gateway",
@@ -1985,7 +1985,7 @@
         null,
         "既知のコントラクト アドレスです。",
         null,
-        null
+        "既知のコントラクトアドレスです。"
     ],
     "knownTokenWarning": [
         "This action will edit tokens that are already listed in your wallet, which can be used to phish you. Only approve if you are certain that you mean to change what these tokens represent.",
@@ -1999,7 +1999,7 @@
         "Kovanテストネットワーク",
         "Kovan テスト ネットワーク",
         null,
-        null
+        "Kovanテストネットワーク"
     ],
     "lastConnected": [
         "Last Connected",
@@ -2034,7 +2034,7 @@
         "トークンを追加しますか?",
         "これらのトークンを追加しますか?",
         null,
-        null
+        "これらのトークンを追加しますか?"
     ],
     "links": [
         "Links",
@@ -2048,7 +2048,7 @@
         null,
         "さらにロード",
         null,
-        null
+        "続きをロード"
     ],
     "loading": [
         "Loading...",
@@ -2125,14 +2125,14 @@
         null,
         "アカウントの接続を MetaMask でさらに制御できるようになりました。",
         null,
-        null
+        "アカウントの接続をMetaMaskで詳細に制御できるようになりました。"
     ],
     "metaMaskConnectStatusParagraphThree": [
         "Click it to manage your connected accounts.",
         null,
         "接続されているアカウントを管理するには、これをクリックします。",
         null,
-        null
+        "接続しているアカウントを管理するにはクリックしてください。"
     ],
     "metaMaskConnectStatusParagraphTwo": [
         "The connection status button shows if the website you’re visiting is connected to your currently selected account.",
@@ -2167,28 +2167,28 @@
         null,
         "いつでも設定からオプトアウトできるようにします",
         null,
-        null
+        "設定からいつでも離脱できます"
     ],
     "metametricsCommitmentsBoldNever": [
         "Never",
         null,
         "実行しない",
         "This string is localized separately from some of the commitments so that we can bold it",
-        null
+        "実行しない"
     ],
     "metametricsCommitmentsIntro": [
         "MetaMask will..",
         null,
         "MetaMask が実行する内容",
         null,
-        null
+        "MetaMaskが実行する内容は…"
     ],
     "metametricsCommitmentsNeverCollectIP": [
         "$1 collect your full IP address",
         null,
         "$1 が完全な IP アドレスを収集することはありません",
         "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'",
-        null
+        "$1 が識別可能なIPアドレスを収集することはありません"
     ],
     "metametricsCommitmentsNeverCollectKeysEtc": [
         "$1 collect keys, addresses, transactions, balances, hashes, or any personal information",
@@ -2209,7 +2209,7 @@
         null,
         "匿名化されたクリック イベントとページビュー イベントを送信します",
         null,
-        null
+        "匿名化されたクリックイベントとページビューイベントを送信する"
     ],
     "metametricsHelpImproveMetaMask": [
         "Help Us Improve MetaMask",
@@ -2713,7 +2713,7 @@
         "警告: この鍵は絶対に公開しないで下さい。公開すると、誰でもあなたのアカウント内の資産を盗むことができてしまいます。",
         "警告:この鍵は絶対に公開しないでください。秘密鍵を持つ人は誰でも、アカウントに保持されているアセットを盗むことができます。",
         null,
-        null
+        "警告: この鍵は絶対に公開しないで下さい。公開すると、アカウント内の資産を盗まれます。"
     ],
     "privateNetwork": [
         "Private Network",
@@ -2727,7 +2727,7 @@
         null,
         "提案された承認限度額",
         null,
-        null
+        "承認限度額の提案"
     ],
     "protectYourKeys": [
         "Protect Your Keys!",
@@ -3623,21 +3623,21 @@
         null,
         "スワップに対して $1 を承認",
         "Used in the transaction display list to describe a transaction that is an approve call on a token that is to be swapped.. $1 is the symbol of a token that has been approved.",
-        null
+        "$1 のスワップを承認"
     ],
     "swapApproveNeedMoreTokens": [
         "You need $1 more $2 to complete this swap",
         null,
         "このスワップを完了するには、さらに $1 個の $2 が必要です。",
         "Tells the user how many more of a given token they need for a specific swap. $1 is an amount of tokens and $2 is the token symbol.",
-        null
+        "このスワップを完了するには、さらに $1 の $2 が必要です。"
     ],
     "swapBetterQuoteAvailable": [
         "A better quote is available",
         null,
         null,
         null,
-        null
+        "より良い見積があります。"
     ],
     "swapBuildQuotePlaceHolderText": [
         "No tokens available matching $1",
@@ -3714,7 +3714,7 @@
         null,
         "資金はウォレット内に安全な状態にあり、まだ利用できます。",
         null,
-        null
+        "資金はウォレットに安全で利用可能な状態にあります。"
     ],
     "swapFailedErrorTitle": [
         "Swap failed",
@@ -3784,7 +3784,7 @@
         null,
         "流動性のソースには以下が含まれます。",
         null,
-        null
+        "流動性ソースには以下が含まれます。"
     ],
     "swapIntroPopupSubTitle": [
         "You can now swap tokens directly in your MetaMask wallet. MetaMask Swaps combines multiple decentralized exchange aggregators, professional market makers, and individual DEXs to ensure MetaMask users always get the best price with the lowest network fees.",
@@ -3861,7 +3861,7 @@
         null,
         "ネットワーク手数料には、スワップを処理してイーサリアム ネットワーク上に保管する費用も含まれています。MetaMask は手数料から利益を得ません。",
         null,
-        null
+        "ネットワーク手数料には、スワップの結果をEthereumネットワークに保管する費用も含まれています。MetaMaskは手数料から利益を得ません。"
     ],
     "swapNewQuoteIn": [
         "New quotes in $1",
@@ -3875,7 +3875,7 @@
         null,
         "このトランザクションの処理が完了すると、$1 がアカウントに追加されます。",
         "This message communicates the token that is being transferred. It is shown on the awaiting swap screen. The $1 will be a token symbol.",
-        null
+        "このトランザクション処理を完了すると、$1 がアカウントに追加されます。"
     ],
     "swapPriceDifference": [
         "You are about to swap $1 $2 (~$3) for $4 $5 (~$6).",
@@ -3889,7 +3889,7 @@
         null,
         null,
         "$1 is a number (ex: 1.23) that represents the price difference.",
-        null
+        "価格差は ～$1% です"
     ],
     "swapPriceDifferenceTooltip": [
         "The difference in market prices can be affected by fees taken by intermediaries, size of market, size of trade, or market inefficiencies.",
@@ -3903,7 +3903,7 @@
         null,
         null,
         null,
-        null
+        "マーケット価格は利用できません。続行する前に、返金額に問題がないことを確認してください。"
     ],
     "swapProcessing": [
         "Processing",
@@ -4008,7 +4008,7 @@
         null,
         "見積もりの要求",
         null,
-        null
+        "見積の要求"
     ],
     "swapSearchForAToken": [
         "Search for a token",
@@ -4043,28 +4043,28 @@
         null,
         "複数の流動性のソースから収集したすべての見積もりを下に示します。",
         null,
-        null
+        "以下は複数の流動性ソースから収集したすべての見積です。"
     ],
     "swapSlippageTooLow": [
         "Slippage must be greater than zero",
         null,
         "スリッページは 0 より大きくする必要があります。",
         null,
-        "スリッページは0より多くする必要があります。"
+        "スリッページは 0 より多くする必要があります。"
     ],
     "swapSource": [
         "Liquidity source",
         null,
         "流動性のソース",
         null,
-        "流動性のソース"
+        "流動性ソース"
     ],
     "swapSourceInfo": [
         "We search multiple liquidity sources (exchanges, aggregators and professional market makers) to find the best rates and lowest network fees.",
         null,
         "当社は、最良のレートと最小のネットワーク手数料を見つけるために、複数の流動性のソース (交換所、アグリゲーター、および専門のマーケットメーカー) を検索します。",
         null,
-        null
+        "最良のレートと最小のネットワーク手数料を探すため、複数の流動性ソース(取引所、アグリゲーター、専門のマーケットメーカー)を検索します。"
     ],
     "swapStartSwapping": [
         "Start swapping",
@@ -4099,7 +4099,7 @@
         null,
         "これにより、$1 のスワップが可能になります。",
         null,
-        null
+        "$1 のスワップが可能になります。"
     ],
     "swapTokenAvailable": [
         "Your $1 has been added to your account.",
@@ -4127,7 +4127,7 @@
         null,
         "不明です",
         null,
-        null
+        "不明"
     ],
     "swapUsingBestQuote": [
         "Using the best quote",
@@ -4162,7 +4162,7 @@
         null,
         "0% スリッページ",
         null,
-        "0%スリッページ"
+        "0% スリッページ"
     ],
     "swapsAdvancedOptions": [
         "Advanced Options",
@@ -4176,7 +4176,7 @@
         null,
         null,
         null,
-        null
+        "スリッページが大きすぎてレートが悪化しています。スリッページ最大値を 15% 未満にしてください。"
     ],
     "swapsMaxSlippage": [
         "Slippage Tolerance",
