@@ -92,7 +92,7 @@
         "message": "\"設定 > 警告の設定\"で変更できます"
     },
     "alertSettingsUnconnectedAccount": {
-        "message": "未接続のアカウントを選択してウェブサイト閲覧した時に警告する"
+        "message": "未接続のアカウントを選択してWebサイト閲覧した時に警告する"
     },
     "alertSettingsUnconnectedAccountDescription": {
         "message": "この警告は、選択中のアカウントが未接続のままWeb3サイトを閲覧しているときにポップアップ表示されます。"
@@ -307,18 +307,18 @@
         "description": "$1 will be replaced by the translation of connectToMultipleNumberOfAccounts"
     },
     "connectToMultipleNumberOfAccounts": {
-        "message": "$1 個のアカウント",
+        "message": "$1個のアカウント",
         "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
     },
     "connectWithMetaMask": {
         "message": "MetaMaskをサイトに接続する"
     },
     "connectedAccountsDescriptionPlural": {
-        "message": "このサイトに接続されたアカウントは $1 個あります。",
+        "message": "このサイトに接続されたアカウントは $1個あります。",
         "description": "$1 is the number of accounts"
     },
     "connectedAccountsDescriptionSingular": {
-        "message": "このサイトに接続されたアカウントは $1 個あります。"
+        "message": "このサイトに接続されたアカウントは $1個あります。"
     },
     "connectedAccountsEmptyDescription": {
         "message": "MetaMaskはこのサイトに接続されていません。Web3サイトに接続するには、サイト内にある接続ボタンを使用します。"
@@ -327,7 +327,7 @@
         "message": "接続済みのサイト"
     },
     "connectedSitesDescription": {
-        "message": "$1はサイトに接続されています。サイトはアカウントアドレスを見ることができます。",
+        "message": "$1 はサイトに接続されています。サイトはアカウントアドレスを見ることができます。",
         "description": "$1 is the account name"
     },
     "connectedSitesEmptyDescription": {
@@ -338,7 +338,7 @@
         "message": "接続しています..."
     },
     "connectingTo": {
-        "message": "$1への接続"
+        "message": "$1 への接続"
     },
     "connectingToGoerli": {
         "message": "Goerliテストネットワークへの接続"
@@ -437,7 +437,7 @@
         "message": "小数点桁数"
     },
     "decimalsMustZerotoTen": {
-        "message": "小数桁数は、0以上36以下の範囲にする必要があります。"
+        "message": "小数桁数は、0 以上 36 以下の範囲にする必要があります。"
     },
     "decrypt": {
         "message": "復号"
@@ -450,7 +450,7 @@
         "description": "$1 is error message"
     },
     "decryptMessageNotice": {
-        "message": "$1はメッセージを読み取ってアクションを完了しようとしています",
+        "message": "$1 はメッセージを読み取ってアクションを完了しようとしています",
         "description": "$1 is the web3 site name"
     },
     "decryptMetamask": {
@@ -670,7 +670,7 @@
         "message": "最高速"
     },
     "feeAssociatedRequest": {
-        "message": "手数料はこのリクエストに関連付けられています。"
+        "message": "このリクエストにかかる手数料です。"
     },
     "fiat": {
         "message": "法定通貨",
@@ -725,7 +725,7 @@
         "message": "Gas使用量"
     },
     "gdprMessage": {
-        "message": "このデータは集約されているため、一般データ保護規則 (EU) (規則 2016/679) の目的のために匿名とされます。当社の個人情報の取り扱いに関する詳細については、当社の $1 をご覧ください。",
+        "message": "このデータは、一般データ保護規則 (EU) (規則 2016/679) のため、匿名で収集されます。個人情報の取り扱いに関する詳細については、$1 をご覧ください。",
         "description": "$1 refers to the gdprMessagePrivacyPolicy message, the translation of which is meant to be used exclusively in the context of gdprMessage"
     },
     "gdprMessagePrivacyPolicy": {
@@ -786,7 +786,7 @@
         "message": "トークンを非表示にしますか?"
     },
     "hideTokenSymbol": {
-        "message": "$1を非表示にする",
+        "message": "$1 を非表示にする",
         "description": "$1 is the symbol for a token (e.g. 'DAI')"
     },
     "history": {
@@ -875,7 +875,7 @@
         "message": "無効な数値です。10進数、または'0x'を付けた16進数を入力します。"
     },
     "invalidNumberLeadingZeros": {
-        "message": "無効な数値です。先頭の0を削除してください。"
+        "message": "無効な数値です。先頭の 0 を削除してください。"
     },
     "invalidRPC": {
         "message": "無効な RPC URL"
@@ -897,19 +897,19 @@
         "message": "既知のコントラクトアドレスです。"
     },
     "knownTokenWarning": {
-        "message": "このアクションは、ウォレットに既に一覧表示されているトークンを編集します。これは、フィッシングに使用される可能性があります。これらのトークンの表す内容を変更する意図が確実な場合にのみ承認します。"
+        "message": "このアクションは既にウォレット一覧に表示あるトークンを編集します。これは、フィッシング詐欺の手段として指示されることがあります。変更の意図が明確な場合にのみ実施してください。"
     },
     "kovan": {
         "message": "Kovanテストネットワーク"
     },
     "lastConnected": {
-        "message": "最後に接続された"
+        "message": "最後の接続"
     },
     "learnMore": {
         "message": "詳しい使用手順"
     },
     "ledgerAccountRestriction": {
-        "message": "新しいアカウントを追加するには、その前に最後のアカウントを使用する必要があります。"
+        "message": "新しいアカウントを追加するには、その前に使用した最後のアカウントが必要です。"
     },
     "letsGoSetUp": {
         "message": "セットアップを始めましょう！"
@@ -948,7 +948,7 @@
         "message": "メモ"
     },
     "memorizePhrase": {
-        "message": "このフレーズを記憶します。"
+        "message": "このフレーズを記録してください。"
     },
     "message": {
         "message": "メッセージ"
@@ -960,7 +960,7 @@
         "message": "接続しているアカウントを管理するにはクリックしてください。"
     },
     "metaMaskConnectStatusParagraphTwo": {
-        "message": "訪問している Web サイトが現在選択しているアカウントに接続されている場合、接続ステータス ボタンが表示されます。"
+        "message": "訪問中のWebサイトが現在選択しているアカウントに接続されている場合、接続ステータスボタンが表示されます。"
     },
     "metamaskDescription": {
         "message": "Ethereumの分散型Webに接続しています。"
@@ -1018,14 +1018,14 @@
         "message": "MetaMaskで作成したすべてのアカウントは、このセクションに自動的に追加されます。"
     },
     "needEtherInWallet": {
-        "message": "MetaMask を使用して分散型アプリケーションとやりとりするには、ウォレットに Ether が必要です。"
+        "message": "MetaMaskで分散型アプリケーションを操作するには、ウォレットにEtherが必要です。"
     },
     "needImportFile": {
-        "message": "インポートするファイルの選択が必要です。",
+        "message": "インポートするファイルを選択してください。",
         "description": "User is important an account and needs to add a file to continue"
     },
     "negativeETH": {
-        "message": "負の額の ETH を送付することはできません。"
+        "message": "マイナス額のETHを送付することはできません。"
     },
     "networkName": {
         "message": "ネットワーク名"
@@ -1034,19 +1034,19 @@
         "message": "チェーンIDはトランザクションの署名に使用します。チェーンIDはネットワークのチェーンIDと一致する必要があります。10進数、または'0x'を付けた16進数を入力します。表示は10進数です。"
     },
     "networkSettingsDescription": {
-        "message": "カスタム RPC ネットワークの追加と編集"
+        "message": "カスタムRPCネットワークの追加と編集"
     },
     "networks": {
         "message": "ネットワーク"
     },
     "nevermind": {
-        "message": "気にしない"
+        "message": "後で試す"
     },
     "newAccount": {
         "message": "新しいアカウント"
     },
     "newAccountDetectedDialogMessage": {
-        "message": "新しいアカウントが検出されました!アドレス帳に追加するには、ここをクリックします。"
+        "message": "新しいアカウントを検出しました!アドレス帳に追加するにはここをクリックします。"
     },
     "newAccountNumberName": {
         "message": "アカウント $1",
@@ -1056,19 +1056,19 @@
         "message": "新しい連絡先"
     },
     "newContract": {
-        "message": "新規コントラクト"
+        "message": "新しいコントラクト"
     },
     "newNetwork": {
-        "message": "新規ネットワーク"
+        "message": "新しいネットワーク"
     },
     "newPassword": {
-        "message": "新しいパスワード (最低 8 文字)"
+        "message": "新しいパスワード(最低 8 文字)"
     },
     "newToMetaMask": {
-        "message": "MetaMask が初めての場合"
+        "message": "MetaMaskは初めてですか?"
     },
     "newTotal": {
-        "message": "新しい総額"
+        "message": "新しい合計"
     },
     "newTransactionFee": {
         "message": "新しいトランザクション手数料"
@@ -1081,10 +1081,10 @@
         "description": "The next nonce according to MetaMask's internal logic"
     },
     "noAccountsFound": {
-        "message": "指定された検索クエリーでアカウントが見つかりませんでした"
+        "message": "指定された検索クエリでアカウントは見つかりませんでした"
     },
     "noAddressForName": {
-        "message": "この名前にアドレスが設定されていません。"
+        "message": "この名前にはアドレスが設定されていません。"
     },
     "noAlreadyHaveSeed": {
         "message": "いいえ、既にシードフレーズがあります"
@@ -1093,7 +1093,7 @@
         "message": "どの換算レートも利用できません"
     },
     "noThanks": {
-        "message": "同意しません"
+        "message": "やめておく"
     },
     "noTransactions": {
         "message": "トランザクションがありません"
@@ -1114,7 +1114,7 @@
         "message": "カスタムNonce"
     },
     "notCurrentAccount": {
-        "message": "これは正しいアカウントですか?ウォレットで現在選択されているアカウントと異なっています"
+        "message": "これは正しいアカウントですか?現在ウォレットで選択中のアカウントと異なります"
     },
     "notEnoughGas": {
         "message": "Gasが不足しています"
@@ -1135,7 +1135,7 @@
         "message": "オン"
     },
     "onboardingReturnNotice": {
-        "message": "\"$1\" はこのタブを閉じて、$2 に戻るように指示します",
+        "message": "\"$1\" はこのタブを閉じます。 $2 に戻ってください。",
         "description": "Return the user to the site that initiated onboarding"
     },
     "onlyAddTrustedNetworks": {
@@ -1157,7 +1157,7 @@
         "message": "Trezor又はLedgerを注文して資金をコールドストレージに保管できます"
     },
     "origin": {
-        "message": "起点"
+        "message": "Origin"
     },
     "parameters": {
         "message": "パラメータ"
@@ -1197,11 +1197,11 @@
         "message": "個人アドレスが検出されました。トークンコントラクトのアドレスを入力してください。"
     },
     "plusXMore": {
-        "message": "+ $1 以上",
+        "message": "+$1 以上",
         "description": "$1 is a number of additional but unshown items in a list- this message will be shown in place of those items"
     },
     "prev": {
-        "message": "前へ"
+        "message": "戻る"
     },
     "primaryCurrencySetting": {
         "message": "基準通貨"
@@ -1235,31 +1235,31 @@
         "message": "シードフレーズを厳重に保管してください。不審な点がやWebサイトについて不明確な場合は、support@metamask.io まで電子メールでお問い合わせください"
     },
     "provide": {
-        "message": "提供"
+        "message": "提供する"
     },
     "queue": {
-        "message": "キュー"
+        "message": "保留中"
     },
     "queued": {
-        "message": "キューに入った"
+        "message": "追加済"
     },
     "readdToken": {
-        "message": "アカウント オプション メニューで [トークンの追加] を選択することによって、今後このトークンを戻すことができます。"
+        "message": "アカウントオプションのメニューで\"トークンの追加\"を選択すると、後でこのトークンを戻すことができます。"
     },
     "readyToConnect": {
         "message": "接続準備はよろしいですか?"
     },
     "receive": {
-        "message": "受領"
+        "message": "受け取る"
     },
     "recents": {
-        "message": "最近"
+        "message": "最近の履歴"
     },
     "recipientAddress": {
-        "message": "受信者のアドレス"
+        "message": "受取アドレス"
     },
     "recipientAddressPlaceholder": {
-        "message": "検索、パブリック アドレス (0x)、または ENS"
+        "message": "パブリックアドレス(0x)、または ENSを検索"
     },
     "reject": {
         "message": "拒否"
@@ -1274,10 +1274,10 @@
         "message": "$1 個のトランザクションを拒否"
     },
     "rejected": {
-        "message": "拒否されました"
+        "message": "拒否しました"
     },
     "remindMeLater": {
-        "message": "後で通知する"
+        "message": "後で通知"
     },
     "remove": {
         "message": "削除"
@@ -1286,10 +1286,10 @@
         "message": "アカウントの削除"
     },
     "removeAccountDescription": {
-        "message": "このアカウントはウォレットから削除されます。続行する前に、インポートしたアカウントに対して、元のシード フレーズまたは秘密鍵を持っていることを確認してください。アカウントはアカウント ドロップダウンから再度インポートまたは作成できます。"
+        "message": "このアカウントはウォレットから削除されます。続行する前に、ウォレットにインポートしたアカウントのシードフレーズか秘密鍵を保管してください。アカウントは、アカウントのドロップダウンから再度インポート、または作成できます。"
     },
     "requestsAwaitingAcknowledgement": {
-        "message": "承認されるまで待機の要求"
+        "message": "承認されるまで待機する"
     },
     "required": {
         "message": "必須"
@@ -1298,7 +1298,7 @@
         "message": "リセット"
     },
     "resetAccount": {
-        "message": "アカウントのリセット"
+        "message": "アカウントをリセット"
     },
     "resetAccountDescription": {
         "message": "アカウントをリセットするとトランザクション履歴がクリアされます。シードフレーズの再入力は不要です。これによりアカウント内の残高が変更されることはありません。"
@@ -1313,14 +1313,14 @@
         "message": "アカウントを復元しますか?"
     },
     "restoreWalletPreferences": {
-        "message": "$1 のデータのバックアップが見つかりました。ウォレットの基本設定を復元しますか?",
+        "message": "$1 のデータバックアップが見つかりました。ウォレットの基本設定を復元しますか?",
         "description": "$1 is the date at which the data was backed up"
     },
     "retryTransaction": {
-        "message": "トランザクションの再試行"
+        "message": "トランザクションを再試行"
     },
     "reusedTokenNameWarning": {
-        "message": "ここでトークンは、監視する別のトークンのシンボルを再使用します。これは混乱を招く場合や虚偽となる場合があります。"
+        "message": "既に登録されているトークンシンボルと同じシンボルの登録はお勧めしません。混乱や操作ミスの原因になります。"
     },
     "revealSeedWords": {
         "message": "シードフレーズを表示"
@@ -1350,16 +1350,16 @@
         "message": "保存"
     },
     "saveAsCsvFile": {
-        "message": "CSV ファイルとして保存"
+        "message": "CSVファイルとして保存"
     },
     "scanInstructions": {
-        "message": "カメラの前に QR コードを配置"
+        "message": "カメラでQRコードを置いてください"
     },
     "scanQrCode": {
-        "message": "QR コードのスキャン"
+        "message": "QRコードのスキャン"
     },
     "scrollDown": {
-        "message": "スクロール ダウン"
+        "message": "下へスクロール"
     },
     "search": {
         "message": "検索"
@@ -1413,7 +1413,7 @@
         "message": "アカウントを1個選択"
     },
     "selectAnAccountHelp": {
-        "message": "MetaMask で表示するアカウントを選択"
+        "message": "MetaMaskで表示するアカウントを選択してください"
     },
     "selectCurrency": {
         "message": "通貨を選択"
@@ -1422,19 +1422,19 @@
         "message": "単語を選択して、各フレーズが正しいことを確認してください。"
     },
     "selectHdPath": {
-        "message": "HD パスの選択"
+        "message": "HDパスの選択"
     },
     "selectLocale": {
         "message": "言語の選択"
     },
     "selectPathHelp": {
-        "message": "既存のレジャーのアカウントが下に表示されない場合は、パスを \"Legacy (MEW / MyCrypto)\" に切り替えます。"
+        "message": "既存のLedgerのアカウントが以下に表示されない場合は、パスを \"Legacy (MEW / MyCrypto)\" に変えてください。"
     },
     "selectType": {
-        "message": "種類の選択"
+        "message": "形式の選択"
     },
     "selectingAllWillAllow": {
-        "message": "すべてを選択すると、このサイトに現在のすべてのアカウントが表示されます。このサイトが信頼できることを確認してください。"
+        "message": "すべてを選択すると、このサイトは現在の全アカウントを見ることができます。サイトが信頼できるか確認してください。"
     },
     "send": {
         "message": "送る"
@@ -1456,7 +1456,7 @@
         "message": "Etherの送金"
     },
     "separateEachWord": {
-        "message": "単語ごとにスペースを 1 つ置いて分離します"
+        "message": "単語ごとに1文字のスペースで分離してください"
     },
     "settings": {
         "message": "設定"
@@ -1486,7 +1486,7 @@
         "message": "オンにすると、Etherscanを使用して、着信トランザクションをトランザクションリストに表示します"
     },
     "showPermissions": {
-        "message": "許可の表示"
+        "message": "権限の表示"
     },
     "showPrivateKeys": {
         "message": "秘密鍵の表示"
@@ -1495,16 +1495,16 @@
         "message": "シードフレーズの表示"
     },
     "sigRequest": {
-        "message": "署名の要求"
+        "message": "署名リクエスト"
     },
     "sign": {
         "message": "署名"
     },
     "signNotice": {
-        "message": "このメッセージに署名すると、\n危険な副次的影響が発生する可能性があります。アカウント全体に対して\n完全に信頼のあるサイトからのメッセージのみに著名してください。\nこの危険な方法は将来のバージョンでは削除されます。"
+        "message": "メッセージへの署名は、アカウント全体に対して危険な副作用を起こす可能性があります。\n完全に信頼できるサイトからのメッセージのみに署名してください。\nこの方法は危険です。将来のバージョンでは削除されます。"
     },
     "signatureRequest": {
-        "message": "署名の要求"
+        "message": "署名リクエスト"
     },
     "signatureRequest1": {
         "message": "メッセージ"
@@ -1522,19 +1522,19 @@
         "message": "高速化"
     },
     "speedUpCancellation": {
-        "message": "このキャンセルの高速化"
+        "message": "キャンセルを高速化"
     },
     "speedUpTransaction": {
-        "message": "このトランザクションの高速化"
+        "message": "トランザクションを高速化"
     },
     "spendLimitAmount": {
         "message": "使用限度額"
     },
     "spendLimitInsufficient": {
-        "message": "使用限度額が十分ではありません"
+        "message": "使用限度額が不十分です"
     },
     "spendLimitInvalid": {
-        "message": "使用限度額が無効です。正の数値を使用する必要があります"
+        "message": "使用限度額が無効です。正の数値をである必要があります"
     },
     "spendLimitPermission": {
         "message": "使用限度額の許可"
@@ -1645,7 +1645,7 @@
         "message": "推定のネットワーク手数料"
     },
     "swapEstimatedNetworkFeeSummary": {
-        "message": "“$1” は予定する実際の手数料です。正確な額はネットワークの状態によって異なります。",
+        "message": "“$1” は現状から予測された手数料です。正確な額はネットワーク状態によって変わります。",
         "description": "$1 will be the translation of swapEstimatedNetworkFee, with the font bolded"
     },
     "swapEstimatedNetworkFees": {
@@ -1655,7 +1655,7 @@
         "message": "これは、スワップを完了するために使用されるネットワーク手数料の推定値です。実際の額はネットワークの状態によって変わる可能性があります。"
     },
     "swapFailedErrorDescription": {
-        "message": "資金はウォレットに安全でるよう可能な状態にあり。"
+        "message": "資金はウォレットに安全で利用可能な状態にあります。"
     },
     "swapFailedErrorTitle": {
         "message": "スワップに失敗しました"
@@ -1694,13 +1694,13 @@
         "message": "トークンのスワップはこちら!"
     },
     "swapLearnMoreContractsAuditReview": {
-        "message": "当社の正式なコントラクト監査のレビュー"
+        "message": "MetaSwapのコントラクト監査のレビュー"
     },
     "swapLowSlippageError": {
         "message": "トランザクションが失敗する可能性があります。最大スリッページが少なすぎます。"
     },
     "swapMaxNetworkFeeInfo": {
-        "message": "“$1” は使用する最大量です。ネットワークが不安定なときは、これは大きな量になることがあります。",
+        "message": " $1 は最大支払額です。ネットワークのボラビリティが高いと、大きな値になることがあります。",
         "description": "$1 will be the translation of swapMaxNetworkFees, with the font bolded"
     },
     "swapMaxNetworkFees": {
@@ -1732,15 +1732,15 @@
         "description": "This message communicates the token that is being transferred. It is shown on the awaiting swap screen. The $1 will be a token symbol."
     },
     "swapPriceDifference": {
-        "message": null,
+        "message": "$1 $2 ($3) を $4 $5 ($6)にスワップします。",
         "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ETH), and $3 and $6 are fiat currency amounts."
     },
     "swapPriceDifferenceTitle": {
-        "message": "価格差は ～$1% です",
+        "message": "価格差は $1% です",
         "description": "$1 is a number (ex: 1.23) that represents the price difference."
     },
     "swapPriceDifferenceTooltip": {
-        "message": null
+        "message": "市場価格の違いは、仲介業者が負担する手数料、市場規模、取引量、または取引価格差の影響を受けることがあります。"
     },
     "swapPriceDifferenceUnavailable": {
         "message": "マーケット価格は利用できません。続行する前に、返金額に問題がないことを確認してください。"
@@ -1759,7 +1759,7 @@
         "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
     },
     "swapQuoteNofN": {
-        "message": "$2 個中の $1 個の見積もり",
+        "message": "$2 個中の $1 個の見積",
         "description": "A count of loaded quotes shown to the user while they are waiting for quotes to be fetched. $1 is the number of quotes already loaded, and $2 is the total number of quotes to load."
     },
     "swapQuoteSource": {
@@ -1814,7 +1814,7 @@
         "message": "流動性ソース"
     },
     "swapSourceInfo": {
-        "message": "最良のレートと最小のネットワーク手数料を探すため、複数の流動性ソース(取引所、アグリゲーター、専門のマーケットメーカー) を検索します。"
+        "message": "最良のレートと最小のネットワーク手数料を探すため、複数の流動性ソース(取引所、アグリゲーター、専門のマーケットメーカー)を検索します。"
     },
     "swapStartSwapping": {
         "message": "スワップの開始"
@@ -1823,7 +1823,7 @@
         "message": "スワップ元"
     },
     "swapSwapSwitch": {
-        "message": "トークンに対する切り替え"
+        "message": "スワップ先と元の交換"
     },
     "swapSwapTo": {
         "message": "スワップ先"
@@ -1865,7 +1865,7 @@
         "message": "詳細オプション"
     },
     "swapsExcessiveSlippageWarning": {
-        "message": "スリッページが大きすぎてレートが悪化しています。スリッページ最大値を15%未満にしてください。"
+        "message": "スリッページが大きすぎてレートが悪化しています。スリッページ最大値を 15% 未満にしてください。"
     },
     "swapsMaxSlippage": {
         "message": "最大スリッページ"
@@ -1935,14 +1935,14 @@
         "message": "ヒント"
     },
     "to": {
-        "message": "送信先"
+        "message": "受信先"
     },
     "toAddress": {
-        "message": "送信先:$1",
+        "message": "受信先:$1",
         "description": "$1 is the address to include in the To label. It is typically shortened first using shortenAddress"
     },
     "toWithColon": {
-        "message": "送信先:$1"
+        "message": "受信先:$1"
     },
     "token": {
         "message": "トークン"
@@ -1966,19 +1966,19 @@
         "message": "トランザクション"
     },
     "transactionCancelAttempted": {
-        "message": "$2でトランザクションのキャンセルを試みました（Gas料金:$1）"
+        "message": "トランザクションのキャンセルをGas料金 $1 で試みました。$2"
     },
     "transactionCancelSuccess": {
-        "message": "$2でトランザクションのキャンセルが成功しました"
+        "message": "トランザクションのキャンセルが成功しました。$2"
     },
     "transactionConfirmed": {
-        "message": "トランザクションは$2で確定しました。"
+        "message": "トランザクションが確定しました。$2"
     },
     "transactionCreated": {
-        "message": "トランザクションは$2で$1の値を作成しました。"
+        "message": "トランザクションは $1 の値を作成しました。$2"
     },
     "transactionDropped": {
-        "message": "トランザクションは$2で削除されました。"
+        "message": "トランザクションは削除されました。$2"
     },
     "transactionError": {
         "message": "トランザクションエラー。コントラクトコードで例外がスローされました。"
@@ -1993,13 +1993,13 @@
         "message": "トランザクション手数料"
     },
     "transactionResubmitted": {
-        "message": "トランザクションを$2で再送信しました。(追加Gas料金:$1)"
+        "message": "トランザクションを追加Gas料金:$1で再送信しました。$2"
     },
     "transactionSubmitted": {
-        "message": "トランザクションが$2で送信されました。（Gas料金$1）"
+        "message": "トランザクションがGas料金 $1 で送信されました。$2"
     },
     "transactionUpdated": {
-        "message": "トランザクションは$2で更新されました。"
+        "message": "トランザクションが更新されました。$2"
     },
     "transfer": {
         "message": "転送"
