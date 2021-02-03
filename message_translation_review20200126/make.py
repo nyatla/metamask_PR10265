@@ -25,7 +25,7 @@ with codecs.open ("messagediff.json",'r','utf-8') as f:
         if v[3] is not None:
             t["description"]=v[3]
         j[i]=t
-    with codecs.open ("message.json",'w','utf-8') as f:
+    with codecs.open ("messages.json",'w','utf-8') as f:
         json.dump(j,f,ensure_ascii=False,indent=4)
     print("created json %d/%d"%(c,len(d)))
     
