@@ -333,7 +333,7 @@
         "承認する",
         "使用限度額の承認",
         null,
-        "仕様限度額の承認"
+        "使用限度額の承認"
     ],
     "approveSpendLimit": [
         "Approve $1 spend limit",

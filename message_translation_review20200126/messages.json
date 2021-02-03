@@ -148,7 +148,7 @@
         "message": "承認のトランザクションGas料金"
     },
     "approve": {
-        "message": "仕様限度額の承認"
+        "message": "使用限度額の承認"
     },
     "approveSpendLimit": {
         "message": "使用限度額 $1 を承認",
