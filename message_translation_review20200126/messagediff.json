@@ -25,7 +25,7 @@
         null,
         "$1 を読んで同意しました",
         "$1 is the `terms` message",
-        "$1の内容を確認し、同意します"
+        "$1 の内容を確認し、同意します"
     ],
     "accessAndSpendNotice": [
         "$1 may access and spend up to this max amount",
@@ -340,7 +340,7 @@
         null,
         "$1 使用限度額の承認",
         "The token symbol that is being approved",
-        "$1使用限度額を承認"
+        "使用限度額 $1 を承認"
     ],
     "approved": [
         "Approved",
@@ -487,7 +487,7 @@
         null,
         "$1 のアカウントを表示",
         "$1 replaced by URL for custom block explorer",
-        "$1のアカウントを表示"
+        "$1 のアカウントを表示"
     ],
     "blockiesIdenticon": [
         "Use Blockies Identicon",
@@ -1005,7 +1005,7 @@
         null,
         "このメッセージは次のエラーによって復号できません。$1",
         "$1 is error message",
-        "エラーのためメッセージを復号できません。$1"
+        "エラーです。メッセージを復号できません:$1"
     ],
     "decryptMessageNotice": [
         "$1 would like to read this message to complete your action",
@@ -1117,7 +1117,7 @@
         null,
         "$1 の接続解除",
         null,
-        "$1を切断"
+        "$1 を切断"
     ],
     "disconnectThisAccount": [
         "Disconnect this account",
@@ -1292,7 +1292,7 @@
         null,
         "エンドポイントが別のチェーン ID を返してきました。$1",
         "$1 is the return value of eth_chainId from an RPC endpoint",
-        "エンドポイントは別のチェーンID:$1を返してきました"
+        "エンドポイントは別のチェーンID:$1 を返してきました"
     ],
     "ensNotFoundOnCurrentNetwork": [
         "ENS name not found on the current network. Try switching to Ethereum Mainnet.",
@@ -1579,7 +1579,7 @@
         null,
         "ガス リミットは $1 以上にする必要があります",
         "$1 is the custom gas limit, in decimal.",
-        "Gasリミットは$1以上にする必要があります"
+        "Gasリミットは $1 以上にする必要があります"
     ],
     "gasPrice": [
         "Gas Price (GWEI)",
@@ -1649,7 +1649,7 @@
         "フォーセットで $1のEtherを得ることができます。",
         "$1 の Faucet から Ether を取得してください",
         "Displays network name for Ether faucet",
-        "$1のFaucetでEtherを得ることができます。"
+        "$1 のFaucetでEtherを得ることができます。"
     ],
     "getHelp": [
         "Get Help.",
@@ -2195,14 +2195,14 @@
         null,
         "$1 は、キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集しません",
         "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'",
-        "$1は、キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集しません"
+        "$1 は、キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集しません"
     ],
     "metametricsCommitmentsNeverSellDataForProfit": [
         "$1 sell data for profit. Ever!",
         null,
         "$1 が営利目的でデータを販売することは決してありません。",
         "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'",
-        "$1が営利目的でデータを販売することは'永遠に'ありません。"
+        "$1 が営利目的でデータを販売することは'永遠に'ありません。"
     ],
     "metametricsCommitmentsSendAnonymizedEvents": [
         "Send anonymized click & pageview events",
@@ -2398,7 +2398,7 @@
         null,
         "ナンスが $1 の提案されたナンスよりも大きいです",
         "The next nonce according to MetaMask's internal logic",
-        "Nonce$1は提案された値より大きいです"
+        "Nonce $1 は提案された値より大きいです"
     ],
     "noAccountsFound": [
         "No accounts found for the given search query",
@@ -3245,7 +3245,7 @@
         null,
         "$1 を送金",
         "Symbol of the specified token",
-        "$1を送る"
+        "$1 を送る"
     ],
     "sendTokens": [
         "Send Tokens",
@@ -3679,7 +3679,7 @@
         null,
         "これは必須であり、$1 をスワップするための MetaMask 許可を付与します。",
         "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps.",
-        "MetaMaskで$1のスワップを許可します。（必須）"
+        "MetaMaskで $1 のスワップを許可します。（必須）"
     ],
     "swapEstimatedNetworkFee": [
         "Estimated network fee",
@@ -3693,7 +3693,7 @@
         null,
         "“$1” は予定する実際の手数料です。正確な額はネットワークの状態によって異なります。",
         "$1 will be the translation of swapEstimatedNetworkFee, with the font bolded",
-        "“$1” は現状から予測された手数料です。正確な額はネットワーク状態によって変わります。"
+        "“$1”は現状から予測された手数料です。正確な額はネットワーク状態によって変わります。"
     ],
     "swapEstimatedNetworkFees": [
         "Estimated network fees",
@@ -3847,7 +3847,7 @@
         null,
         "当社は毎回最上位の流動性のソースから最良の価格を見つけます。$1% の手数料が各見積もりに自動的に組み込まれ、これが MetaMask をさらに改善するための進行中の開発をサポートします。",
         "Provides information about the fee that metamask takes for swaps. $1 is a decimal number.",
-        "MetaMaskは取引毎に最上位の流動性の供給者から最良価格を探します。見積には$1%の手数料が自動的に組み込まれ、MetaMaskの将来の開発をサポートします。"
+        "MetaMaskは取引毎に最上位の流動性の供給者から最良価格を探します。見積には $1% の手数料が自動的に組み込まれ、MetaMaskの将来の開発をサポートします。"
     ],
     "swapNQuotes": [
         "$1 quotes",
@@ -3931,7 +3931,7 @@
         null,
         "見積もりには $1% の MetaMask 手数料が含まれています",
         "Provides information about the fee that metamask takes for swaps. $1 is a decimal number.",
-        "見積には$1%のMetaMask手数料が含まれています"
+        "見積には $1% のMetaMask手数料が含まれています"
     ],
     "swapQuoteNofN": [
         "Quote $1 of $2",
@@ -4351,7 +4351,7 @@
         null,
         "対象:",
         null,
-        "受信先:$1"
+        "受信先:"
     ],
     "token": [
         "Token",
@@ -4512,7 +4512,7 @@
         null,
         "$1 への接続に問題があります。$2 をレビューしてから、もう一度実行してください。",
         "$1 is the wallet device name; $2 is a link to wallet connection guide",
-        "$1への接続に失敗しました。$2を再確認して、もう一度実行してください。"
+        "$1 への接続に失敗しました。 $2 を再確認して、もう一度実行してください。"
     ],
     "troubleTokenBalances": [
         "We had trouble loading your token balances. You can view them ",
@@ -4526,7 +4526,7 @@
         null,
         "このサイトを信頼しますか?許可を与えることにより、$1 は $2 を取り消して、トランザクションを自動化できます。",
         "$1 is the url requesting permission and $2 is the symbol of the currency that the request is for",
-        "このサイトを信頼しますか?許可を与えることにより、$1は$2の支払トランザクションを自動化します。"
+        "このサイトを信頼しますか?許可を与えることにより、$1 は $2 の支払トランザクションを自動化します。"
     ],
     "tryAgain": [
         "Try again",
@@ -4617,7 +4617,7 @@
         null,
         "$1 に更新されました",
         null,
-        "$1に更新しました"
+        "$1 に更新しました"
     ],
     "urlErrorMsg": [
         "URLs require the appropriate HTTP/HTTPS prefix.",
@@ -4666,7 +4666,7 @@
         null,
         "このトークンを $1 で検証",
         "Points the user to etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"etherscan\"",
-        "トークンを$1で検証する"
+        "トークンを $1 で検証する"
     ],
     "viewAccount": [
         "View Account",
@@ -4687,7 +4687,7 @@
         null,
         "$1 に表示",
         null,
-        "$1で表示"
+        "$1 で表示"
     ],
     "viewOnEtherscan": [
         "View on Etherscan",
@@ -4729,7 +4729,7 @@
         null,
         null,
         "$1 is a clickable link.",
-        "このサイトは削除されたwindow.web3 APIを使用します。サイトに問題が発生しているなら、$1で詳細を見ることができます。"
+        "このサイトは削除されたwindow.web3 APIを使用します。サイトに問題が発生しているなら、$1 で詳細を見ることができます。"
     ],
     "welcome": [
         "Welcome to MetaMask",

@@ -9,7 +9,7 @@
         "message": "* より高いGas料金を支払うと、トランザクションはより早くネットワークで処理される可能性が高くなります。ただし、これは常に保証されるとは限りません。"
     },
     "acceptTermsOfUse": {
-        "message": "$1の内容を確認し、同意します",
+        "message": "$1 の内容を確認し、同意します",
         "description": "$1 is the `terms` message"
     },
     "accessAndSpendNotice": {
@@ -151,7 +151,7 @@
         "message": "仕様限度額の承認"
     },
     "approveSpendLimit": {
-        "message": "$1使用限度額を承認",
+        "message": "使用限度額 $1 を承認",
         "description": "The token symbol that is being approved"
     },
     "approved": {
@@ -215,7 +215,7 @@
         "message": "ブロックエクスプローラ"
     },
     "blockExplorerView": {
-        "message": "$1のアカウントを表示",
+        "message": "$1 のアカウントを表示",
         "description": "$1 replaced by URL for custom block explorer"
     },
     "blockiesIdenticon": {
@@ -446,7 +446,7 @@
         "message": "暗号化したメッセージをコピー"
     },
     "decryptInlineError": {
-        "message": "エラーのためメッセージを復号できません。$1",
+        "message": "エラーです。メッセージを復号できません: $1",
         "description": "$1 is error message"
     },
     "decryptMessageNotice": {
@@ -496,7 +496,7 @@
         "message": "本当に切断しますか?サイトの機能を失う可能性があります。"
     },
     "disconnectPrompt": {
-        "message": "$1を切断"
+        "message": "$1 を切断"
     },
     "disconnectThisAccount": {
         "message": "このアカウントを切断"
@@ -572,7 +572,7 @@
         "message": "詳細を表示。"
     },
     "endpointReturnedDifferentChainId": {
-        "message": "エンドポイントは別のチェーンID:$1を返してきました",
+        "message": "エンドポイントは別のチェーンID: $1 を返してきました",
         "description": "$1 is the return value of eth_chainId from an RPC endpoint"
     },
     "ensNotFoundOnCurrentNetwork": {
@@ -594,7 +594,7 @@
         "message": "続行するには、パスワードを入力してください"
     },
     "errorCode": {
-        "message": "コード:$1",
+        "message": "コード: $1",
         "description": "Displayed error code for debugging purposes. $1 is the error code"
     },
     "errorDetails": {
@@ -602,11 +602,11 @@
         "description": "Title for collapsible section that displays error details for debugging purposes"
     },
     "errorMessage": {
-        "message": "メッセージ:$1",
+        "message": "メッセージ: $1",
         "description": "Displayed error message for debugging purposes. $1 is the error message"
     },
     "errorName": {
-        "message": "エラー名:$1",
+        "message": "エラー名: $1",
         "description": "Displayed error name for debugging purposes. $1 is the error name"
     },
     "errorPageMessage": {
@@ -690,7 +690,7 @@
         "message": "送信元"
     },
     "fromAddress": {
-        "message": "送信元:$1",
+        "message": "送信元: $1",
         "description": "$1 is the address to include in the From label. It is typically shortened first using shortenAddress"
     },
     "functionApprove": {
@@ -709,7 +709,7 @@
         "message": "Gasリミットは21000以上にする必要があります"
     },
     "gasLimitTooLowWithDynamicFee": {
-        "message": "Gasリミットは$1以上にする必要があります",
+        "message": "Gasリミットは $1 以上にする必要があります",
         "description": "$1 is the custom gas limit, in decimal."
     },
     "gasPrice": {
@@ -725,7 +725,7 @@
         "message": "Gas使用量"
     },
     "gdprMessage": {
-        "message": "このデータは、一般データ保護規則 (EU) (規則 2016/679) のため、匿名で収集されます。個人情報の取り扱いに関する詳細については、$1 をご覧ください。",
+        "message": "このデータは、General Data Protection Regulation (EU) 2016/679 のため、匿名で収集されます。個人情報の取り扱いに関する詳細については、$1 をご覧ください。",
         "description": "$1 refers to the gdprMessagePrivacyPolicy message, the translation of which is meant to be used exclusively in the context of gdprMessage"
     },
     "gdprMessagePrivacyPolicy": {
@@ -742,7 +742,7 @@
         "message": "Etherを取得する"
     },
     "getEtherFromFaucet": {
-        "message": "$1のFaucetでEtherを得ることができます。",
+        "message": "$1 のFaucetでEtherを得ることができます。",
         "description": "Displays network name for Ether faucet"
     },
     "getHelp": {
@@ -960,7 +960,7 @@
         "message": "接続しているアカウントを管理するにはクリックしてください。"
     },
     "metaMaskConnectStatusParagraphTwo": {
-        "message": "訪問中のWebサイトが現在選択しているアカウントに接続されている場合、接続ステータスボタンが表示されます。"
+        "message": "現在選択しているアカウントが訪問中のWebサイトに接続されている場合、接続ステータスボタンが表示されます。"
     },
     "metamaskDescription": {
         "message": "Ethereumの分散型Webに接続しています。"
@@ -986,11 +986,11 @@
         "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
     },
     "metametricsCommitmentsNeverCollectKeysEtc": {
-        "message": "$1は、キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集しません",
+        "message": "$1 は、キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集しません",
         "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
     },
     "metametricsCommitmentsNeverSellDataForProfit": {
-        "message": "$1が営利目的でデータを販売することは'永遠に'ありません。",
+        "message": "$1 が営利目的でデータを販売することは'永遠に'ありません。",
         "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
     },
     "metametricsCommitmentsSendAnonymizedEvents": {
@@ -1062,7 +1062,7 @@
         "message": "新しいネットワーク"
     },
     "newPassword": {
-        "message": "新しいパスワード(最低 8 文字)"
+        "message": "新しいパスワード(最低 8文字)"
     },
     "newToMetaMask": {
         "message": "MetaMaskは初めてですか?"
@@ -1077,7 +1077,7 @@
         "message": "次へ"
     },
     "nextNonceWarning": {
-        "message": "Nonce$1は提案された値より大きいです",
+        "message": "Nonce $1 は提案された値より大きいです",
         "description": "The next nonce according to MetaMask's internal logic"
     },
     "noAccountsFound": {
@@ -1259,7 +1259,7 @@
         "message": "受取アドレス"
     },
     "recipientAddressPlaceholder": {
-        "message": "パブリックアドレス(0x)、または ENSを検索"
+        "message": "パブリックアドレス(0x)、またはENSを検索"
     },
     "reject": {
         "message": "拒否"
@@ -1268,10 +1268,10 @@
         "message": "すべて拒否"
     },
     "rejectTxsDescription": {
-        "message": "$1 個のトランザクションを一括拒否しようとしています。"
+        "message": "$1個のトランザクションを一括拒否しようとしています。"
     },
     "rejectTxsN": {
-        "message": "$1 個のトランザクションを拒否"
+        "message": "$1個のトランザクションを拒否"
     },
     "rejected": {
         "message": "拒否しました"
@@ -1446,7 +1446,7 @@
         "message": "ETHの送金"
     },
     "sendSpecifiedTokens": {
-        "message": "$1を送る",
+        "message": "$1 を送る",
         "description": "Symbol of the specified token"
     },
     "sendTokens": {
@@ -1638,14 +1638,14 @@
         "message": "限度額の変更"
     },
     "swapEnableDescription": {
-        "message": "MetaMaskで$1のスワップを許可します。（必須）",
+        "message": "MetaMaskで $1 のスワップを許可します。（必須）",
         "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
     },
     "swapEstimatedNetworkFee": {
         "message": "推定のネットワーク手数料"
     },
     "swapEstimatedNetworkFeeSummary": {
-        "message": "“$1” は現状から予測された手数料です。正確な額はネットワーク状態によって変わります。",
+        "message": "“$1”は現状から予測された手数料です。正確な額はネットワーク状態によって変わります。",
         "description": "$1 will be the translation of swapEstimatedNetworkFee, with the font bolded"
     },
     "swapEstimatedNetworkFees": {
@@ -1713,7 +1713,7 @@
         "message": "MetaMask手数料"
     },
     "swapMetaMaskFeeDescription": {
-        "message": "MetaMaskは取引毎に最上位の流動性の供給者から最良価格を探します。見積には$1%の手数料が自動的に組み込まれ、MetaMaskの将来の開発をサポートします。",
+        "message": "MetaMaskは取引毎に最上位の流動性の供給者から最良価格を探します。見積には $1% の手数料が自動的に組み込まれ、MetaMaskの将来の開発をサポートします。",
         "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
     },
     "swapNQuotes": {
@@ -1755,11 +1755,11 @@
         "message": "注文した時点と注文が承認された時点で価格が変わることを\"スリッページ\"と呼びます。スリッページが\"最大スリッページ\"設定を超える場合、スワップは自動的にキャンセルされます。"
     },
     "swapQuoteIncludesRate": {
-        "message": "見積には$1%のMetaMask手数料が含まれています",
+        "message": "見積には $1%のMetaMask手数料が含まれています",
         "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
     },
     "swapQuoteNofN": {
-        "message": "$2 個中の $1 個の見積",
+        "message": "$2個中の $1個の見積",
         "description": "A count of loaded quotes shown to the user while they are waiting for quotes to be fetched. $1 is the number of quotes already loaded, and $2 is the total number of quotes to load."
     },
     "swapQuoteSource": {
@@ -1938,11 +1938,11 @@
         "message": "受信先"
     },
     "toAddress": {
-        "message": "受信先:$1",
+        "message": "受信先: $1",
         "description": "$1 is the address to include in the To label. It is typically shortened first using shortenAddress"
     },
     "toWithColon": {
-        "message": "受信先:$1"
+        "message": "受信先: $1"
     },
     "token": {
         "message": "トークン"
@@ -1993,7 +1993,7 @@
         "message": "トランザクション手数料"
     },
     "transactionResubmitted": {
-        "message": "トランザクションを追加Gas料金:$1で再送信しました。$2"
+        "message": "トランザクションを追加Gas料金: $1 で再送信しました。$2"
     },
     "transactionSubmitted": {
         "message": "トランザクションがGas料金 $1 で送信されました。$2"
@@ -2011,7 +2011,7 @@
         "message": "転送元"
     },
     "troubleConnectingToWallet": {
-        "message": "$1への接続に失敗しました。$2を再確認して、もう一度実行してください。",
+        "message": "$1 への接続に失敗しました。 $2 を再確認して、もう一度実行してください。",
         "description": "$1 is the wallet device name; $2 is a link to wallet connection guide"
     },
     "troubleTokenBalances": {
@@ -2019,7 +2019,7 @@
         "description": "Followed by a link (here) to view token balances"
     },
     "trustSiteApprovePermission": {
-        "message": "このサイトを信頼しますか?許可を与えることにより、$1は$2の支払トランザクションを自動化します。",
+        "message": "このサイトを信頼しますか?許可を与えることにより、$1 は $2 の支払トランザクションを自動化します。",
         "description": "$1 is the url requesting permission and $2 is the symbol of the currency that the request is for"
     },
     "tryAgain": {
@@ -2059,7 +2059,7 @@
         "message": "分散型Webが待っています"
     },
     "updatedWithDate": {
-        "message": "$1に更新しました"
+        "message": "$1 に更新しました"
     },
     "urlErrorMsg": {
         "message": "URLには適切なHTTP/HTTPSプレフィックスが必要です。"
@@ -2080,7 +2080,7 @@
         "message": "ユーザー名"
     },
     "verifyThisTokenOn": {
-        "message": "トークンを$1で検証する",
+        "message": "トークンを $1 で検証する",
         "description": "Points the user to etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"etherscan\""
     },
     "viewAccount": {
@@ -2090,7 +2090,7 @@
         "message": "連絡先を表示"
     },
     "viewOnCustomBlockExplorer": {
-        "message": "$1で表示"
+        "message": "$1 で表示"
     },
     "viewOnEtherscan": {
         "message": "Etherscanで表示"
@@ -2108,7 +2108,7 @@
         "message": "シードフレーズ"
     },
     "web3ShimUsageNotification": {
-        "message": "このサイトは削除されたwindow.web3 APIを使用します。サイトに問題が発生しているなら、$1で詳細を見ることができます。",
+        "message": "このサイトは削除されたwindow.web3 APIを使用します。サイトに問題が発生しているなら、$1 で詳細を見ることができます。",
         "description": "$1 is a clickable link."
     },
     "welcome": {
