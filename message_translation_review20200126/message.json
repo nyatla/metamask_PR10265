@@ -1157,7 +1157,7 @@
         "message": "Trezor又はLedgerを注文して資金をコールドストレージに保管できます"
     },
     "origin": {
-        "message": "Origin"
+        "message": "要求元"
     },
     "parameters": {
         "message": "パラメータ"
@@ -2138,9 +2138,6 @@
     },
     "yourPrivateSeedPhrase": {
         "message": "秘密のシードフレーズ"
-    },
-    "yourSigRequested": {
-        "message": "あなたの署名が要求されています"
     },
     "zeroGasPriceOnSpeedUpError": {
         "message": "追加のGas価格を0にできません"

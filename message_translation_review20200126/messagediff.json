@@ -2580,7 +2580,7 @@
         null,
         "起点",
         null,
-        "Origin"
+        "要求元"
     ],
     "parameters": [
         "Parameters",
@@ -4793,13 +4793,6 @@
         "秘密のシード フレーズ",
         null,
         "秘密のシードフレーズ"
-    ],
-    "yourSigRequested": [
-        "Your signature is being requested",
-        "あなたの署名がリクエストされています。",
-        "署名が要求されています",
-        null,
-        "あなたの署名が要求されています"
     ],
     "zeroGasPriceOnSpeedUpError": [
         "Zero gas price on speed up",
